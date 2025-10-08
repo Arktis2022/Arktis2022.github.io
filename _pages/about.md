@@ -521,12 +521,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - *2019.09 – 2021.08*, Undergraduate student: **Department of Chemical Engineering**, Tsinghua University, China.
 
 # 🦜 Invited Talks
-- *2025* **2025 Perinatal, Preterm and Paediatric Image Analysis (PIPPI)**
-- *2024* **2024 Annual Meeting of Radiological Society of North America (RSNA)**
-- *2024* **2024 ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)**
-- *2023* **AI Health Summit 2023**
-- *2023* **2023 IEEE International Symposium on Circuits and Systems (ISCAS)**
-- *2022* **2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)**
+- *2025* **2025 Perinatal, Preterm and Paediatric Image Analysis (PIPPI)** [Slides](https://drive.google.com/file/d/1TqsbKEgtEncdmPOLj9SEu5VSDl93JYhE/view?usp=sharing)
+- *2024* **2024 Annual Meeting of Radiological Society of North America (RSNA)** [Slides](https://drive.google.com/file/d/1hlm_mN9PHqESGGoi8Leza0BJjlYYiEXW/view?usp=sharing)
+- *2024* **2024 ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)** [Slides](https://drive.google.com/file/d/10SDrVys-hjzbKhKGVHmTuwDiKJMWc1bm/view?usp=sharing)
+- *2023* **AI Health Summit 2023** [Slides](https://drive.google.com/file/d/1KyM7mMnvgtCK5bdyR1nTItZZwuh1rvxp/view?usp=sharing)
+- *2023* **2023 IEEE International Symposium on Circuits and Systems (ISCAS)** [Slides](https://drive.google.com/file/d/17mfjEbcE8I3G1Xjeu2GkwPS5WB5TJruq/view?usp=sharing)
+- *2022* **2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)** [Slides](https://drive.google.com/file/d/1-6_6UtHRDhAlHtSXjJH1kXoZ6Si4hL_j/view?usp=sharing)
 
 # 💰 Funding
 - *2023-2024* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program**
