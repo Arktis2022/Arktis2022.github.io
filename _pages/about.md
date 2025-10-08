@@ -31,7 +31,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 # 📻 News
 **2025.10.05:** 🎉🎉 Two papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/).
 
-**2025.09.27:** 🎉🎉 Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
+**2025.09.27:** 🎉🎉 Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://pippiworkshop.github.io/images/SK_group.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
 
 **2025.09.07:** Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
 
@@ -521,11 +521,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - *2019.09 – 2021.08*, Undergraduate student: **Department of Chemical Engineering**, Tsinghua University, China.
 
 # 🦜 Invited Talks
-- *2024* **2024 Annual Meeting of Radiological Society of North America**
-- *2024* **2024 ISMRM & ISMRT Annual Meeting & Exhibition**
+- *2025* **2025 Perinatal, Preterm and Paediatric Image Analysis (PIPPI)**
+- *2024* **2024 Annual Meeting of Radiological Society of North America (RSNA)**
+- *2024* **2024 ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)**
 - *2023* **AI Health Summit 2023**
-- *2023* **2023 IEEE International Symposium on Circuits and Systems**
-- *2022* **2022 IEEE Biomedical Circuits and Systems Conference**
+- *2023* **2023 IEEE International Symposium on Circuits and Systems (ISCAS)**
+- *2022* **2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)**
 
 # 💰 Funding
 - *2023-2024* **Beijing Natural Science Foundation Undergraduate "Qiyan" Program**
@@ -537,7 +538,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 + *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025; BMVC 2025; ICML Workshop (PUT).
   
 # 🎣 Activities
-- *2025.09.27*, Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://drive.google.com/file/d/1A1G9QYDK2-QOE9CVkQEUfxiugFdHOoDg/view?usp=sharing) [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
+- *2025.09.27*, Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://pippiworkshop.github.io/images/SK_group.jpg) [Photo](https://drive.google.com/file/d/1A1G9QYDK2-QOE9CVkQEUfxiugFdHOoDg/view?usp=sharing) [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
 - *2025.09.09*, Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
 - *2025.07.20*, Attended the MICS 2025 in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
 - *2025.07.12*, Attended the MIDL 2025 in Salt Lake City. [Poster 1](https://img.erpweb.eu.org/imgs/2025/07/4b259b65d2f2aac4.jpg) [Poster 2](https://img.erpweb.eu.org/imgs/2025/07/05eb1e100e3276de.jpg) [Poster 3](https://img.erpweb.eu.org/imgs/2025/07/db2b16ac2793902d.jpg) [Poster 4](https://img.erpweb.eu.org/imgs/2025/07/6fe4c28affbf135e.jpg) 
