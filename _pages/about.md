@@ -489,7 +489,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   <li id="MA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">Beyond hospital reach: Autonomous lightweight ultrasound robot for liver sonography</span> <br>
     Zihan Li#, Yixiao Xu#, Lei Zhang, Taiyu Han, Xinshan Yang, Yingni Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Shenghai Xin, Linxun Liu, Hongen Liao*, Guochen Ning*<br>
-   <i>Science Robotics <strong>(SR). </strong></i> 2025. (Under Review)
+   <i>Science Advance <strong>(SA). </strong></i> 2025. (Under Review)
   </li>
   
 </ol>
