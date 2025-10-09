@@ -535,7 +535,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 # 🎓 Academic Service
 + Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/)
 + *Journal Reviewer*, EAAI; Neural Networks; Neurocomputing; IEEE TCDS; IEEE TCAS-I; IEEE TCAS-II; IEEE TIP; Applied Intelligence.
-+ *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025; BMVC 2025; ICML Workshop (PUT).
++ *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025; BMVC 2025; ICML Workshop (PUT); AAAI 2026 Workshop (XAI4Science); ICASSP 2026.
   
 # 🎣 Activities
 - *2025.09.27*, Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://pippiworkshop.github.io/images/SK_group.jpg) [Photo](https://drive.google.com/file/d/1A1G9QYDK2-QOE9CVkQEUfxiugFdHOoDg/view?usp=sharing) [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
