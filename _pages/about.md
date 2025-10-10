@@ -444,17 +444,6 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <i>Radiology: Artificial Intelligence <strong>(RAI). </strong></i> 2025. (Under Review)
   </li>
 
-  <li id="MA-Pub2"> 
-    <span style="color:#000000; font-weight:bold;">Automated Reconstruction and Segmentation of Isotropic-Resolution Fetal Body MRI Data for Quantitative Hydronephrosis Analysis</span> <br>
-    Junwei Huang, Haoxiang Li, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yijin Li, Yi Liao, Fenglin Jia, Junchen Zhu, Haibo Qu, Qiyuan Tian*<br> 
-    <i>The ISMRM Workshop on Unlocking the Potential of Prenatal MRI</i>. 2025. (Under Review)
-  </li>
-  
-  <li id="MA-Pub0"> 
-    <span style="color:#000000; font-weight:bold;">Why Temporal Normalization is Essential for Remote Photoplethysmography?</span> <br>
-    Kegang Wang, Jiankai Tang, Yantao Wei, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xin Liu, Yuntao Wang*<br> 
-    <i>Annual AAAI Conference on Artificial Intelligence <strong>(AAAI). </strong></i> 2026. (Under Review)
-  </li>
 
   <li id="MA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">An incredibly simple real-time method without CNN for red tongue tip classification</span> <br>
