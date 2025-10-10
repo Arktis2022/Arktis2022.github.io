@@ -29,6 +29,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
+**2025.10.10:** 🎉🎉 One abstract accepted by [BEIHAI Summit 2025](https://www.medcircle.cn/meeting/index/2025bs).
+
 **2025.10.05:** 🎉🎉 Two papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/).
 
 **2025.09.27:** 🎉🎉 Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://pippiworkshop.github.io/images/SK_group.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
@@ -267,24 +269,31 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 <ol reversed>
   <li id="CA-Pub0">
+    <span style="color:#000000; font-weight:bold;">From Free Text to Usable Labels: Privacy-Ensuring Open-weights LLM-Enhanced Clinical Report Extraction for Fetal MRI</span> <br>
+    <a href="https://github.com/Arktis2022/Arktis2022.github.io/blob/main/_data/FetalExtract-LLM.pdf">[Paper]</a> <br>
+    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yijin Li#, Juncheng Zhu#, Hongjia Yang, Yiming Huang, Haoxiang Li, Yifei Chen, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian*<br> 
+    <i>Beijing-Tsinghua Health AI Summit <strong>(BEIHAI). </strong></i> 2025. (Poster)
+  </li>
+  
+  <li id="CA-Pub0">
     <span style="color:#000000; font-weight:bold;">HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure brain Imaging using Deep learning</span> <br>
-    Yuhang He, Jialan Zheng, Hongjia Yang, Yifei Chen, Zihan Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Qiuyun Fan, Yi Liao, Haibo Qu, Qiyuan Tian, Jie Lu, Ziyu Li*<br>
     <a href="https://github.com/Arktis2022/Arktis2022.github.io/blob/main/_data/RSNA2025_HeYuhang_Final.pdf">[Paper]</a> <br>
+    Yuhang He, Jialan Zheng, Hongjia Yang, Yifei Chen, Zihan Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Qiuyun Fan, Yi Liao, Haibo Qu, Qiyuan Tian, Jie Lu, Ziyu Li*<br>
     <i>Annual Meeting of Radiological Society of North America <strong>(RSNA). </strong></i> 2025. (Poster)
   </li>
 
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty</span> <br>
-    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Zihan Li, Hongjia Yang, Jialan Zheng, Haibo Qu, Qiyuan Tian*<br>
     <a href="https://hal.science/hal-04974115">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Zihan Li, Hongjia Yang, Jialan Zheng, Haibo Qu, Qiyuan Tian*<br>
     <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster, OHBM Merit Abstract Award)
   </li>
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder (&#x3C9;-DAE)</span> <br>
-    Yingqi Hao, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Juncheng Zhu, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
     <a href="https://hal.science/hal-04974207">[Paper]</a> <br> 
+    Yingqi Hao, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Juncheng Zhu, Hongjia Yang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
     <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster)
   </li>
 
@@ -297,57 +306,57 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">FreeHemoSeg: Label-Free Deep Learning Framework for Automated Segmentation of Fetal Brain Germinal Matrix and Intraventricular Hemorrhage</span> <br>
-    <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Zhu J, Li H, Yang H, Zheng J, Li ZH, Li ZY, Qu H, Tian Q*<br>
     <a href="https://archive.ismrm.org/2025/3790_Ym89lJRZe.html">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Zhu J, Li H, Yang H, Zheng J, Li ZH, Li ZY, Qu H, Tian Q*<br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">FetalSR: Super-resolving High-isotropic-resolution Image Volume from Single Thick-slice Stack with Deep Learning for Fetal Brain Morphometry</span> <br>
-    Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Li H, Zhu J, Li Z, Zhang J, Zheng J, Li Z, Qu H, Tian Q*<br>
     <a href="https://archive.ismrm.org/2025/0015_TonEG7RQy.html">[Paper]</a> <br> 
+    Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Li H, Zhu J, Li Z, Zhang J, Zheng J, Li Z, Qu H, Tian Q*<br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, ISMRM Summa Cum Laude Merit Award, TOP 5%)
   </li>
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">CortexKAN: Multi-input KAN for fetal cortical surface reconstruction</span> <br>
-     Li H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Zhu J, Zheng J, Yang H, Li Z, Qu H, Tian Q*<br>
     <a href="https://archive.ismrm.org/2025/3792_9U0wArSPu.html">[Paper]</a> <br> 
+    Li H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Liao Y, Zhu J, Zheng J, Yang H, Li Z, Qu H, Tian Q*<br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">FetalSFUDA: Source-Free Unsupervised Domain Adaptation for Fetal Brain Extraction from Different Centers or MRI Sequences</span> <br>
-      Li Y, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Zhu J, Yang H, Zheng J, Li Z, Liao Y, Qu H, Tian Q*<br>
     <a href="https://archive.ismrm.org/2025/3788_5TdJkERAZ.html">[Paper]</a> <br> 
+    Li Y, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Zhu J, Yang H, Zheng J, Li Z, Liao Y, Qu H, Tian Q*<br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Negative Impacts of Germinal Matrix-Ventricular Hemorrhage on Prenatal and Postnatal Brain Development</span> <br>
-     Li H, Liao Y, Zhu J, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Zheng J, Yang H, Li Z, Li Z, Tian Q, Qu H*<br>
     <a href="https://archive.ismrm.org/2025/3798_4AGubBRaV.html">[Paper]</a> <br> 
+     Li H, Liao Y, Zhu J, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Zheng J, Yang H, Li Z, Li Z, Tian Q, Qu H*<br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster, ISMRM Summa Cum Laude Merit Award, TOP 5%)
   </li>
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling</span> <br>
-    Chen Y, Li Z, Wang Y, Li Z, Zheng J, Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Tian Q*<br>
     <a href="https://archive.ismrm.org/2025/3848_PtzrNzQlO.html">[Paper]</a> <br> 
+    Chen Y, Li Z, Wang Y, Li Z, Zheng J, Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Tian Q*<br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster)
   </li>
 
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">DeepEddy: high-quality fast eddy current and bulk motion correction using deep learning-based image synthesis and co-registration</span> <br>
-    Zhang J, Lange F, Andersson J, Zheng J, Jing Y, Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Li Z, Wu W, Tian Q, Li Z*<br>
     <a href="https://archive.ismrm.org/2025/0746_AFLFshRcJ.html">[Paper]</a> <br> 
+    Zhang J, Lange F, Andersson J, Zheng J, Jing Y, Yang H, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Li Z, Wu W, Tian Q, Li Z*<br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Presentation, Magna Cum Laude Merit Award, Top 15%)
   </li>
   
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">DIMOND++: Improving diffusion model optimization using diffusion priors</span> <br>
-    Li Z, Zheng J, Li Z, Wang Z, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Ning G, Liao H, Tian Q*<br>
     <a href="https://archive.ismrm.org/2025/0713_aKJB4DQl1.html">[Paper]</a> <br> 
+    Li Z, Zheng J, Li Z, Wang Z, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Ning G, Liao H, Tian Q*<br>
     <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%)
   </li>
 
@@ -425,7 +434,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning</span> <br>
     <a href="https://hal.science/hal-04961169/">[Paper]</a>  <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Haibo Qu, Qiyuan Tian* <br>
-    <i>AI Health Summit. </i> 2023. (Top3 prize, Top 3%)
+    <i>Singapore AI Health Summit </i> 2023. (Top3 prize, Top 3%)
   </li>
 </ol>
 
