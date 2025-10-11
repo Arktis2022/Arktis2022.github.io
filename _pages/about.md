@@ -29,6 +29,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
+**2025.10.11:** Attended the [ISICDM 2025](https://www.imagecomputing.org/isicdm2025/#/) in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2025/10/ee24d70b7a719779.jpg)
+
 **2025.10.10:** 🎉🎉 Two abstracts accepted by [BEIHAI Summit 2025](https://www.medcircle.cn/meeting/index/2025bs).
 
 **2025.10.05:** 🎉🎉 Two papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/).
@@ -45,7 +47,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **2025.07.22:** 🎉🎉 Our work about [Chest CT Foundation Model](https://openreview.net/forum?id=ns6nq592HX#discussion) Awarded [the 1st prize](https://img.erpweb.eu.org/imgs/2025/07/126d96158b08e1d8.jpg) at the 10th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%).
 
-**2025.07.20:** Attended the MICS 2025 in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
+**2025.07.20:** Attended the [MICS 2025](http://mics2025.com/) in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
 
 **2025.07.17:** 🎉🎉 Our paper addressed [Structured Information Extraction](https://arktis2022.github.io/) has been accepted by [PIPPI 2025](https://pippiworkshop.github.io/).
 
@@ -543,9 +545,10 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 + *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025; BMVC 2025; ICML Workshop (PUT); AAAI 2026 Workshop (XAI4Science); ICASSP 2026.
   
 # 🎣 Activities
+- *2025.10.11*, Attended the [ISICDM 2025](https://www.imagecomputing.org/isicdm2025/#/) in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2025/10/ee24d70b7a719779.jpg)
 - *2025.09.27*, Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://pippiworkshop.github.io/images/SK_group.jpg) [Photo](https://drive.google.com/file/d/1A1G9QYDK2-QOE9CVkQEUfxiugFdHOoDg/view?usp=sharing) [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
 - *2025.09.09*, Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
-- *2025.07.20*, Attended the MICS 2025 in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
+- *2025.07.20*, Attended the [MICS 2025](http://mics2025.com/) in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
 - *2025.07.12*, Attended the MIDL 2025 in Salt Lake City. [Poster 1](https://img.erpweb.eu.org/imgs/2025/07/4b259b65d2f2aac4.jpg) [Poster 2](https://img.erpweb.eu.org/imgs/2025/07/05eb1e100e3276de.jpg) [Poster 3](https://img.erpweb.eu.org/imgs/2025/07/db2b16ac2793902d.jpg) [Poster 4](https://img.erpweb.eu.org/imgs/2025/07/6fe4c28affbf135e.jpg) 
 - *2025.06.27*, Attended the OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing) 
 - *2025.05.14*, Attended the ISMRM 2025 in Honolulu. [Photo](https://img.erpweb.eu.org/imgs/2025/05/941fb8c0aba1c7ab.jpg)
