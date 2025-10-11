@@ -29,7 +29,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
-**2025.10.10:** 🎉🎉 One abstract accepted by [BEIHAI Summit 2025](https://www.medcircle.cn/meeting/index/2025bs).
+**2025.10.10:** 🎉🎉 Two abstracts accepted by [BEIHAI Summit 2025](https://www.medcircle.cn/meeting/index/2025bs).
 
 **2025.10.05:** 🎉🎉 Two papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/).
 
@@ -268,6 +268,13 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <h2 id="CONFERENCE ABSTRACTS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">CONFERENCE ABSTRACTS</h2>
 
 <ol reversed>
+    <li id="CA-Pub0">
+    <span style="color:#000000; font-weight:bold;">Machine Learning and Deep Learning for Pediatric and Adolescent Myopia Prediction</span> <br>
+    <a href="https://github.com/Arktis2022/Arktis2022.github.io/blob/main/_data/Machine%20Learning%20and%20Deep%20Learning%20for%20Pediatric%20and%20Adolescent%20Myopia%20Prediction.pdf">[Paper]</a> <br>
+    Yitong Zhang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Ying Wu, Lijun Zhang, Caixia Chai, Zhengyuan Liu, Qiyuan Tian*<br> 
+    <i>Beijing-Tsinghua Health AI Summit <strong>(BEIHAI). </strong></i> 2025. (Poster)
+  </li>
+  
   <li id="CA-Pub0">
     <span style="color:#000000; font-weight:bold;">From Free Text to Usable Labels: Privacy-Ensuring Open-weights LLM-Enhanced Clinical Report Extraction for Fetal MRI</span> <br>
     <a href="https://github.com/Arktis2022/Arktis2022.github.io/blob/main/_data/FetalExtract-LLM.pdf">[Paper]</a> <br>
