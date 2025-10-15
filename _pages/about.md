@@ -35,7 +35,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **2025.10.05:** 🎉🎉 Two papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/).
 
-**2025.09.27:** 🎉🎉 Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://pippiworkshop.github.io/images/SK_group.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
+**2025.09.27:** 🎉🎉 Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI [VLM3D Challenge](https://vlm3dchallenge.com/) and 1st place in the [autoPET IV Challenge](https://www.autopet.org/autopetiv.html); delivered an oral presentation at the [PIPPI Workshop](https://pippiworkshop.github.io/). [Photo](https://pippiworkshop.github.io/images/SK_group.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
 
 **2025.09.07:** Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
 
@@ -503,8 +503,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 # 🎖 Honors and Awards
 - [[Certificate]](https://arktis2022.github.io/) *2025* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) *2025* **MICCAI 2025 autoPET IV Challenge 1st Place Winner**
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) *2025* **MICCAI 2025 VLM3D Challenge 2nd Place Winner**
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) *2025* **MICCAI 2025 [autoPET IV Challenge](https://www.autopet.org/autopetiv.html) 1st Place Winner**
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) *2025* **MICCAI 2025 [VLM3D Challenge](https://vlm3dchallenge.com/challenges/) 2nd Place Winner**
 - [[Certificate]](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing) *2025* **2025 OHBM: Merit Abstract Award**
 - [[Certificate]](https://arktis2022.github.io/) *2025* **2025 ISMRM: Educational Stipend Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/03/735b20353752c284.jpg) *2024* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
