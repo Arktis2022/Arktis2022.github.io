@@ -1,4 +1,4 @@
----
+'---
 permalink: /
 title: ""
 author_profile: true
@@ -502,6 +502,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 </ol>
 
 # 🎖 Honors and Awards
+- [[Certificate]](https://arktis2022.github.io/) *2025* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) *2025* **MICCAI 2025 autoPET IV Challenge 1st Place Winner**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) *2025* **MICCAI 2025 VLM3D Challenge 2nd Place Winner**
 - [[Certificate]](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing) *2025* **2025 OHBM: Merit Abstract Award**
