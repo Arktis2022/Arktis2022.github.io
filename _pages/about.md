@@ -515,7 +515,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - [[Certificate]](https://mp.weixin.qq.com/s/Oy85Q203XVaCIvwvRs9wfA) *2024* **Second Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; *Image Deblurring System Driven by Multimodal Data Augmentation*
 - [[Certificate]](https://mp.weixin.qq.com/s/Oy85Q203XVaCIvwvRs9wfA) *2024* **Third Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; *Automated Fetal MRI Image Processing and Anomaly Detection*
 - [[Certificate]](https://arktis2022.github.io/) *2024* **ISMRM Educational Stipend Award**
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/12/0b64f5dd23685207.jpg) *2024* **2024 ICCBD+AI Best Paper Award**
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/12/0b64f5dd23685207.jpg) *2024* **ICCBD+AI Best Paper Award**
 - [[Certificate]](https://drive.google.com/file/d/1cU2tnJj8JOOTCZ_vtkRteFXC2zJ6tE_s/view?usp=sharing) *2023* **Top3 Prize in [Singapore Al Health Summit 2023 Poster Competition](https://healthsummit.ai/main/abstracts/)**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/03/1646fe4986f106aa.jpg) *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/3725764c812767de.jpg) *2022* **Scholarship for Academic Excellence**, Tsinghua University 
