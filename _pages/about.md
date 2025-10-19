@@ -55,7 +55,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **2025.06.27:** Attended the OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing)
   
-**2025.05.24:** 🎉🎉 Awarded **[2025 OHBM Merit Abstract Award](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing)** !
+**2025.05.24:** 🎉🎉 Awarded **[2025 OHBM Merit Abstract Award](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing)** (Top 1.6%, 34/2130)!
 
 **2025.05.19:** Our [Chest-OMDL](https://openreview.net/forum?id=ns6nq592HX#discussion) Project got reported by official media of Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1916809961021100041) [Facebook](https://www.facebook.com/share/p/1BmmJHNuxG)
 
@@ -296,7 +296,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty</span> <br>
     <a href="https://hal.science/hal-04974115">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Zihan Li, Hongjia Yang, Jialan Zheng, Haibo Qu, Qiyuan Tian*<br>
-    <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster, OHBM Merit Abstract Award)
+    <i> OHBM Annual Meeting <strong>(OHBM). </strong></i> 2025. (Poster, OHBM Merit Abstract Award, Top 1.6%)
   </li>
 
   <li id="CA-Pub0"> 
@@ -345,7 +345,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Negative Impacts of Germinal Matrix-Ventricular Hemorrhage on Prenatal and Postnatal Brain Development</span> <br>
     <a href="https://archive.ismrm.org/2025/3798_4AGubBRaV.html">[Paper]</a> <br> 
      Li H, Liao Y, Zhu J, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Zheng J, Yang H, Li Z, Li Z, Tian Q, Qu H*<br>
-    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster, ISMRM Summa Cum Laude Merit Award, TOP 5%)
+    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2025. (Digital Poster, ISMRM Summa Cum Laude Merit Award, Top 5%)
   </li>
   
   <li id="CA-Pub0"> 
@@ -443,7 +443,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning</span> <br>
     <a href="https://hal.science/hal-04961169/">[Paper]</a>  <br> 
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Haibo Qu, Qiyuan Tian* <br>
-    <i>Singapore AI Health Summit </i> 2023. (Top3 prize, Top 3%)
+    <i>Singapore AI Health Summit </i> 2023. (Poster Competition 3rd Place Winner, Top 3%)
   </li>
 </ol>
 
@@ -505,7 +505,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - [[Certificate]](https://arktis2022.github.io/) *2025* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) *2025* **MICCAI [autoPET IV Challenge](https://www.autopet.org/autopetiv.html) 1st Place Winner**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) *2025* **MICCAI [VLM3D Challenge](https://vlm3dchallenge.com/challenges/) 2nd Place Winner**
-- [[Certificate]](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing) *2025* **OHBM Merit Abstract Award**
+- [[Certificate]](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing) *2025* **OHBM Merit Abstract Award (Top 1.6%)**
 - [[Certificate]](https://arktis2022.github.io/) *2025* **ISMRM Educational Stipend Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/03/735b20353752c284.jpg) *2024* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing) *2024* **First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%)** <br /> &nbsp; &nbsp; &nbsp; *A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI*
