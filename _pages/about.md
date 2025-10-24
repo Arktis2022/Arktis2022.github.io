@@ -1,4 +1,4 @@
----
+<img width="770" height="744" alt="image" src="https://github.com/user-attachments/assets/731a33a9-81a1-42e5-a5de-875238230231" />---
 permalink: /
 title: ""
 author_profile: true
@@ -285,7 +285,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <span style="color:#000000; font-weight:bold;">From Free Text to Usable Labels: Privacy-Ensuring Open-weights LLM-Enhanced Clinical Report Extraction for Fetal MRI</span> <br>
     <a href="https://github.com/Arktis2022/Arktis2022.github.io/blob/main/_data/FetalExtract-LLM.pdf">[Paper]</a> <br>
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yijin Li, Juncheng Zhu, Hongjia Yang, Yiming Huang, Haoxiang Li, Yifei Chen, Xuguang Bai, Yi Liao, Haibo Qu, Qiyuan Tian*<br> 
-    <i>Beijing-Tsinghua Health AI Summit <strong>(BEIHAI). </strong></i> 2025. (Oral)
+    <i>Beijing-Tsinghua Health AI Summit <strong>(BEIHAI). </strong></i> 2025. (Oral, Second Prize of Oral Presentation)
   </li>
   
   <li id="CA-Pub0">
