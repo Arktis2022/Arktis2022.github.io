@@ -1,4 +1,4 @@
----
+<img width="686" height="210" alt="image" src="https://github.com/user-attachments/assets/17632921-1377-44a7-9a62-3d171e6197fa" />---
 permalink: /
 title: ""
 author_profile: true
@@ -119,7 +119,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **2023.12.12:** 🎉🎉 Our paper addressed [Image deblurring](https://hplqaq.github.io/projects/sam-deblur) has been accepted by [IEEE ICASSP 2024](https://2024.ieeeicassp.org/).
 
-**2023.11.24:** 🎉🎉 Won the top3 Prize in [Al Health Summit 2023 Poster Competition](https://mp.weixin.qq.com/s/Y7yvnuK6nqyBeBf8tAofOQ).
+**2023.11.24:** 🎉🎉 Won the top3 Prize in [AI Health Summit 2023 Poster Competition](https://mp.weixin.qq.com/s/Y7yvnuK6nqyBeBf8tAofOQ).
 
 **2023.11.23:** Attended the AI Health Summit 2023 held in Singapore and posted a [poster](https://docs.google.com/presentation/d/1qF3I-coGVHokjrGOg2rSnimPrS6ak-8m/edit?usp=sharing&ouid=115888010982299494146&rtpof=true&sd=true). 
 
@@ -506,7 +506,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 </ol>
 
 # 🎖 Honors and Awards
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/10/c141bd138f06dd0a.jpg) *2025* **BEIHAI Summit Second Prize of Oral Presentation**
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/10/c141bd138f06dd0a.jpg) *2025* **BEIHAI Summit Second Prize of Oral Presentation**<br /> &nbsp; &nbsp; &nbsp; *Competition judges: Charlotte Haug, Executive Editor of NEJM AI*
 - [[Certificate]](https://arktis2022.github.io/) *2025* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) *2025* **MICCAI [autoPET IV Challenge](https://www.autopet.org/autopetiv.html) 1st Place Winner**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) *2025* **MICCAI [VLM3D Challenge](https://vlm3dchallenge.com/challenges/) 2nd Place Winner**
@@ -521,7 +521,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - [[Certificate]](https://mp.weixin.qq.com/s/Oy85Q203XVaCIvwvRs9wfA) *2024* **Third Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; *Automated Fetal MRI Image Processing and Anomaly Detection*
 - [[Certificate]](https://arktis2022.github.io/) *2024* **ISMRM Educational Stipend Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/12/0b64f5dd23685207.jpg) *2024* **ICCBD+AI Best Paper Award**
-- [[Certificate]](https://drive.google.com/file/d/1cU2tnJj8JOOTCZ_vtkRteFXC2zJ6tE_s/view?usp=sharing) *2023* **[Singapore Al Health Summit Poster Competition](https://healthsummit.ai/main/abstracts/) 3rd Place Winner**
+- [[Certificate]](https://drive.google.com/file/d/1cU2tnJj8JOOTCZ_vtkRteFXC2zJ6tE_s/view?usp=sharing) *2023* **[Singapore AI Health Summit Poster Competition](https://healthsummit.ai/main/abstracts/) 3rd Place Winner** <br /> &nbsp; &nbsp; &nbsp; *Competition judges; Left one: Editor-in-chief of The Lancet Digital Health; Left two: Prof Catherine R Lucey; Left three: Editor-in-chief of Nature Medicine; Left four: Editor-in-chief of Nature Biomedical Engineering*.
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/03/1646fe4986f106aa.jpg) *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/3725764c812767de.jpg) *2022* **Scholarship for Academic Excellence**, Tsinghua University 
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/fa3e12191add4d53.jpg) *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University 
@@ -556,6 +556,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 University, 2024, 2025
   
 # 🎣 Activities
+- *2025.10.24*, Won the BEIHAI Summit Second Prize of Oral Presentation. [Photo](https://img.erpweb.eu.org/imgs/2025/10/c141bd138f06dd0a.jpg) (Competition judge: Charlotte Haug, Executive Editor of NEJM AI)
 - *2025.10.11*, Attended the [ISICDM 2025](https://www.imagecomputing.org/isicdm2025/#/) in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2025/10/ee24d70b7a719779.jpg)
 - *2025.09.27*, Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://pippiworkshop.github.io/images/SK_group.jpg) [Photo](https://drive.google.com/file/d/1A1G9QYDK2-QOE9CVkQEUfxiugFdHOoDg/view?usp=sharing) [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
 - *2025.09.09*, Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
@@ -574,7 +575,7 @@ University, 2024, 2025
 - *2024.05.08*, Attended the OCSMRM 2024 as one of the organizers, held in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2024/05/0bb68e1150ae04be.png)
 - *2024.05.07*, Attended the ISMRM 2024, held in Singapore. [Photo A](https://img.erpweb.eu.org/imgs/2024/05/0bf1c7f9ac829f10.jpg) [Photo B](https://img.erpweb.eu.org/imgs/2024/05/a2646308883e4385.jpg)
 - *2023.04.17*, Attended the ICASSP 2024, held in Seoul. [Photo](https://img.erpweb.eu.org/imgs/2024/04/0a91be3331527e5d.jpg)
-- *2023.11.24*, Won the top3 Prize in Al Health Summit 2023 Poster Competition. [Photo](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) (First row: Competition judges; Left one: Editor-in-chief of The Lancet Digital Health; Left two: Prof Catherine R Lucey; Left three: Editor-in-chief of Nature Medicine; Left four: Editor-in-chief of Nature Biomedical Engineering) [Photo](https://img.erpweb.eu.org/imgs/2025/10/30f0bbbe55ed9a82.jpg) (Rupa Sarkar was reading my poster)
+- *2023.11.24*, Won the top3 Prize in AI Health Summit 2023 Poster Competition. [Photo](https://img.erpweb.eu.org/imgs/2024/02/207b20e0e675d4fa.jpg) (First row: Competition judges; Left one: Editor-in-chief of The Lancet Digital Health; Left two: Prof Catherine R Lucey; Left three: Editor-in-chief of Nature Medicine; Left four: Editor-in-chief of Nature Biomedical Engineering) [Photo](https://img.erpweb.eu.org/imgs/2025/10/30f0bbbe55ed9a82.jpg) (Rupa Sarkar was reading my poster)
 - *2023.11.24*, Top 5 poster competition in AI health summit 2023. [Photo](https://img.erpweb.eu.org/imgs/2024/02/2547ed7aa1423a38.jpg)
 - *2023.11.22*, BIRTHLab members visited Nanyang Technological University. [Photo](https://img.erpweb.eu.org/imgs/2024/02/0cb68379b33a36d5.png)
 - *2023.10.02*, Attended the NUS-THU Joint Workshop on Biomedical Engineering 2023, held in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2024/02/5514cfe5a7abca58.png)
