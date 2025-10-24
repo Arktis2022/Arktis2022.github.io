@@ -276,7 +276,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <ol reversed>
     <li id="CA-Pub0">
     <span style="color:#000000; font-weight:bold;">Machine Learning and Deep Learning for Pediatric and Adolescent Myopia Prediction</span> <br>
-    <a href="https://github.com/Arktis2022/Arktis2022.github.io/blob/main/_data/Machine%20Learning%20and%20Deep%20Learning%20for%20Pediatric%20and%20Adolescent%20Myopia%20Prediction.pdf">[Paper]</a> <br>
+    <a href="https://hal.science/hal-05330520">[Paper]</a> <br>
     Yitong Zhang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Ying Wu, Lijun Zhang, Caixia Chai, Zhengyuan Liu, Qiyuan Tian*<br> 
     <i>Beijing-Tsinghua Health AI Summit <strong>(BEIHAI). </strong></i> 2025. (Poster)
   </li>
