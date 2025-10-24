@@ -29,6 +29,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
+**2025.10.24:** 🎉🎉 Awarded BEIJING-TSINGHUA HEALTH AI SUMMIT 2025 (BEIHAI SUMMIT 2025) [Second Prize of Oral Presentation](https://img.erpweb.eu.org/imgs/2025/10/c141bd138f06dd0a.jpg). 
+
 **2025.10.22:** Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs) and presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](https://img.erpweb.eu.org/imgs/2025/10/9d417d56d2a20faa.jpg)
 
 **2025.10.11:** Attended the [ISICDM 2025](https://www.imagecomputing.org/isicdm2025/#/) in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2025/10/ee24d70b7a719779.jpg)
@@ -504,6 +506,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 </ol>
 
 # 🎖 Honors and Awards
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/10/c141bd138f06dd0a.jpg) *2025* **BEIHAI Summit Second Prize of Oral Presentation**
 - [[Certificate]](https://arktis2022.github.io/) *2025* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) *2025* **MICCAI [autoPET IV Challenge](https://www.autopet.org/autopetiv.html) 1st Place Winner**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) *2025* **MICCAI [VLM3D Challenge](https://vlm3dchallenge.com/challenges/) 2nd Place Winner**
