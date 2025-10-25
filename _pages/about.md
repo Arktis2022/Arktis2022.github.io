@@ -515,7 +515,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/03/735b20353752c284.jpg) *2024* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing) *2024* **First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%)** <br /> &nbsp; &nbsp; &nbsp; *A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI*
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/07/6cac5893381c31d0.jpg) *2024* **Outstanding Graduate of Beijing**
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/07/b8f175077893bf72.jpg) *2024* **Outstanding Graduate Award (Top 2%)**, Tsinghua University
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/10/65a4e26138a284dd.jpg) *2024* **Outstanding Graduate Award (Top 2%)**, Tsinghua University
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg) *2024* **ISMRM Magna Cum Laude Merit Award (Top 15%)**
 - [[Certificate]](https://mp.weixin.qq.com/s/Oy85Q203XVaCIvwvRs9wfA) *2024* **Second Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; *Image Deblurring System Driven by Multimodal Data Augmentation*
 - [[Certificate]](https://mp.weixin.qq.com/s/Oy85Q203XVaCIvwvRs9wfA) *2024* **Third Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; *Automated Fetal MRI Image Processing and Anomaly Detection*
@@ -523,10 +523,10 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/12/0b64f5dd23685207.jpg) *2024* **ICCBD+AI Best Paper Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/10/41e2534263ff71c8.jpg) *2023* **[Singapore AI Health Summit Poster Competition](https://healthsummit.ai/main/abstracts/) 3rd Place Winner** <br /> &nbsp; &nbsp; &nbsp; *Competition judges: Rupa Sarkar, Editor-in-chief of The Lancet Digital Health; Prof Catherine R Lucey; João Monteiro, Editor-in-chief of Nature Medicine; Pep Pàmies, Editor-in-chief of Nature Biomedical Engineering*.
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/03/1646fe4986f106aa.jpg) *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/3725764c812767de.jpg) *2022* **Scholarship for Academic Excellence**, Tsinghua University 
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/fa3e12191add4d53.jpg) *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University 
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/10/d68269ffbe6bd242.jpg) *2022* **Scholarship for Academic Excellence**, Tsinghua University 
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/10/6f1d9123fd349007.jpg) *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University 
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/de4438e28228284b.jpg) *2022* **Second Prize for Outstanding Projects of the Students Research Training Program**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/8593b53040f7c593.jpg) *2020* **Scholarship for Academic Excellence**, Tsinghua University 
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/10/a887bf16c1f614dd.jpg) *2020* **Scholarship for Academic Excellence**, Tsinghua University 
 
 # 📖 Educations
 - *2024.08 - present*, PhD student: **School of Biomedical Engineering**, Tsinghua University, China.
