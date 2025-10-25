@@ -548,7 +548,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - *2022-2023* **National College Student Innovation and Entrepreneurship Project**
 
 # 🎓 Academic Service
-+ Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/), [BEIHAI Summit](https://www.medcircle.cn/meeting/index/2025bs).
++ Co-organizer of [OCSMRM 2024](http://www.ocsmrm.org/), [BEIHAI Summit 2025](https://www.medcircle.cn/meeting/index/2025bs).
 + *Journal Reviewer*, EAAI; Neural Networks; Neurocomputing; IEEE TCDS; IEEE TCAS-I; IEEE TCAS-II; IEEE TIP; Applied Intelligence.
 + *Conference Reviewer*, ACM MobileHCI 2024; AAAI-25 UC; IEEE ISBI 2025; ISMRM 2025; IJCNN 2025; CHIL 2025; MICCAI 2025; ICLR 2025 Workshop (AI4CHL, XAI4Science); ACM MM 2025; NeurIPS 2025; BMVC 2025; ICML Workshop (PUT); AAAI 2026 Workshop (XAI4Science); ICASSP 2026.
 + *Teaching Assistant*, TIC3: Technological Innovation and Challenges 3, Weixian College, Tsinghua University, 2024.
