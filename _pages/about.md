@@ -29,7 +29,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
-**2025.10.24:** 🎉🎉 Awarded BEIJING-TSINGHUA HEALTH AI SUMMIT 2025 (BEIHAI SUMMIT 2025) [Second Prize of Oral Presentation](https://img.erpweb.eu.org/imgs/2025/10/c141bd138f06dd0a.jpg). 
+**2025.10.24:** 🎉🎉 Awarded BEIJING-TSINGHUA HEALTH AI SUMMIT 2025 (BEIHAI SUMMIT 2025) [Second Prize of Oral Presentation](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing). 
 
 **2025.10.22:** Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs) and presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](https://img.erpweb.eu.org/imgs/2025/10/9d417d56d2a20faa.jpg)
 
@@ -506,7 +506,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 </ol>
 
 # 🎖 Honors and Awards
-- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/10/c141bd138f06dd0a.jpg) *2025* **BEIHAI Summit Second Prize of Oral Presentation**<br /> &nbsp; &nbsp; &nbsp; *Competition judges: Charlotte Haug, Executive Editor of NEJM AI*
+- [[Certificate]](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing) *2025* **BEIHAI Summit Second Prize of Oral Presentation**<br /> &nbsp; &nbsp; &nbsp; *Competition judges: Charlotte Haug, Executive Editor of NEJM AI*
 - [[Certificate]](https://arktis2022.github.io/) *2025* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) *2025* **MICCAI [autoPET IV Challenge](https://www.autopet.org/autopetiv.html) 1st Place Winner**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) *2025* **MICCAI [VLM3D Challenge](https://vlm3dchallenge.com/challenges/) 2nd Place Winner**
@@ -556,7 +556,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 University, 2024, 2025.
   
 # 🎣 Activities
-- *2025.10.24*, Won the BEIHAI Summit Second Prize of Oral Presentation. [Photo](https://img.erpweb.eu.org/imgs/2025/10/c141bd138f06dd0a.jpg) (Competition judge: Charlotte Haug, Executive Editor of NEJM AI)
+- *2025.10.24*, Won the BEIHAI Summit Second Prize of Oral Presentation. [Photo](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing) (Competition judge: Charlotte Haug, Executive Editor of NEJM AI) 
 - *2025.10.11*, Attended the [ISICDM 2025](https://www.imagecomputing.org/isicdm2025/#/) in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2025/10/ee24d70b7a719779.jpg)
 - *2025.09.27*, Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the MICCAI VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](https://pippiworkshop.github.io/images/SK_group.jpg) [Photo](https://drive.google.com/file/d/1A1G9QYDK2-QOE9CVkQEUfxiugFdHOoDg/view?usp=sharing) [Photo](https://img.erpweb.eu.org/imgs/2025/09/0b9b86976a2bfcf4.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/a3a62ea155b953e2.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/09/319c3fb36a464314.jpg)
 - *2025.09.09*, Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
