@@ -29,9 +29,9 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
-**2025.10.24:** 🎉🎉 Awarded BEIJING-TSINGHUA HEALTH AI SUMMIT 2025 (BEIHAI SUMMIT 2025) [Second Prize of Oral Presentation](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing). 
+**2025.10.24:** 🎉🎉 Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs) and Awarded [Second Prize of Oral Presentation](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing).
 
-**2025.10.22:** Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs) and presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](https://img.erpweb.eu.org/imgs/2025/10/9d417d56d2a20faa.jpg)
+**2025.10.22:** Presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](https://img.erpweb.eu.org/imgs/2025/10/9d417d56d2a20faa.jpg)
 
 **2025.10.11:** Attended the [ISICDM 2025](https://www.imagecomputing.org/isicdm2025/#/) in Beijing. [Photo](https://img.erpweb.eu.org/imgs/2025/10/ee24d70b7a719779.jpg)
 
