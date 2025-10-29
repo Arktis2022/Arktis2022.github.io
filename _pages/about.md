@@ -519,7 +519,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/06/f5785a7f202d1499.jpg) *2024* **ISMRM Magna Cum Laude Merit Award (Top 15%)**
 - [[Certificate]](https://mp.weixin.qq.com/s/Oy85Q203XVaCIvwvRs9wfA) *2024* **Second Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; *Image Deblurring System Driven by Multimodal Data Augmentation*
 - [[Certificate]](https://mp.weixin.qq.com/s/Oy85Q203XVaCIvwvRs9wfA) *2024* **Third Prize at the 42nd "Challenge Cup" of Tsinghua University** <br /> &nbsp; &nbsp; &nbsp; *Automated Fetal MRI Image Processing and Anomaly Detection*
-- [[Certificate]](https://arktis2022.github.io/) *2024* **ISMRM Educational Stipend Award**
+- [[Certificate]](https://img.erpweb.eu.org/imgs/2025/10/58d65211b4fa06f4.png) *2024* **ISMRM Educational Stipend Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2024/12/0b64f5dd23685207.jpg) *2024* **ICCBD+AI Best Paper Award**
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/10/41e2534263ff71c8.jpg) *2023* **[Singapore AI Health Summit Poster Competition](https://healthsummit.ai/main/abstracts/) 3rd Place Winner** <br /> &nbsp; &nbsp; &nbsp; *Competition judges: Rupa Sarkar, Editor-in-chief of The Lancet Digital Health; Prof Catherine R Lucey; João Monteiro, Editor-in-chief of Nature Medicine; Pep Pàmies, Editor-in-chief of Nature Biomedical Engineering*.
 - [[Certificate]](https://img.erpweb.eu.org/imgs/2025/03/1646fe4986f106aa.jpg) *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
