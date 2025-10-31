@@ -534,6 +534,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   </li>
 
   <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Multi-Organ Volumetric Growth Trajectories in Fetuses with Hydronephrosis</span> <br>
+    Junwei Huang, Kasidit Anmahapong, Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Juncheng Zhu, Hongjia Yang, Yijin Li, Yingqi Hao, Fenglin Jia, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
+   <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2026. (Under Review)
+  </li>
+  
+  <li id="MA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions</span> <br>
     Yifei Chen, Guanyu Zhou, Yuanhan Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian*<br>
    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2026. (Under Review)
