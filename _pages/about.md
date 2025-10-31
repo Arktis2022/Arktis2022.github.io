@@ -498,10 +498,47 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
   </li>
 
   <li id="MA-Pub3"> 
-    <span style="color:#000000; font-weight:bold;">Beyond hospital reach: Autonomous lightweight ultrasound robot for liver sonography</span> <br>
+    <span style="color:#000000; font-weight:bold;">Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot</span> <br>
     Zihan Li#, Yixiao Xu#, Lei Zhang, Taiyu Han, Xinshan Yang, Yingni Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Shenghai Xin, Linxun Liu, Hongen Liao*, Guochen Ning*<br>
-   <i>Science Advance <strong>(SA). </strong></i> 2025. (Under Review)
+   <i>Nature Biomedical Engineering <strong>(NBME). </strong></i> 2025. (Under Review)
   </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Cortical Brain in Utero Growth Among Fetuses with Germinal Matrix and Intraventricular Hemorrhage (GMH-IVH)</span> <br>
+    <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Haoxiang Li, Hongjia Yang, Yi Liao, Juncheng Zhu, Jialan Zheng, Yingqi Hao1, Zihan Li, Ziyu Li, Ziang Wang, Yijin Li, Junwei Huang, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
+   <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2026. (Under Review)
+  </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Test-time optimization for cortical surface reconstruction across image resolutions/contrasts using untrained neural networks</span> <br>
+    Haoxiang Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Divya Varadarajan, Zhangxuan Hu, Qiyuan Tian, Jonathan Polimeni*<br>
+   <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2026. (Under Review)
+  </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Improving the Accuracy of Fetal Brain Age Prediction Using Neural Network Attribution Maps</span> <br>
+    Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yi Liao, Muye Zhang, Juncheng Zhu, Haoxiang Li, Fenglin Jia, Zihan Li, Yijin Li, Junwei Huang, Ziang Wang, Ziyu Li, Haibo Qu, Qiyuan Tian*<br>
+   <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2026. (Under Review)
+  </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation</span> <br>
+    Yijin Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hongjia Yang, Xiaotian Hu, Yi Liao, Kasidit Anmahapong, Ziang Wang, Juncheng Zhu, Yingqi Hao, Yifei Chen, Haoxiang Li, Ziyu Li, Fenglin Jia, Haibo Qu, Qiyuan Tian*<br>
+   <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2026. (Under Review)
+  </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI</span> <br>
+    Yingqi Hao, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Juncheng Zhu, Hongjia Yang, Haoxiang Li, Junwei Huang, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
+   <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2026. (Under Review)
+  </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions</span> <br>
+    Yifei Chen, Guanyu Zhou, Yuanhan Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian*<br>
+   <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2026. (Under Review)
+  </li>
+
   
 </ol>
 
