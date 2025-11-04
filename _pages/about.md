@@ -196,7 +196,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
   <li id="CP-Pubx"> 
     <span style="color:#000000; font-weight:bold;">FetalCSR: Multi-input Attention Fusion Network for Neural ODE-based Fetal Cortical Surface Reconstruction</span> <br>
-    <a href="https://openreview.net/forum?id=Ra0xioC3He">[Paper]</a> <a href="https://github.com/lhx-lhx-lhx/FetalCSR">[Code]</a> <br> 
+    <a href="https://hal.science/hal-05039904/document">[Paper]</a> <a href="https://github.com/lhx-lhx-lhx/FetalCSR">[Code]</a> <br> 
     Haoxiang Li#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Xuguang Bai, Yi Liao, Jialan Zheng, Hongjia Yang, Zihan Li, Haibo Qu, Qiyuan Tian* <br>
     <i>ICLR 2025 Workshop on AI for Children <strong>(ICLR Workshop). </strong></i> 2025. (Oral Paper Presentation)
   </li>
