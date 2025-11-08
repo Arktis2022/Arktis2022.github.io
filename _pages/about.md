@@ -33,7 +33,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 **2025.11.04:** Attended the symposium on Recent Advances in Artificial Intelligence-Driven Magnetic Resonance Technology (CASFIS) in Hong Kong. [Photo](https://img.erpweb.eu.org/imgs/2025/11/f9e94181835f1b08.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/11/5e1287d760fafd4c.jpg)
 
-**2025.10.24:** 🎉🎉 Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs) and awarded [Second Prize of Oral Presentation](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing). [Photo](https://img.erpweb.eu.org/imgs/2025/10/8a81bac129c8f4c8.jpg) [Link](https://bme.tsinghua.edu.cn/info/1010/1530.htm)
+**2025.10.24:** 🎉🎉 Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs), awarded [Second Prize of Oral Presentation](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing), and was reported by official media of Tsinghua Medicine. [Photo](https://img.erpweb.eu.org/imgs/2025/10/8a81bac129c8f4c8.jpg) [Link](https://bme.tsinghua.edu.cn/info/1010/1530.htm) [Report](https://x.com/MedTsinghua/status/1986685733630087315)
 
 **2025.10.22:** Presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](https://img.erpweb.eu.org/imgs/2025/10/9d417d56d2a20faa.jpg)
 
