@@ -551,7 +551,11 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2026. (Under Review)
   </li>
 
-  
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Prognostic Al Model for Myopia in Children & Adolescents Using Real-World intervention Data: A 7-Center Study</span> <br>
+    Ying Wu, Yitong Zhang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Lijun Zhang, Qiyuan Tian*<br>
+   <i>World Ophthalmology Congress <strong>(WOC). </strong></i> 2026. (Under Review)
+  </li>
 </ol>
 
 # 🎖 Honors and Awards
