@@ -29,6 +29,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
+**2025.11.15:** Attended the CHINESE CONGRESS OF RADIOLOGY (CCR) 2025 in Changsha. [Photo](https://img.erpweb.eu.org/imgs/2025/11/498636a54e2a6196.jpg)
+
 **2025.11.08:** Attended Tsinghua Academic Path Series #724 (Sharing Session with 2025 National Scholarship Awardees from the School of Biomedical Engineering). [Link](https://mp.weixin.qq.com/s/Nqc9D1m3tXEAAhT0WqoRqA)
 
 **2025.11.04:** Attended the symposium on Recent Advances in Artificial Intelligence-Driven Magnetic Resonance Technology (CASFIS) in Hong Kong. [Photo](https://img.erpweb.eu.org/imgs/2025/11/f9e94181835f1b08.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/11/5e1287d760fafd4c.jpg)
@@ -603,6 +605,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 University, 2024, 2025.
   
 # 🎣 Activities
+- *2025.11.15*, Attended the CHINESE CONGRESS OF RADIOLOGY (CCR) 2025 in Changsha. [Photo](https://img.erpweb.eu.org/imgs/2025/11/498636a54e2a6196.jpg)
 - *2025.11.06*, Attended the symposium on Recent Advances in Artificial Intelligence-Driven Magnetic Resonance Technology (CASFIS) in Hong Kong. [Photo](https://img.erpweb.eu.org/imgs/2025/11/f9e94181835f1b08.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/11/5e1287d760fafd4c.jpg)
 - *2025.10.24*, Attended BEIHAI Summit and won the Second Prize of Oral Presentation. [Photo](https://img.erpweb.eu.org/imgs/2025/10/8a81bac129c8f4c8.jpg) [Photo](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing) (Competition judge: Charlotte Haug, Executive Editor of NEJM AI) 
 - *2025.10.22*, Presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](https://img.erpweb.eu.org/imgs/2025/10/9d417d56d2a20faa.jpg)
