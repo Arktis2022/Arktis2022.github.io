@@ -29,6 +29,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 📻 News
+**2025.11.20:** 🎉🎉 One abstract accepted by [APAO 2026](https://2026.apaophth.org/).
+
 **2025.11.15:** Attended the CHINESE CONGRESS OF RADIOLOGY (CCR) 2025 in Changsha. [Photo](https://img.erpweb.eu.org/imgs/2025/11/498636a54e2a6196.jpg)
 
 **2025.11.08:** Attended Tsinghua Academic Path Series #724 (Sharing Session with 2025 National Scholarship Awardees from the School of Biomedical Engineering). [Link](https://mp.weixin.qq.com/s/Nqc9D1m3tXEAAhT0WqoRqA)
@@ -282,8 +284,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <ol reversed>
   <li id="CA-Pub0">
     <span style="color:#000000; font-weight:bold;">Artificial Intelligence-based Myopia Prediction in Children and Adolescents</span> <br>
-    Ying Wu，Yitong Zhang，<span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>，LiJun Zhang，Qiyuan Tian*<br> 
-    <i>Asia-Pacific Academy of Ophthalmology Congress <strong>(APAO). </strong></i> 2025. (Poster)
+    Ying Wu, Yitong Zhang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, LiJun Zhang, Qiyuan Tian*<br> 
+    <i>Asia-Pacific Academy of Ophthalmology Congress <strong>(APAO). </strong></i> 2026. (Poster)
   </li>
   
   <li id="CA-Pub0">
