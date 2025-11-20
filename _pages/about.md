@@ -280,7 +280,13 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <h2 id="CONFERENCE ABSTRACTS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">CONFERENCE ABSTRACTS</h2>
 
 <ol reversed>
-    <li id="CA-Pub0">
+  <li id="CA-Pub0">
+    <span style="color:#000000; font-weight:bold;">Artificial Intelligence-based Myopia Prediction in Children and Adolescents</span> <br>
+    Ying Wu，Yitong Zhang，<span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>，LiJun Zhang，Qiyuan Tian*<br> 
+    <i>Asia-Pacific Academy of Ophthalmology <strong>(APAO). </strong></i> 2025. (Poster)
+  </li>
+  
+  <li id="CA-Pub0">
     <span style="color:#000000; font-weight:bold;">Machine Learning and Deep Learning for Pediatric and Adolescent Myopia Prediction</span> <br>
     <a href="https://hal.science/hal-05330520">[Paper]</a> <br>
     Yitong Zhang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Ying Wu, Lijun Zhang, Caixia Chai, Zhengyuan Liu, Qiyuan Tian*<br> 
