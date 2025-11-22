@@ -480,7 +480,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     <i>Radiology: Artificial Intelligence <strong>(RAI). </strong></i> 2025. (Under Review)
   </li>
 
-
+  <li id="MA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI</span> <br>
+    Changwei Wu#, Yifei Chen#, Yuxin Du, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Jinying Zong, Beining Wu, Jie Dong, Feiwei Qin*, Yunkang Cao, Qiyuan Tian*<br> 
+    <i>Medical Image Analysis <strong>(MIA). </strong></i> 2025. (Under Review)
+  </li>
+  
   <li id="MA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">An incredibly simple real-time method without CNN for red tongue tip classification</span> <br>
     Jingqiao Lu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hong Chen*, Chuanchi Wang, Jingqing Hu<br>
