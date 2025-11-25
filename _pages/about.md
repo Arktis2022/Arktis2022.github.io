@@ -604,7 +604,6 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 # 🦜 Invited Talks
 - *2025* **The 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University)** [Slides](https://drive.google.com/file/d/1a4Ep2LnBZ9o9DM7xXGL481cpLCWPvhAr/view?usp=sharing)
-- *2025* **Tsinghua Academic Path Series #724: Sharing Session with 2025 National Scholarship Awardees from the School of Biomedical Engineering** [Slides](https://drive.google.com/file/d/139y2jIsO6IL7TBlKTS7AO1Yx7Mphqa_7/view?usp=sharing)
 - *2025* **Beijing-Tsinghua Health AI Summit (Present to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health)** [Slides](https://drive.google.com/file/d/1KZ3uCLT2vhe4t_zkzr2JK20RqKMVKza-/view?usp=sharing)
 - *2025* **MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis (PIPPI)** [Slides](https://drive.google.com/file/d/1TqsbKEgtEncdmPOLj9SEu5VSDl93JYhE/view?usp=sharing)
 - *2024* **Annual Meeting of Radiological Society of North America (RSNA)** [Slides](https://drive.google.com/file/d/1hlm_mN9PHqESGGoi8Leza0BJjlYYiEXW/view?usp=sharing)
