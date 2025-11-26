@@ -487,7 +487,13 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
     Changwei Wu#, Yifei Chen#, Yuxin Du, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Jinying Zong, Beining Wu, Jie Dong, Feiwei Qin*, Yunkang Cao, Qiyuan Tian*<br> 
     <i>Medical Image Analysis <strong>(MIA). </strong></i> 2025. (Under Review)
   </li>
-  
+
+  <li id="MA-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">A Large Scale Benchmark for Test Time Adaptation in Medical Image Segmentation</span> <br>
+    Wenjing Yu#, Shuo Jiang#, Yifei Chen#, Shuo Chang, Yuanhan Wang, Beining Wu, Jie Dong, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Shenghao Zhu, Feiwei Qin*, Changmiao Wang, Qiyuan Tian*<br> 
+    <i>Medical Image Analysis <strong>(MIA). </strong></i> 2025. (Under Review)
+  </li>
+
   <li id="MA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">An incredibly simple real-time method without CNN for red tongue tip classification</span> <br>
     Jingqiao Lu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hong Chen*, Chuanchi Wang, Jingqing Hu<br>
