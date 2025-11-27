@@ -22,7 +22,7 @@ I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghu
 
 I was previously advised by [Prof. Hong Chen](http://hongchen.ime.tsinghua.edu.cn/) from [School of Integrated Circuits](https://www.sic.tsinghua.edu.cn/en/index.htm), Tsinghua University.
 
-You can find my CV here: [Mingxuan Liu's Curriculum Vitae](https://drive.google.com/file/d/1MrTEuxSNHO1jUbgid6hLfpEQmr4Sq4QM/view?usp=sharing).
+You can find my CV here: [Mingxuan Liu's Curriculum Vitae](https://www.texpage.com/share/0a9c5b7f608c437e995ee61777b6f16b).
 
 Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN) / [Semantic scholar](https://www.semanticscholar.org/author/Mingxuan-Liu/2112213258).
 
