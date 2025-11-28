@@ -28,7 +28,14 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 📻 News
+
+<div class="news-container" style="line-height: 1.6;">
+
+<h2>📻 News</h2>
+
+<!-- 1. 这里是默认显示出来的“最新”新闻 (Top 5) -->
+<div id="recent-news" markdown="1">
+
 **2025.11.22:** 🎉🎉 Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University) and awarded [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing).
 
 **2025.11.20:** 🎉🎉 One abstract accepted by [APAO 2026](https://2026.apaophth.org/).
@@ -38,6 +45,12 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 **2025.11.08:** Attended Tsinghua Academic Path Series #724 (Sharing Session with 2025 National Scholarship Awardees from the School of Biomedical Engineering). [Link](https://mp.weixin.qq.com/s/Nqc9D1m3tXEAAhT0WqoRqA)
 
 **2025.11.04:** Attended the symposium on Recent Advances in Artificial Intelligence-Driven Magnetic Resonance Technology (CASFIS) in Hong Kong. [Photo](https://img.erpweb.eu.org/imgs/2025/11/f9e94181835f1b08.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/11/5e1287d760fafd4c.jpg)
+
+</div>
+
+<!-- 2. 这里是默认隐藏的“旧”新闻 (Hidden News) -->
+<!-- 注意：style="display: none;" 让它默认不显示 -->
+<div id="more-news" style="display: none;" markdown="1">
 
 **2025.10.24:** 🎉🎉 Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs), awarded [Second Prize of Oral Presentation](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing), and was reported by official media of Tsinghua Medicine. [Photo](https://img.erpweb.eu.org/imgs/2025/10/8a81bac129c8f4c8.jpg) [Link](https://bme.tsinghua.edu.cn/info/1010/1530.htm) [Report](https://x.com/MedTsinghua/status/1986685733630087315)
 
@@ -68,7 +81,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 **2025.07.12:** Attended the MIDL 2025 in Salt Lake City. [Photo](https://img.erpweb.eu.org/imgs/2025/07/12ca9c442f3a817b.jpg)
 
 **2025.06.27:** Attended the OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing)
-  
+
 **2025.05.24:** 🎉🎉 Awarded **[2025 OHBM Merit Award](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing)** (Top 1.6%, 34/2130)!
 
 **2025.05.19:** Our [Chest-OMDL](https://openreview.net/forum?id=ns6nq592HX#discussion) Project got reported by official media of Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1916809961021100041) [Facebook](https://www.facebook.com/share/p/1BmmJHNuxG)
@@ -144,6 +157,34 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 **2023.05.21:** 🎉🎉 Our paper addressed [Tooth-Marked Tongue Classification](https://ieeexplore.ieee.org/abstract/document/10181870) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
 
 **2023.05.21:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10181639) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
+
+</div>
+
+<!-- 3. 触发按钮与脚本 -->
+<!-- 样式调整：color 属性控制文字颜色，cursor: pointer 让鼠标变手型 -->
+<a href="javascript:void(0)" onclick="toggleNews()" id="news-toggle-btn" style="display: inline-block; margin-top: 10px; color: #007bff; text-decoration: none; font-weight: bold; cursor: pointer;">
+  Show more
+</a>
+
+<script>
+function toggleNews() {
+  var moreNews = document.getElementById("more-news");
+  var btn = document.getElementById("news-toggle-btn");
+
+  if (moreNews.style.display === "none") {
+    moreNews.style.display = "block";
+    btn.innerHTML = "Show less";
+  } else {
+    moreNews.style.display = "none";
+    btn.innerHTML = "Show more";
+    // 可选：收起时滚动回到新闻顶部
+    // document.getElementById("recent-news").scrollIntoView({behavior: "smooth"});
+  }
+}
+</script>
+
+</div>
+
 
 # 📝 Publications 
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
