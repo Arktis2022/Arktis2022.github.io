@@ -1,3 +1,4 @@
+
 /* ==========================================================================
    Variables
    ========================================================================== */
@@ -31,8 +32,13 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+/* ---------------------------------------------------------- */
+/* [修改点] 将下面的变量改为 $serif (即 Georgia) */
+/* ---------------------------------------------------------- */
+$global-font-family         : $serif;
+$header-font-family         : $serif; 
+/* ---------------------------------------------------------- */
+
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -44,7 +50,6 @@ $type-size-5                : 1em;      // ~16px
 $type-size-6                : 1em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
-
 
 /*
    Colors
