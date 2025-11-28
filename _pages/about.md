@@ -31,9 +31,9 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 <div class="news-container" style="line-height: 1.6;">
 
-<h2>📻 News</h2>
+# 📻 News
 
-<!-- 1. 这里是默认显示出来的“最新”新闻 (Top 5) -->
+<!-- 1. 默认显示的前 5 条 -->
 <div id="recent-news" markdown="1">
 
 **2025.11.22:** 🎉🎉 Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University) and awarded [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing).
@@ -48,8 +48,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 </div>
 
-<!-- 2. 这里是默认隐藏的“旧”新闻 (Hidden News) -->
-<!-- 注意：style="display: none;" 让它默认不显示 -->
+<!-- 2. 隐藏的旧新闻 -->
 <div id="more-news" style="display: none;" markdown="1">
 
 **2025.10.24:** 🎉🎉 Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs), awarded [Second Prize of Oral Presentation](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing), and was reported by official media of Tsinghua Medicine. [Photo](https://img.erpweb.eu.org/imgs/2025/10/8a81bac129c8f4c8.jpg) [Link](https://bme.tsinghua.edu.cn/info/1010/1530.htm) [Report](https://x.com/MedTsinghua/status/1986685733630087315)
@@ -160,11 +159,11 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 </div>
 
-<!-- 3. 触发按钮与脚本 -->
-<!-- 样式调整：color 属性控制文字颜色，cursor: pointer 让鼠标变手型 -->
-<a href="javascript:void(0)" onclick="toggleNews()" id="news-toggle-btn" style="display: inline-block; margin-top: 10px; color: #007bff; text-decoration: none; font-weight: bold; cursor: pointer;">
+<!-- 修复：将 <a> 标签改为 <button> 标签，避免弹窗跳转 -->
+<!-- 样式：去掉了按钮默认的边框和背景，模拟成链接的样子 -->
+<button onclick="toggleNews()" id="news-toggle-btn" style="background: none; border: none; padding: 0; margin-top: 10px; color: #007bff; font-weight: bold; cursor: pointer; text-decoration: none; font-size: inherit; font-family: inherit;">
   Show more
-</a>
+</button>
 
 <script>
 function toggleNews() {
@@ -177,14 +176,11 @@ function toggleNews() {
   } else {
     moreNews.style.display = "none";
     btn.innerHTML = "Show more";
-    // 可选：收起时滚动回到新闻顶部
-    // document.getElementById("recent-news").scrollIntoView({behavior: "smooth"});
   }
 }
 </script>
 
 </div>
-
 
 # 📝 Publications 
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
