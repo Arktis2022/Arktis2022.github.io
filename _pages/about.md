@@ -29,10 +29,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
-<div class="news-container" style="line-height: 1.6;">
-
 # 📻 News
-
+<div class="news-container" style="line-height: 1.6;">
 <!-- 1. 默认显示的前 5 条 -->
 <div id="recent-news" markdown="1">
 
@@ -161,7 +159,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 
 <!-- 修复：将 <a> 标签改为 <button> 标签，避免弹窗跳转 -->
 <!-- 样式：去掉了按钮默认的边框和背景，模拟成链接的样子 -->
-<button onclick="toggleNews()" id="news-toggle-btn" style="background: none; border: none; padding: 0; margin-top: 10px; color: #007bff; font-weight: bold; cursor: pointer; text-decoration: none; font-size: inherit; font-family: inherit;">
+<button onclick="toggleNews()" id="news-toggle-btn" style="background: none; border: none; padding: 0; margin-top: 10px; color: #2c4a88; font-weight: bold; cursor: pointer; text-decoration: underline; font-size: inherit; font-family: inherit;">
   Show more
 </button>
 
