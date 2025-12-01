@@ -34,7 +34,7 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <!-- 1. 默认显示的前 5 条 -->
 <div id="recent-news" markdown="1">
 
-**2025.11.22:** 🎉🎉 Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University) and awarded [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing).
+**2025.11.22:** 🎉🎉 Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University) and awarded [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing). [Photo](https://img.erpweb.eu.org/imgs/2025/12/f6c7ff3788f3fa0e.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/12/abfd2851a152ef49.jpg)
 
 **2025.11.20:** 🎉🎉 One abstract accepted by [APAO 2026](https://2026.apaophth.org/).
 
@@ -666,7 +666,7 @@ function toggleNews() {
 University, 2024, 2025.
   
 # 🎣 Activities
-- *2025.11.22*, Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University) and awarded [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing).
+- *2025.11.22*, Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University) and awarded [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing). [Photo](https://img.erpweb.eu.org/imgs/2025/12/f6c7ff3788f3fa0e.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/12/abfd2851a152ef49.jpg)
 - *2025.11.15*, Attended the CHINESE CONGRESS OF RADIOLOGY (CCR) 2025 in Changsha. [Photo](https://img.erpweb.eu.org/imgs/2025/11/498636a54e2a6196.jpg)
 - *2025.11.06*, Attended the symposium on Recent Advances in Artificial Intelligence-Driven Magnetic Resonance Technology (CASFIS) in Hong Kong. [Photo](https://img.erpweb.eu.org/imgs/2025/11/f9e94181835f1b08.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/11/5e1287d760fafd4c.jpg)
 - *2025.10.24*, Attended BEIHAI Summit and won the Second Prize of Oral Presentation. [Photo](https://img.erpweb.eu.org/imgs/2025/10/8a81bac129c8f4c8.jpg) [Photo](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing) (Competition judge: Charlotte Haug, Executive Editor of NEJM AI) 
