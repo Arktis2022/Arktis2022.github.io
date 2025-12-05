@@ -33,7 +33,9 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <div class="news-container" style="line-height: 1.6;">
 <!-- 1. 默认显示的前 5 条 -->
 <div id="recent-news" markdown="1">
-
+  
+**2025.12.06:** 🎉🎉 One [paper](https://doi.org/10.1101/2025.06.04.657810) accepted by [Imaging Neuroscience](https://direct.mit.edu/imag).
+  
 **2025.11.22:** 🎉🎉 Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University) and awarded [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing). [Photo](https://img.erpweb.eu.org/imgs/2025/12/f6c7ff3788f3fa0e.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/12/abfd2851a152ef49.jpg)
 
 **2025.11.20:** 🎉🎉 One abstract accepted by [APAO 2026](https://2026.apaophth.org/).
@@ -187,6 +189,13 @@ function toggleNews() {
 <h2 id="JOURNAL PAPERS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">JOURNAL PAPERS</h2>
 
 <ol reversed>
+<li id="MA-Pub3"> 
+  <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
+  <a href="https://doi.org/10.1101/2025.06.04.657810">[Paper]</a>
+  Jialan Zheng, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>  
+  <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2026.
+</li>
+  
 <li id="JP-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer</span> <br> 
     <a href="https://www.sciencedirect.com/science/article/pii/S0893608025000073">[Paper]</a> <a href="https://github.com/Arktis2022/Spiking-PhysFormer">[Code]</a> <br> 
@@ -533,12 +542,6 @@ function toggleNews() {
     <span style="color:#000000; font-weight:bold;">An incredibly simple real-time method without CNN for red tongue tip classification</span> <br>
     Jingqiao Lu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hong Chen*, Chuanchi Wang, Jingqing Hu<br>
     <i>Biomedical Signal Processing and Control <strong>(BSPC). </strong></i> 2025. (Major Revision)
-  </li>
-
-  <li id="MA-Pub3"> 
-    <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
-    Jialan Zheng, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>  
-    <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2025. (Minor Revision)
   </li>
 
   <li id="MA-Pub3"> 
