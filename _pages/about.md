@@ -514,7 +514,7 @@ function toggleNews() {
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI</span> <br>
     Yingqi Hao#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Juncheng Zhu, Hongjia Yang, Haoxiang Li, Yi Liao, Haibo Qu*, Qiyuan Tian<br> 
-    <i>Radiology: Artificial Intelligence <strong>(RAI). </strong></i> 2025. (Under Review)
+    <i>npj Digital Medicine <strong>(NPJ DIGIT MED). </strong></i> 2025. (Under Review)
   </li>
 
   <li id="MA-Pub0"> 
