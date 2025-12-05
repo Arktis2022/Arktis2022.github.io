@@ -191,7 +191,7 @@ function toggleNews() {
 <ol reversed>
 <li id="MA-Pub3"> 
   <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
-  <a href="https://doi.org/10.1101/2025.06.04.657810">[Paper]</a>
+  <a href="https://doi.org/10.1101/2025.06.04.657810">[Paper]</a> <br> 
   Jialan Zheng, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>  
   <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2026.
 </li>
