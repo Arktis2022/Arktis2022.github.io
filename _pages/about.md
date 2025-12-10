@@ -522,7 +522,7 @@ function toggleNews() {
 
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Unsupervised detection of fetal brain anomaly in MRI via patch-based age prediction using deep learning</span> <br>
-    Yingqi Hao#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Juncheng Zhu, Hongjia Yang, Haoxiang Li, Yi Liao, Haibo Qu*, Qiyuan Tian<br> 
+    Yingqi Hao#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Juncheng Zhu#, Hongjia Yang, Haoxiang Li, Yi Liao, Haibo Qu*, Qiyuan Tian*<br> 
     <i>npj Digital Medicine <strong>(NPJ DIGIT MED). </strong></i> 2025. (Under Review)
   </li>
 
