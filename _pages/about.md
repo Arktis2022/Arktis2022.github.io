@@ -615,6 +615,25 @@ function toggleNews() {
     Ying Wu, Yitong Zhang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Lijun Zhang, Qiyuan Tian*<br>
    <i>World Ophthalmology Congress <strong>(WOC). </strong></i> 2026. (Under Review)
   </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Automated Induction of Standardized Reporting Templates from 
+Fetal Brain MRI Free-Text Corpora</span> <br>
+    Xinfeng Zhang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hongjia Yang, Yifei Chen, Juncheng Zhu, Xuguang Bai, Yiming Huang, Yingqi Hao, Zihan Li, Yi Liao, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
+   <i>OHBM Annual Meeting <strong>(OHBM). </strong></i> 2026. (Under Review)
+  </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Benchmarking Spatiotemporal Fetal Brain Atlas Construction</span> <br>
+    Xiaotian Hu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yijin Li, Hongjia Yang, Yinqi Hao, Haoxiang Li, Yifei Chen, Zihan Li, Juncheng Zhu, Yi Liao, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
+   <i>OHBM Annual Meeting <strong>(OHBM). </strong></i> 2026. (Under Review)
+  </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis</span> <br>
+    Yijin Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hongjia Yang, Yi Liao, Kasidit Anmahapong, Ziang Wang, Junchen Zhu, Xiaotian Hu, Yingqi Hao, Yifei Chen, Haoxiang Li, Ziyu Li, Fenglin Jia, Haibo Qu, Qiyuan Tian*<br>
+   <i>OHBM Annual Meeting <strong>(OHBM). </strong></i> 2026. (Under Review)
+  </li>
 </ol>
 
 # 🎖 Honors and Awards
