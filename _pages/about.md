@@ -34,6 +34,8 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <!-- 1. 默认显示的前 5 条 -->
 <div id="recent-news" markdown="1">
   
+**2025.12.21:** 🎉🎉 One abstract accepted by [WOC 2026](https://icowoc.org/).
+  
 **2025.12.06:** 🎉🎉 One [paper](https://doi.org/10.1101/2025.06.04.657810) accepted by [Imaging Neuroscience](https://direct.mit.edu/imag).
   
 **2025.11.22:** 🎉🎉 Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University) and awarded [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing). [Photo](https://img.erpweb.eu.org/imgs/2025/12/f6c7ff3788f3fa0e.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/12/abfd2851a152ef49.jpg)
@@ -326,7 +328,12 @@ function toggleNews() {
 
 
 <h2 id="CONFERENCE ABSTRACTS" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">CONFERENCE ABSTRACTS</h2>
-
+<li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Prognostic Al Model for Myopia in Children & Adolescents Using Real-World intervention Data: A 7-Center Study</span> <br>
+    Ying Wu, Yitong Zhang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Lijun Zhang, Qiyuan Tian*<br>
+   <i>World Ophthalmology Congress <strong>(WOC). </strong></i> 2026. (Poster)
+</li>
+  
 <ol reversed>
   <li id="CA-Pub0">
     <span style="color:#000000; font-weight:bold;">Artificial Intelligence-based Myopia Prediction in Children and Adolescents</span> <br>
@@ -608,12 +615,6 @@ function toggleNews() {
     <span style="color:#000000; font-weight:bold;">AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions</span> <br>
     Yifei Chen, Guanyu Zhou, Yuanhan Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xuguang Bai, Jialan Zheng, Bixiao Cui, Jie Lu, Qiyuan Tian*<br>
    <i>ISMRM & ISMRT Annual Meeting & Exhibition <strong>(ISMRM). </strong></i> 2026. (Under Review)
-  </li>
-
-  <li id="MA-Pub3"> 
-    <span style="color:#000000; font-weight:bold;">Prognostic Al Model for Myopia in Children & Adolescents Using Real-World intervention Data: A 7-Center Study</span> <br>
-    Ying Wu, Yitong Zhang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Lijun Zhang, Qiyuan Tian*<br>
-   <i>World Ophthalmology Congress <strong>(WOC). </strong></i> 2026. (Under Review)
   </li>
 
   <li id="MA-Pub3"> 
