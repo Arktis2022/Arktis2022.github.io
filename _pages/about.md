@@ -635,6 +635,12 @@ Fetal Brain MRI Free-Text Corpora</span> <br>
     Yijin Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hongjia Yang, Yi Liao, Kasidit Anmahapong, Ziang Wang, Junchen Zhu, Xiaotian Hu, Yingqi Hao, Yifei Chen, Haoxiang Li, Ziyu Li, Fenglin Jia, Haibo Qu, Qiyuan Tian*<br>
    <i>OHBM Annual Meeting <strong>(OHBM). </strong></i> 2026. (Under Review)
   </li>
+
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">The Mask of Civility: Benchmarking Chinese Mock Politeness Comprehension in Large Language Models</span> <br>
+    Yitong Zhang#, Yuhan Xiang#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu*</span><br>
+   <i>EACL Student Research Workshop <strong>(EACL SRW). </strong></i> 2026. (Under Review)
+  </li>
 </ol>
 
 # 🎖 Honors and Awards
