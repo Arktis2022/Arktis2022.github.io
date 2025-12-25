@@ -458,35 +458,35 @@ function toggleNews() {
     <span style="color:#000000; font-weight:bold;">BrainSFUDA: Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption</span> <br>
     <a href="https://cds.ismrm.org/protected/Diffusion40/abstracts/Li,%20Yijin.pdf">[Paper]</a>  <br>
     Yijin Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Junchen Zhu, Hongjia Yang, Jialan Zheng, Ziyu Li, Yi Liao, Haibo Qu, Qiyuan Tian*<br>
-    <i>ISMRM Workshop on 40 Years of Diffusion </i> 2025. (Oral Power Pitch)
+    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Power Pitch)
   </li>
 
   <li id="CA-Pub5"> 
     <span style="color:#000000; font-weight:bold;">DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications</span> <br>
     <a href="https://cds.ismrm.org/protected/Diffusion40/abstracts/Chen,%20Yifei.pdf">[Paper]</a>  <br>
     Yifei Chen, Zihan Li, Shenghao Zhu, Ziyu Li, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Qiyuan Tian*<br>
-    <i>ISMRM Workshop on 40 Years of Diffusion </i> 2025. (Poster)
+    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Poster)
   </li>
 
    <li id="CA-Pub7"> 
     <span style="color:#000000; font-weight:bold;">Effect of Diffusion MRI Acquisition and Nominal Spatial Resolutions on Fiber Reconstruction and Connectivity Estimation</span> <br>
      <a href="https://cds.ismrm.org/protected/Diffusion40/abstracts/Zheng,%20Jialan.pdf">[Paper]</a>  <br>
      Zheng J, Yang C, Zhong W, Wang Z, Li H, Li Z, <span style="color:#b02418; font-weight:bold;">Liu M</span>, Yang H, Cao X, Liao C, Salat DH, Huang SY, Tian Q*<br>
-    <i>ISMRM Workshop on 40 Years of Diffusion </i> 2025. (Oral Presentation)
+    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Presentation)
   </li>
 
   <li id="CA-Pub7"> 
     <span style="color:#000000; font-weight:bold;">DeepEddy: high-quality eddy current and bulk motion correction using deep learning-based image synthesis and co-registration</span> <br>
     <a href="https://cds.ismrm.org/protected/Diffusion40/abstracts/Zhang,%20Jize.pdf">[Paper]</a>  <br>
      Jize Zhang, Frederik Lange, Jesper Andersson, Jialan Zheng, Yi Jing, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Zihan Li, Wenchuan Wu, Qiyuan Tian, Ziyu Li*<br>
-    <i>ISMRM Workshop on 40 Years of Diffusion </i> 2025. (Oral Presentation)
+    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Oral Presentation)
   </li>
   
   <li id="CA-Pub6"> 
     <span style="color:#000000; font-weight:bold;">DIMOND++: Improving diffusion model optimization using diffusion priors</span> <br>
     <a href="https://cds.ismrm.org/protected/Diffusion40/abstracts/Li,%20Zihan.pdf">[Paper]</a>  <br> 
      Zihan Li, Jialan Zheng, Ziyu Li, Ziang Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hongjia Yang, Guochen Ning, Hongen Liao, Qiyuan Tian*<br>
-    <i>ISMRM Workshop on 40 Years of Diffusion </i> 2025. (Poster)
+    <i>ISMRM Workshop on 40 Years of Diffusion. </i> 2025. (Poster)
   </li>
   
   <li id="CA-Pub1"> 
