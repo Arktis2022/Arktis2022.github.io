@@ -645,7 +645,7 @@ Fetal Brain MRI Free-Text Corpora</span> <br>
   <li id="CA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Quality-Label-Free Stack-Level Quality Control Improves Fetal Brain Slice-to-Volume Reconstruction</span> <br>
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yingqi Hao, Yi Liao, Haoxiang Li, Juncheng Zhu, Hongjia Yang, Yifei Chen, Xuguang Bai, Haibo Qu, Qiyuan Tian*<br>
-    <i>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging </i> 2026. (Under Review)
+    <i>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging. </i> 2026. (Under Review)
   </li>
   
 </ol>
