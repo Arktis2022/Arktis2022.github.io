@@ -647,7 +647,12 @@ Fetal Brain MRI Free-Text Corpora</span> <br>
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yingqi Hao, Yi Liao, Haoxiang Li, Juncheng Zhu, Hongjia Yang, Yifei Chen, Xuguang Bai, Haibo Qu, Qiyuan Tian*<br>
     <i>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging. </i> 2026. (Under Review)
   </li>
-  
+
+  <li id="CA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI</span> <br>
+    Xiaotian Hu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hongjia Yang, Yijin Li, Yingqi Hao, Haoxiang Li, Yifei Chen, Zihan Li, Juncheng Zhu, Yi Liao, Gang Ning, Haibo Qu, Qiyuan Tian*<br>
+    <i>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging. </i> 2026. (Under Review)
+  </li>
 </ol>
 
 # 🎖 Honors and Awards
