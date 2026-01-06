@@ -567,7 +567,7 @@ function toggleNews() {
   <li id="MA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network</span> <br>
     Yifei Chen#, Zihan Li#, Yuanhan Wang, Yijin Li, Jialan Zheng, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Tolga Cukur, Ziyu Li, Qiyuan Tian*<br> 
-   <i>NeuroImage <strong>(NIMG). </strong></i> 2025. (Under Review)
+   <i>NeuroImage <strong>(NIMG). </strong></i> 2025. (Major Revision)
   </li>
 
   <li id="MA-Pub3"> 
