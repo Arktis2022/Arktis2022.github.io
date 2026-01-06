@@ -521,6 +521,13 @@ function toggleNews() {
 <h2 id="Manuscripts Under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;"> Manuscripts Under Review</h2>
 
 <ol reversed>
+  
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot</span> <br>
+    Zihan Li#, Yixiao Xu#, Lei Zhang, Taiyu Han, Xinshan Yang, Yingni Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Shenghai Xin, Linxun Liu, Hongen Liao*, Guochen Ning*<br>
+   <i>Nature Biomedical Engineering <strong>(NBME). </strong></i> 2025. (Major Revision)
+  </li>
+  
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty</span> <br>
     <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Yi Liao#, Haoxiang Li, Juncheng Zhu, Hongjia Yang, Yingqi Hao, Haibo Qu*, Qiyuan Tian*<br> 
@@ -567,12 +574,6 @@ function toggleNews() {
     <span style="color:#000000; font-weight:bold;">SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI</span> <br>
     Yuanhan Wang#, Yifei Chen#, Shuo Jiang, Wenjing Yu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Beining Wu, Jinying Zong, Feiwei Qin, Changmiao Wang, Qiyuan Tian*<br>
    <i>IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT). </strong></i> 2025. (Under Review)
-  </li>
-
-  <li id="MA-Pub3"> 
-    <span style="color:#000000; font-weight:bold;">Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot</span> <br>
-    Zihan Li#, Yixiao Xu#, Lei Zhang, Taiyu Han, Xinshan Yang, Yingni Wang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Shenghai Xin, Linxun Liu, Hongen Liao*, Guochen Ning*<br>
-   <i>Nature Biomedical Engineering <strong>(NBME). </strong></i> 2025. (Under Review)
   </li>
 
   <li id="MA-Pub3"> 
