@@ -541,11 +541,17 @@ function toggleNews() {
   </li>
 
   <li id="MA-Pub0"> 
+    <span style="color:#000000; font-weight:bold;">A Chinese vision-language large model for emergency 3D brain CT interpretation</span> <br>
+    Yifei Chen#, Jingyuan Zheng#, Yuanhan Wang#, Beining Wu, Lu Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Liaoman Xu, Yueyi Wu, Chang Liu, Lulu Guo, Hongjia Yang, Xuguang Bai, Feiwei Qin, Qiang Liao, Yong Gu, Gang Zhao, Lu Ma, Keqin Pan, Jun Guo, Ying Zhou, Huaiqiang Sun*, Qiyuan Tian*<br> 
+    <i>npj Digital Medicine <strong>(NPJ DM). </strong></i> 2025. (Under Review)
+  </li>
+  
+  <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI</span> <br>
     Changwei Wu#, Yifei Chen#, Yuxin Du, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Jinying Zong, Beining Wu, Jie Dong, Feiwei Qin*, Yunkang Cao, Qiyuan Tian*<br> 
     <i>Medical Image Analysis <strong>(MIA). </strong></i> 2025. (Under Review)
   </li>
-
+  
   <li id="MA-Pub1"> 
     <span style="color:#000000; font-weight:bold;">A Large Scale Benchmark for Test Time Adaptation in Medical Image Segmentation</span> <br>
     Wenjing Yu#, Shuo Jiang#, Yifei Chen#, Shuo Chang, Yuanhan Wang, Beining Wu, Jie Dong, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Shenghao Zhu, Feiwei Qin*, Changmiao Wang, Qiyuan Tian*<br> 
