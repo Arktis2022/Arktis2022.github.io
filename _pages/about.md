@@ -543,7 +543,7 @@ function toggleNews() {
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">A Chinese vision-language large model for emergency 3D brain CT interpretation</span> <br>
     Yifei Chen#, Jingyuan Zheng#, Yuanhan Wang#, Beining Wu, Lu Li, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Liaoman Xu, Yueyi Wu, Chang Liu, Lulu Guo, Hongjia Yang, Xuguang Bai, Feiwei Qin, Qiang Liao, Yong Gu, Gang Zhao, Lu Ma, Keqin Pan, Jun Guo, Ying Zhou, Huaiqiang Sun*, Qiyuan Tian*<br> 
-    <i>npj Digital Medicine <strong>(NPJ DM). </strong></i> 2025. (Under Review)
+    <i>npj Digital Medicine <strong>(NPJ DM). </strong></i> 2026. (Under Review)
   </li>
   
   <li id="MA-Pub0"> 
