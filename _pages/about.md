@@ -33,7 +33,9 @@ Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../image
 <div class="news-container" style="line-height: 1.6;">
 <!-- 1. 默认显示的前 5 条 -->
 <div id="recent-news" markdown="1">
-  
+
+**2026.01.09:** 🎉🎉 One [paper](https://arxiv.org/abs/2506.09695) accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control).
+
 **2025.12.21:** 🎉🎉 One abstract accepted by [WOC 2026](https://icowoc.org/).
   
 **2025.12.06:** 🎉🎉 One [paper](https://doi.org/10.1101/2025.06.04.657810) accepted by [Imaging Neuroscience](https://direct.mit.edu/imag).
@@ -192,6 +194,12 @@ function toggleNews() {
 
 <ol reversed>
 <li id="MA-Pub3"> 
+  <li id="MA-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model</span> <br>
+    Changwei Wu#, Yifei Chen#, Yuxin Du, Jinying Zong, Jie Dong, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yong Peng, Jin Fan, Feiwei Qin, Changmiao Wang*<br> 
+    <i>Biomedical Signal Processing and Control <strong>(BSPC). </strong></i> 2026.  
+  </li>
+  
   <span style="color:#000000; font-weight:bold;">Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation</span> <br>
   <a href="https://doi.org/10.1101/2025.06.04.657810">[Paper]</a> <br> 
   Jialan Zheng, Ziyu Li*, Wen Zhong, Ziang Wang, Zihan Li, Hongjia Yang, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Xiaozhi Cao, Congyu Liao, David H. Salat, Susie Y. Huang, Qiyuan Tian*<br>  
@@ -562,12 +570,6 @@ function toggleNews() {
     <span style="color:#000000; font-weight:bold;">An incredibly simple real-time method without CNN for red tongue tip classification</span> <br>
     Jingqiao Lu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Hong Chen*, Chuanchi Wang, Jingqing Hu<br>
     <i>Biomedical Signal Processing and Control <strong>(BSPC). </strong></i> 2025. (Major Revision)
-  </li>
-
-  <li id="MA-Pub3"> 
-    <span style="color:#000000; font-weight:bold;">Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model</span> <br>
-    Changwei Wu#, Yifei Chen#, Yuxin Du, Jinying Zong, Jie Dong, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yong Peng, Jin Fan, Feiwei Qin, Changmiao Wang*<br> 
-    <i>Biomedical Signal Processing and Control <strong>(BSPC). </strong></i> 2025.  (Major Revision)
   </li>
 
   <li id="MA-Pub3"> 
