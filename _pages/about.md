@@ -195,6 +195,7 @@ function toggleNews() {
 <ol reversed>
 <li id="MA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model</span> <br>
+  <a href="https://arxiv.org/abs/2506.09695">[Paper]</a> <a href="https://github.com/wuchangw/FasterSNN">[Code]</a> <br> 
     Changwei Wu#, Yifei Chen#, Yuxin Du, Jinying Zong, Jie Dong, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Yong Peng, Jin Fan, Feiwei Qin, Changmiao Wang*<br> 
     <i>Biomedical Signal Processing and Control <strong>(BSPC). </strong></i> 2026.  
 </li>
