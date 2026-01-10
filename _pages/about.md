@@ -546,7 +546,7 @@ function toggleNews() {
   <li id="MA-Pub0"> 
     <span style="color:#000000; font-weight:bold;">PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI</span> <br>
     Yingqi Hao#, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu#</span>, Juncheng Zhu#, Hongjia Yang, Haoxiang Li, Gang Ning, Yi Liao, Haibo Qu*, Qiyuan Tian*<br> 
-    <i>NeuroImage <strong>(NIMG). </strong></i> 2026. (Under Review)
+    <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2026. (Under Review)
   </li>
 
   <li id="MA-Pub0"> 
@@ -582,7 +582,7 @@ function toggleNews() {
   <li id="MA-Pub3"> 
     <span style="color:#000000; font-weight:bold;">SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI</span> <br>
     Yuanhan Wang#, Yifei Chen#, Shuo Jiang, Wenjing Yu, <span style="color:#b02418; font-weight:bold;">Mingxuan Liu</span>, Beining Wu, Jinying Zong, Feiwei Qin, Changmiao Wang, Qiyuan Tian*<br>
-   <i>IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT). </strong></i> 2025. (Under Review)
+   <i>Imaging Neuroscience <strong>(IMAG). </strong></i> 2025. (Under Review)
   </li>
 
   <li id="MA-Pub3"> 
