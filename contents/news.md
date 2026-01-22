@@ -1,5 +1,5 @@
 <div style="max-height: 300px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
-
+  
 **2026.01.09:** 🎉🎉 One [paper](https://arxiv.org/abs/2506.09695) accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control).
 
 **2025.12.21:** 🎉🎉 One abstract accepted by [WOC 2026](https://icowoc.org/).
