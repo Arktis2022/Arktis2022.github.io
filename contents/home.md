@@ -12,7 +12,7 @@ B.E., Biomedical Engineering, Tsinghua University, 2021—2024.\
 B.E. Student, Chemical Engineering, Tsinghua University, 2019—2021.
 
 #### Research Interests
-AI for Neuroscience; Medical Image Analysis; Fetal Brain MRI; Anomaly Detection. 
+AI for Neuroscience; Medical Image Analysis; Fetal Brain MRI; Foundation Model. 
 
 #### Links
 [Github](https://github.com/Arktis2022) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN)
