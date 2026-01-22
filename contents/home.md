@@ -1,8 +1,14 @@
+I'm Second-year PhD student from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Neuroscience, Medical Image Analysis, Spiking Neural Network.
 
+I am very fortunate to be advised by [Prof. Qiyuan Tian](https://www.med.tsinghua.edu.cn/info/1143/2126.htm) of [Birth Lab](https://birthlab.github.io/) from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/index.htm), Tsinghua University. 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+I was previously advised by [Prof. Hong Chen](http://hongchen.ime.tsinghua.edu.cn/) from [School of Integrated Circuits](https://www.sic.tsinghua.edu.cn/en/index.htm), Tsinghua University.
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+You can find my CV here: [Mingxuan Liu's Curriculum Vitae](https://github.com/Arktis2022/CV-Mingxuan-Liu/blob/main/CV-Mingxuan%20Liu.pdf).
+
+Other related links: [Github](https://github.com/Arktis2022) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN) / [Semantic scholar](https://www.semanticscholar.org/author/Mingxuan-Liu/2112213258).
+
+<a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=8VyGtD0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 #### Contact
 
