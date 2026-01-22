@@ -110,7 +110,7 @@ section .main-body{
 }
 
 /* News 滚动容器样式 */
-.news-scroll-container {
+section .news-scroll-container {
     max-height: 400px;           /* 最大高度，可根据需要调整 */
     overflow-y: auto;            /* 垂直方向可滚动 */
     padding-right: 10px;         /* 右边距，给滚动条留空间 */
@@ -121,21 +121,21 @@ section .main-body{
 }
 
 /* 自定义滚动条样式（适用于 Webkit 浏览器） */
-.news-scroll-container::-webkit-scrollbar {
+section .news-scroll-container::-webkit-scrollbar {
     width: 8px;                  /* 滚动条宽度 */
 }
 
-.news-scroll-container::-webkit-scrollbar-track {
+section .news-scroll-container::-webkit-scrollbar-track {
     background: #f1f1f1;         /* 滚动条轨道颜色 */
     border-radius: 4px;
 }
 
-.news-scroll-container::-webkit-scrollbar-thumb {
+section .news-scroll-container::-webkit-scrollbar-thumb {
     background: #888;            /* 滚动条滑块颜色 */
     border-radius: 4px;
 }
 
-.news-scroll-container::-webkit-scrollbar-thumb:hover {
+section .news-scroll-container::-webkit-scrollbar-thumb:hover {
     background: #555;            /* 滑块悬停颜色 */
 }
 
