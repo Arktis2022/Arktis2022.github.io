@@ -15,4 +15,4 @@ B.E. Student, Chemical Engineering, Tsinghua University, 2019—2021.
 AI for Neuroscience; Medical Image Analysis; Fetal Brain MRI; Anomaly Detection. 
 
 #### Links
-[Github](https://github.com/Arktis2022) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN) / [Semantic scholar](https://www.semanticscholar.org/author/Mingxuan-Liu/2112213258).
+[Github](https://github.com/Arktis2022) / [Wechat](../images/wechat.jpg) / [Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN)
