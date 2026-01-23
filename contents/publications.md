@@ -1,3 +1,5 @@
+<div style="max-height: 300px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+
 #### JOURNAL PAPERS
 
 - C. Wu#, Y. Chen#, Y. Du, J. Zong, J. Dong, <strong>M. Liu</strong>, Y. Peng, J. Fan, F. Qin, and C. Wang*. Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model. <strong>Biomedical Signal Processing and Control (BSPC)</strong>, 2026. [[Paper]](https://arxiv.org/abs/2506.09695) [[Code]](https://github.com/wuchangw/FasterSNN)
@@ -20,3 +22,4 @@
 
 - X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
+</div>
