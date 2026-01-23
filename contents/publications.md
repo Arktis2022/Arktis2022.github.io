@@ -118,3 +118,57 @@
 - Z. Li, J. Zheng, Z. Li, Z. Wang, <strong>M. Liu</strong>, H. Yang, G. Ning, H. Liao, and Q. Tian*. DIMOND++: Improving diffusion model optimization using diffusion priors. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Poster) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Li,%20Zihan.pdf)
 
 </div>
+
+<h4 style="margin-top: 50px;">Manuscripts Under Review</h4>
+
+<div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+
+- <strong>M. Liu#</strong>, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, N. Sun, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian*. An Annotation-Free Deep Learning Framework for Fetal Brain Hemorrhage Detection and Segmentation. <strong>JAMA Pediatrics (JAMA Pediatr)</strong>. (Under Review)
+
+- Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, <strong>M. Liu</strong>, S. Xin, L. Liu, H. Liao*, and G. Ning*. Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
+
+- <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>. (Major Revision)
+
+- Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>. (Under Review)
+
+- M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, <strong>M. Liu</strong>, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian*. SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data. <strong>Imaging Neuroscience (IMAG)</strong>. (Under Review)
+
+- Y. Chen#, J. Zheng#, Y. Wang#, B. Wu, L. Li, <strong>M. Liu</strong>, L. Xu, Y. Wu, C. Liu, L. Guo, H. Yang, X. Bai, F. Qin, Q. Liao, Y. Gu, G. Zhao, L. Ma, K. Pan, J. Guo, Y. Zhou, H. Sun*, and Q. Tian*. A Chinese vision-language large model for emergency 3D brain CT interpretation. <strong>npj Digital Medicine (NPJ DM)</strong>. (Under Review)
+
+- C. Wu#, Y. Chen#, Y. Du, <strong>M. Liu</strong>, J. Zong, B. Wu, J. Dong, F. Qin*, Y. Cao, and Q. Tian*. AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI. <strong>Pattern Recognition (PR)</strong>. (Under Review)
+
+- W. Yu#, S. Jiang#, Y. Chen#, S. Chang, Y. Wang, B. Wu, J. Dong, <strong>M. Liu</strong>, S. Zhu, F. Qin*, C. Wang, and Q. Tian*. A Large Scale Benchmark for Test Time Adaptation in Medical Image Segmentation. <strong>Pattern Recognition (PR)</strong>. (Under Review)
+
+- J. Lu, <strong>M. Liu</strong>, H. Chen*, C. Wang, and J. Hu. An incredibly simple real-time method without CNN for red tongue tip classification. <strong>Biomedical Signal Processing and Control (BSPC)</strong>. (Major Revision)
+
+- Y. Chen#, Z. Li#, Y. Wang, Y. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, T. Cukur, Z. Li, and Q. Tian*. MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network. <strong>NeuroImage (NIMG)</strong>. (Major Revision)
+
+- Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, B. Wu, J. Zong, F. Qin, C. Wang, and Q. Tian*. SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI. <strong>Knowledge-based Systems (KBS)</strong>. (Under Review)
+
+- <strong>M. Liu</strong>, H. Li, H. Yang, Y. Liao, J. Zhu, J. Zheng, Y. Hao, Z. Li, Z. Li, Z. Wang, Y. Li, J. Huang, G. Ning, H. Qu, and Q. Tian*. Cortical Brain in Utero Growth Among Fetuses with Germinal Matrix and Intraventricular Hemorrhage (GMH-IVH). <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
+
+- H. Li, <strong>M. Liu</strong>, D. Varadarajan, Z. Hu, Q. Tian, and J. Polimeni*. Test-time optimization for cortical surface reconstruction across image resolutions/contrasts using untrained neural networks. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
+
+- H. Yang, <strong>M. Liu</strong>, Y. Liao, M. Zhang, J. Zhu, H. Li, F. Jia, Z. Li, Y. Li, J. Huang, Z. Wang, Z. Li, H. Qu, and Q. Tian*. Improving the Accuracy of Fetal Brain Age Prediction Using Neural Network Attribution Maps. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
+
+- Y. Li, <strong>M. Liu</strong>, H. Yang, X. Hu, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
+
+- Y. Hao, <strong>M. Liu</strong>, J. Zhu, H. Yang, H. Li, J. Huang, Y. Liao, H. Qu, and Q. Tian*. Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
+
+- J. Huang, K. Anmahapong, H. Li, <strong>M. Liu</strong>, J. Zhu, H. Yang, Y. Li, Y. Hao, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Multi-Organ Volumetric Growth Trajectories in Fetuses with Hydronephrosis. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
+
+- Y. Chen, G. Zhou, Y. Wang, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, J. Lu, and Q. Tian*. AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
+
+- X. Zhang, <strong>M. Liu</strong>, H. Yang, Y. Chen, J. Zhu, X. Bai, Y. Huang, Y. Hao, Z. Li, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Automated Induction of Standardized Reporting Templates from Fetal Brain MRI Free-Text Corpora. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Under Review)
+
+- X. Hu, <strong>M. Liu</strong>, Y. Li, H. Yang, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Benchmarking Spatiotemporal Fetal Brain Atlas Construction. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Under Review)
+
+- Y. Li, <strong>M. Liu</strong>, H. Yang, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, X. Hu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Under Review)
+
+- Y. Zhang#, Y. Xiang#, and <strong>M. Liu*</strong>. The Mask of Civility: Benchmarking Chinese Mock Politeness Comprehension in Large Language Models. <strong>EACL Student Research Workshop (EACL SRW)</strong>, 2026. (Under Review)
+
+- <strong>M. Liu</strong>, Y. Hao, Y. Liao, H. Li, J. Zhu, H. Yang, Y. Chen, X. Bai, H. Qu, and Q. Tian*. Quality-Label-Free Stack-Level Quality Control Improves Fetal Brain Slice-to-Volume Reconstruction. <strong>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging</strong>, 2026. (Under Review)
+
+- X. Hu, <strong>M. Liu</strong>, H. Yang, Y. Li, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*. INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI. <strong>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging</strong>, 2026. (Under Review)
+
+</div>
