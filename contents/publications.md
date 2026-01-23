@@ -1,4 +1,7 @@
-<span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
+<p style="font-size: 0.9em; color: #666;">
+<span style="color:#b02418; font-weight:bold;">#</span> co-first author &emsp;
+<span style="color:#b02418; font-weight:bold;">*</span> corresponding author
+</p>
 
 #### JOURNAL PAPERS
 
