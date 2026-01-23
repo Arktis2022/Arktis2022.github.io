@@ -58,3 +58,63 @@
 - H. Li#, <strong>M. Liu#</strong>, H. Yang, Y. Liao, H. Qu, J. R. Polimeni, and Q. Tian*. Self-Supervised Cortical Surface Reconstruction for Ultra High-resolution ex vivo 7T MRI. <strong>Medical Imaging with Deep Learning (MIDL)</strong>, 2025. (Poster) [[Paper]](https://openreview.net/forum?id=fn8aDbnylG)
 
 </div>
+
+<h4 style="margin-top: 50px;">CONFERENCE ABSTRACTS</h4>
+
+<div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+
+- <strong>M. Liu</strong>, Y. Li, J. Zhu, H. Yang, Y. Huang, H. Li, Y. Chen, X. Bai, Y. Liao, H. Qu, and Q. Tian*. From Free Text to Usable Labels: Privacy-Ensuring Open-weights LLM-Enhanced Clinical Report Extraction for Fetal MRI. <strong>Beijing-Tsinghua Health AI Summit (BEIHAI)</strong>, 2025. (Oral, Second Prize of Oral Presentation) [[Paper]](https://hal.science/hal-05330462)
+
+- <strong>M. Liu</strong>, H. Li, Z. Li, H. Yang, J. Zheng, H. Qu, and Q. Tian*. Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty. <strong>OHBM Annual Meeting (OHBM)</strong>, 2025. (Poster, OHBM Merit Award, Top 1.6%) [[Paper]](https://hal.science/hal-04974115)
+
+- <strong>M. Liu</strong>, Y. Liao, J. Zhu, H. Li, H. Yang, J. Zheng, Z. Li, Z. Li, H. Qu, and Q. Tian*. FreeHemoSeg: Label-Free Deep Learning Framework for Automated Segmentation of Fetal Brain Germinal Matrix and Intraventricular Hemorrhage. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster) [[Paper]](https://archive.ismrm.org/2025/3790_Ym89lJRZe.html)
+
+- <strong>M. Liu</strong>, H. Li, J. Zhu, J. Zheng, H. Yang, Z. Li, Z. Li, and Q. Tian*. Detecting Fetal Germinal Matrix and Intraventricular Hemorrhage in Brain MRI Using Label-free Deep Learning. <strong>Annual Meeting of Radiological Society of North America (RSNA)</strong>, 2024. (Oral Paper Presentation) [[Paper]](https://hal.science/hal-04961196/)
+
+- <strong>M. Liu</strong>, H. Li, Z. Li, H. Yang, J. Zheng, X. Zhang, and Q. Tian*. Image Quality Assessment using an Orientation Recognition Network for Fetal MRI. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2024. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%) [[Paper]](https://archive.ismrm.org/2024/0726.html)
+
+- <strong>M. Liu</strong>, H. Li, H. Qu, and Q. Tian*. Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning. <strong>Singapore AI Health Summit</strong>, 2023. (Poster Competition 3rd Place Winner, Top 3%) [[Paper]](https://hal.science/hal-04961169/)
+
+- Y. Zhang, <strong>M. Liu</strong>, Y. Wu, L. Zhang, C. Chai, Z. Liu, and Q. Tian*. Machine Learning and Deep Learning for Pediatric and Adolescent Myopia Prediction. <strong>Beijing-Tsinghua Health AI Summit (BEIHAI)</strong>, 2025. (Poster) [[Paper]](https://hal.science/hal-05330520)
+
+- Y. Hao, <strong>M. Liu</strong>, J. Zhu, H. Yang, Y. Liao, H. Qu, and Q. Tian*. Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder (ω-DAE). <strong>OHBM Annual Meeting (OHBM)</strong>, 2025. (Poster) [[Paper]](https://hal.science/hal-04974207)
+
+- H. Yang, <strong>M. Liu</strong>, Y. Liao, J. Zhu, H. Li, Z. Li, J. Zhang, J. Zheng, Z. Li, H. Qu, and Q. Tian*. Volume Reconstruction from Single MRI Thick-slice Stack with Deep Learning for Fetal Brain. <strong>OHBM Annual Meeting (OHBM)</strong>, 2025. (Poster) [[Paper]](https://zenodo.org/records/15641972)
+
+- H. Yang, <strong>M. Liu</strong>, Y. Liao, H. Li, J. Zhu, Z. Li, J. Zhang, J. Zheng, Z. Li, H. Qu, and Q. Tian*. FetalSR: Super-resolving High-isotropic-resolution Image Volume from Single Thick-slice Stack with Deep Learning for Fetal Brain Morphometry. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Oral Presentation, ISMRM Summa Cum Laude Merit Award, Top 5%) [[Paper]](https://archive.ismrm.org/2025/0015_TonEG7RQy.html)
+
+- H. Li, <strong>M. Liu</strong>, Y. Liao, J. Zhu, J. Zheng, H. Yang, Z. Li, H. Qu, and Q. Tian*. CortexKAN: Multi-input KAN for fetal cortical surface reconstruction. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster) [[Paper]](https://archive.ismrm.org/2025/3792_9U0wArSPu.html)
+
+- Y. Li, <strong>M. Liu</strong>, J. Zhu, H. Yang, J. Zheng, Z. Li, Y. Liao, H. Qu, and Q. Tian*. FetalSFUDA: Source-Free Unsupervised Domain Adaptation for Fetal Brain Extraction from Different Centers or MRI Sequences. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster) [[Paper]](https://archive.ismrm.org/2025/3788_5TdJkERAZ.html)
+
+- Y. Li, <strong>M. Liu</strong>, J. Zhu, H. Yang, J. Zheng, Z. Li, Y. Liao, H. Qu, and Q. Tian*. BrainSFUDA: Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Oral Power Pitch) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Li,%20Yijin.pdf)
+
+- H. Li, <strong>M. Liu</strong>, J. Zheng, H. Yang, Z. Li, and Q. Tian*. FetalSurfer: Automated Fetal Cortical Surface Reconstruction. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2024. (Digital Poster) [[Paper]](https://archive.ismrm.org/2024/3635.html)
+
+- Y. Wu, Y. Zhang, <strong>M. Liu</strong>, L. Zhang, and Q. Tian*. Prognostic AI Model for Myopia in Children & Adolescents Using Real-World Intervention Data: A 7-Center Study. <strong>World Ophthalmology Congress (WOC)</strong>, 2026. (Poster)
+
+- Y. Wu, Y. Zhang, <strong>M. Liu</strong>, L. Zhang, and Q. Tian*. Artificial Intelligence-based Myopia Prediction in Children and Adolescents. <strong>Asia-Pacific Academy of Ophthalmology Congress (APAO)</strong>, 2026. (Poster)
+
+- Y. He, J. Zheng, H. Yang, Y. Chen, Z. Li, <strong>M. Liu</strong>, Q. Fan, Y. Liao, H. Qu, Q. Tian, J. Lu, and Z. Li*. HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure brain Imaging using Deep learning. <strong>Annual Meeting of Radiological Society of North America (RSNA)</strong>, 2025. (Poster) [[Paper]](https://github.com/Arktis2022/Arktis2022.github.io_old/blob/main/_data/RSNA2025_HeYuhang_Final.pdf)
+
+- H. Li, Y. Liao, J. Zhu, <strong>M. Liu</strong>, J. Zheng, H. Yang, Z. Li, Z. Li, Q. Tian, and H. Qu*. Negative Impacts of Germinal Matrix-Ventricular Hemorrhage on Prenatal and Postnatal Brain Development. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster, ISMRM Summa Cum Laude Merit Award, Top 5%) [[Paper]](https://archive.ismrm.org/2025/3798_4AGubBRaV.html)
+
+- Y. Chen, Z. Li, Y. Wang, Z. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, and Q. Tian*. DiffKAN: Convolutional Kolmogorov-Arnold Networks for Improved Diffusion MRI Microstructural Modeling. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster) [[Paper]](https://archive.ismrm.org/2025/3848_PtzrNzQlO.html)
+
+- J. Zhang, F. Lange, J. Andersson, J. Zheng, Y. Jing, H. Yang, <strong>M. Liu</strong>, Z. Li, W. Wu, Q. Tian, and Z. Li*. DeepEddy: high-quality fast eddy current and bulk motion correction using deep learning-based image synthesis and co-registration. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Oral Presentation, Magna Cum Laude Merit Award, Top 15%) [[Paper]](https://archive.ismrm.org/2025/0746_AFLFshRcJ.html)
+
+- Z. Li, J. Zheng, Z. Li, Z. Wang, <strong>M. Liu</strong>, G. Ning, H. Liao, and Q. Tian*. DIMOND++: Improving diffusion model optimization using diffusion priors. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%) [[Paper]](https://archive.ismrm.org/2025/0713_aKJB4DQl1.html)
+
+- Y. Jing, Z. Li, Y. Yu, J. Zhou, Z. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, W. Wu, Q. Tian, and J. Lu*. High-fidelity Ultra-fast Diffusion Tensor Imaging in Stroke Patients Using Transfer Learning. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster) [[Paper]](https://archive.ismrm.org/2025/2371_VEwGqGSeM.html)
+
+- J. Zheng, C. Yang, W. Zhong, Z. Wang, H. Li, Z. Li, <strong>M. Liu</strong>, H. Yang, X. Cao, C. Liao, D. H. Salat, S. Y. Huang, and Q. Tian*. Impacts of diffusion MRI spatial resolution on the short-range association fiber reconstruction and connectivity estimation. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Traditional Poster) [[Paper]](https://archive.ismrm.org/2025/4787_HSnqCVPx1.html)
+
+- Y. Chen, Z. Li, S. Zhu, Z. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, and Q. Tian*. DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Poster) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Chen,%20Yifei.pdf)
+
+- J. Zheng, C. Yang, W. Zhong, Z. Wang, H. Li, Z. Li, <strong>M. Liu</strong>, H. Yang, X. Cao, C. Liao, D. H. Salat, S. Y. Huang, and Q. Tian*. Effect of Diffusion MRI Acquisition and Nominal Spatial Resolutions on Fiber Reconstruction and Connectivity Estimation. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Oral Presentation) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Zheng,%20Jialan.pdf)
+
+- J. Zhang, F. Lange, J. Andersson, J. Zheng, Y. Jing, H. Yang, <strong>M. Liu</strong>, Z. Li, W. Wu, Q. Tian, and Z. Li*. DeepEddy: high-quality eddy current and bulk motion correction using deep learning-based image synthesis and co-registration. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Oral Presentation) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Zhang,%20Jize.pdf)
+
+- Z. Li, J. Zheng, Z. Li, Z. Wang, <strong>M. Liu</strong>, H. Yang, G. Ning, H. Liao, and Q. Tian*. DIMOND++: Improving diffusion model optimization using diffusion priors. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Poster) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Li,%20Zihan.pdf)
+
+</div>
