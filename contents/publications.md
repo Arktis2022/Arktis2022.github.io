@@ -63,11 +63,11 @@
 
 <div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-- <strong>M. Liu</strong>, Y. Li, J. Zhu, H. Yang, Y. Huang, H. Li, Y. Chen, X. Bai, Y. Liao, H. Qu, and Q. Tian*. From Free Text to Usable Labels: Privacy-Ensuring Open-weights LLM-Enhanced Clinical Report Extraction for Fetal MRI. <strong>Beijing-Tsinghua Health AI Summit (BEIHAI)</strong>, 2025. (Oral, Second Prize of Oral Presentation) [[Paper]](https://hal.science/hal-05330462)
-
 - <strong>M. Liu</strong>, H. Li, Z. Li, H. Yang, J. Zheng, H. Qu, and Q. Tian*. Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty. <strong>OHBM Annual Meeting (OHBM)</strong>, 2025. (Poster, OHBM Merit Award, Top 1.6%) [[Paper]](https://hal.science/hal-04974115)
 
 - <strong>M. Liu</strong>, Y. Liao, J. Zhu, H. Li, H. Yang, J. Zheng, Z. Li, Z. Li, H. Qu, and Q. Tian*. FreeHemoSeg: Label-Free Deep Learning Framework for Automated Segmentation of Fetal Brain Germinal Matrix and Intraventricular Hemorrhage. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster) [[Paper]](https://archive.ismrm.org/2025/3790_Ym89lJRZe.html)
+
+- <strong>M. Liu</strong>, Y. Li, J. Zhu, H. Yang, Y. Huang, H. Li, Y. Chen, X. Bai, Y. Liao, H. Qu, and Q. Tian*. From Free Text to Usable Labels: Privacy-Ensuring Open-weights LLM-Enhanced Clinical Report Extraction for Fetal MRI. <strong>Beijing-Tsinghua Health AI Summit (BEIHAI)</strong>, 2025. (Oral, Second Prize of Oral Presentation) [[Paper]](https://hal.science/hal-05330462)
 
 - <strong>M. Liu</strong>, H. Li, J. Zhu, J. Zheng, H. Yang, Z. Li, Z. Li, and Q. Tian*. Detecting Fetal Germinal Matrix and Intraventricular Hemorrhage in Brain MRI Using Label-free Deep Learning. <strong>Annual Meeting of Radiological Society of North America (RSNA)</strong>, 2024. (Oral Paper Presentation) [[Paper]](https://hal.science/hal-04961196/)
 
