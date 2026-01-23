@@ -1,6 +1,12 @@
-#### Submitted
+#### JOURNAL PAPERS
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- C. Wu#, Y. Chen#, Y. Du, J. Zong, J. Dong, <strong>M. Liu</strong>, Y. Peng, J. Fan, F. Qin, and C. Wang*. Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model. <strong>Biomedical Signal Processing and Control (BSPC)</strong>, 2026. [[Paper]](https://arxiv.org/abs/2506.09695) [[Code]](https://github.com/wuchangw/FasterSNN)
+
+- J. Zheng, Z. Li*, W. Zhong, Z. Wang, Z. Li, H. Yang, <strong>M. Liu</strong>, X. Cao, C. Liao, D. H. Salat, S. Y. Huang, and Q. Tian*. Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation. <strong>Imaging Neuroscience (IMAG)</strong>, 2026. [[Paper]](https://doi.org/10.1101/2025.06.04.657810)
+
+- <strong>M. Liu#</strong>, J. Tang#, C. Yong, H. Li, J. Qi, S. Li, K. Wang, J. Gan, Y. Wang*, and H. Chen*. Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer. <strong>Neural Networks (NN)</strong>, 2025. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025000073) [[Code]](https://github.com/Arktis2022/Spiking-PhysFormer)
+
+- <strong>M. Liu</strong>, Y. Jiao, J. Lu, and H. Chen*. Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency. <strong>IEEE Transactions on Instrumentation and Measurement (IEEE TIM)</strong>, 2024. [[Paper]](https://doi.org/10.1109/TIM.2024.3406792) [[Code]](https://github.com/Arktis2022/Skip-TS)
 
 #### Published
 
