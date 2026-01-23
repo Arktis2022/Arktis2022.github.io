@@ -7,4 +7,4 @@
 - *2025.08.03 - 2025.08.21*, [**Record of the conversation between the deceased and the forensic expert**](https://bookstore.mentor.com.my/product/9789672949473/) by Ranzhi Chen. [Book](https://img.erpweb.eu.org/imgs/2025/08/43e2d718ddb0346b.jpg)
 - *2025.08.21 - 2025.09.11*, [**Before I Go to Sleep**](https://en.wikipedia.org/wiki/Before_I_Go_to_Sleep) by S.J.Watson. [Book](https://img.erpweb.eu.org/imgs/2025/09/7413e3991d17211d.jpg)
 - *2025.11.25 - 2025.11.30*, [**The Man in the Mirror**](https://www.baen.com/Chapters/9781614752677/9781614752677___2.htm) by Geoffrey A. Landis. [Book](https://en.wikipedia.org/wiki/The_Men_and_the_Mirror)
-- *2025.12.01 - 2025.12.03*, [**The Builders**](https://www.amazon.com/Builders-Daniel-Polansky/dp/0765385309) by Daniel Polansky. [Book](https://img.erpweb.eu.org/imgs/2025/12/81f79062555c9793.jpg)
+- *2025.12.01 - 2025.12.03*, [**The Builders**](https://share.google/C65U1oOUfDWEeIgil) by Daniel Polansky. [Book](https://img.erpweb.eu.org/imgs/2025/12/81f79062555c9793.jpg)
