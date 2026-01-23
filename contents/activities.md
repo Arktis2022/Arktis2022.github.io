@@ -1,3 +1,5 @@
+<div style="max-height: 500px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+  
 - *2025.11.22*, Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University) and awarded [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing). [Photo](https://img.erpweb.eu.org/imgs/2025/12/f6c7ff3788f3fa0e.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/12/abfd2851a152ef49.jpg)
 - *2025.11.15*, Attended the CHINESE CONGRESS OF RADIOLOGY (CCR) 2025 in Changsha. [Photo](https://img.erpweb.eu.org/imgs/2025/11/498636a54e2a6196.jpg)
 - *2025.11.06*, Attended the symposium on Recent Advances in Artificial Intelligence-Driven Magnetic Resonance Technology (CASFIS) in Hong Kong. [Photo](https://img.erpweb.eu.org/imgs/2025/11/f9e94181835f1b08.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/11/5e1287d760fafd4c.jpg)
@@ -26,3 +28,5 @@
 - *2023.11.22*, BIRTHLab members visited Nanyang Technological University. [Photo](https://img.erpweb.eu.org/imgs/2024/02/0cb68379b33a36d5.png)
 - *2023.10.02*, Attended the NUS-THU Joint Workshop on Biomedical Engineering 2023, held in Singapore. [Photo](https://img.erpweb.eu.org/imgs/2024/02/5514cfe5a7abca58.png)
 - *2023.07.26*, Attended the IEEE ASYNC 2023 held in Beijing, China. [Photo](https://img.erpweb.eu.org/imgs/2024/02/28f5198102433c57.png)
+
+</div.>
