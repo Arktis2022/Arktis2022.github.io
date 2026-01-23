@@ -1,4 +1,4 @@
-I'm Second-year PhD student from [School of Biomedical Engineering](https://www.med.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/). I am very fortunate to be advised by [Prof. Qiyuan Tian](https://bme.tsinghua.edu.cn/info/1118/1490.htm) of [Birth Lab](https://birthlab.github.io/). 
+I'm Second-year PhD student from [School of Biomedical Engineering](https://bme.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). I am very fortunate to be advised by [Prof. Qiyuan Tian](https://bme.tsinghua.edu.cn/info/1118/1490.htm) of [Birth Lab](https://birthlab.github.io/). 
 
 You can find my CV here: [Mingxuan Liu's Curriculum Vitae](https://github.com/Arktis2022/CV-Mingxuan-Liu/blob/main/CV-Mingxuan%20Liu.pdf).
 
