@@ -1,1 +1,8 @@
-
+- *2025* **The 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University)** [Slides](https://drive.google.com/file/d/1a4Ep2LnBZ9o9DM7xXGL481cpLCWPvhAr/view?usp=sharing)
+- *2025* **Beijing-Tsinghua Health AI Summit (Present to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health)** [Slides](https://drive.google.com/file/d/1KZ3uCLT2vhe4t_zkzr2JK20RqKMVKza-/view?usp=sharing)
+- *2025* **MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis (PIPPI)** [Slides](https://drive.google.com/file/d/1TqsbKEgtEncdmPOLj9SEu5VSDl93JYhE/view?usp=sharing)
+- *2024* **Annual Meeting of Radiological Society of North America (RSNA)** [Slides](https://drive.google.com/file/d/1hlm_mN9PHqESGGoi8Leza0BJjlYYiEXW/view?usp=sharing)
+- *2024* **ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)** [Slides](https://drive.google.com/file/d/10SDrVys-hjzbKhKGVHmTuwDiKJMWc1bm/view?usp=sharing)
+- *2023* **Singapore AI Health Summit** [Slides](https://drive.google.com/file/d/1KyM7mMnvgtCK5bdyR1nTItZZwuh1rvxp/view?usp=sharing)
+- *2023* **IEEE International Symposium on Circuits and Systems (ISCAS)** [Slides](https://drive.google.com/file/d/17mfjEbcE8I3G1Xjeu2GkwPS5WB5TJruq/view?usp=sharing)
+- *2022* **IEEE Biomedical Circuits and Systems Conference (BioCAS)** [Slides](https://drive.google.com/file/d/1-6_6UtHRDhAlHtSXjJH1kXoZ6Si4hL_j/view?usp=sharing)
