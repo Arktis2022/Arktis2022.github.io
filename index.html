@@ -186,6 +186,22 @@
         </div>
     </footer>
 
+<script>
+// 页面加载完成后，给所有外部链接添加 target="_blank"
+document.addEventListener('DOMContentLoaded', function() {
+    // 延迟执行，等 Markdown 解析完成
+    setTimeout(function() {
+        // 选择 main-body 区域中的所有链接
+        document.querySelectorAll('.main-body a').forEach(function(link) {
+            // 只处理外部链接（http 或 https 开头）
+            if (link.href.startsWith('http')) {
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer'); // 安全性
+            }
+        });
+    }, 1000); // 等待 1 秒让 Markdown 解析完成
+});
+</script>
 </body>
 
 </html>
