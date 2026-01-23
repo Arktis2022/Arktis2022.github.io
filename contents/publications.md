@@ -139,7 +139,7 @@
 
 - W. Yu#, S. Jiang#, Y. Chen#, S. Chang, Y. Wang, B. Wu, J. Dong, <strong>M. Liu</strong>, S. Zhu, F. Qin*, C. Wang, and Q. Tian*. A Large Scale Benchmark for Test Time Adaptation in Medical Image Segmentation. <strong>Pattern Recognition (PR)</strong>. (Under Review)
 
-- J. Lu, <strong>M. Liu</strong>, H. Chen*, C. Wang, and J. Hu. An incredibly simple real-time method without CNN for red tongue tip classification. <strong>Biomedical Signal Processing and Control (BSPC)</strong>. (Major Revision)
+- J. Lu, <strong>M. Liu</strong>, H. Chen*, C. Wang, and J. Hu. An incredibly simple real-time method without CNN for red tongue tip classification. <strong>Chinese Journal of Electronics (CJE)</strong>. (Under Review)
 
 - Y. Chen#, Z. Li#, Y. Wang, Y. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, T. Cukur, Z. Li, and Q. Tian*. MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network. <strong>NeuroImage (NIMG)</strong>. (Major Revision)
 
