@@ -47,3 +47,14 @@
 
 </div>
 
+#### CONFERENCE SHORT PAPERS
+
+<div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+
+- Y. Hao#, <strong>M. Liu#</strong>, H. Yang, H. Li, X. Bai, Y. Liao, H. Qu, and Q. Tian*. Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI. <strong>Medical Imaging with Deep Learning (MIDL)</strong>, 2025. (Poster) [[Paper]](https://openreview.net/forum?id=RY54DHewSk) [[Code]](https://github.com/yingqihao2022/FetalBrainEnhancement)
+
+- Y. Li#, <strong>M. Liu#</strong>, H. Yang, H. Li, X. Bai, Y. Liao, H. Qu, and Q. Tian*. Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry. <strong>Medical Imaging with Deep Learning (MIDL)</strong>, 2025. (Poster) [[Paper]](https://openreview.net/forum?id=iLBipDelQu)
+
+- H. Li#, <strong>M. Liu#</strong>, H. Yang, Y. Liao, H. Qu, J. R. Polimeni, and Q. Tian*. Self-Supervised Cortical Surface Reconstruction for Ultra High-resolution ex vivo 7T MRI. <strong>Medical Imaging with Deep Learning (MIDL)</strong>, 2025. (Poster) [[Paper]](https://openreview.net/forum?id=fn8aDbnylG)
+
+</div>
