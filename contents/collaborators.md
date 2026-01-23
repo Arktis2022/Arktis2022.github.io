@@ -1,5 +1,6 @@
 - [**BIRTHLab**](https://birthlab.github.io/) - Brain Imaging Research at Tsinghua
 - [**Haoxiang Li**](https://lihaoxiang-20.github.io/) - School of Biomedical Engineering, Tsinghua University
+- [**Zixuan Deng**](https://mobidy.github.io/) - School of Artificial Intelligence, Beijing University of Posts and Telecommunications
 - [**Jack Tang**](https://mcjacktang.github.io/) - Xinya College, Tsinghua University
 - [**Yunkang Cao**](https://caoyunkang.github.io/) - Huazhong University of Science and Technology
 - [**Yiming Huang**](https://yiyihum.github.io/) - Microsoft Research Asia
