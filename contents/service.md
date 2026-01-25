@@ -13,7 +13,7 @@
 **Conference Reviewer**
 - *Machine Learning:* AAAI 2025, NeurIPS 2025, ICML 2025 Workshop (PUT), ICLR 2025/2026 Workshop (AI4CHL, XAI4Science, TTT), AAAI 2026 Workshop (XAI4Science)
 - *Computer Vision & Multimedia:* ACM MM 2025, BMVC 2025, ICME 2026
-- *Medical Imaging & Healthcare:* IEEE ISBI 2025/2026, ISMRM 2025/2026, MICCAI 2025/2026, CHIL 2025/2026, MIDL 2026
+- *Medical Imaging & Healthcare:* ISMRM 2025/2026, MICCAI 2025/2026, CHIL 2025/2026, MIDL 2026, ISBI 2025/2026,
 - *Signal Processing & Others:* ACM MobileHCI 2024, IJCNN 2025, ICASSP 2026
 
 **Teaching Assistant**
