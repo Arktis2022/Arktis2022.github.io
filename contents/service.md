@@ -11,10 +11,10 @@
 - Biomedical Signal Processing and Control
 
 **Conference Reviewer**
-- <u>Machine Learning</u>: AAAI 2025, NeurIPS 2025, ICML 2025 Workshop (PUT), ICLR 2025/2026 Workshop (AI4CHL, XAI4Science, TTU), AAAI 2026 Workshop (XAI4Science)
+- <u>Deep Learning</u>: AAAI 2025, NeurIPS 2025, IJCNN 2025, ICML 2025 Workshop (PUT), ICLR 2025/2026 Workshop (AI4CHL, XAI4Science, TTU), AAAI 2026 Workshop (XAI4Science)
 - <u>Computer Vision & Multimedia</u>: ACM MM 2025, BMVC 2025, ICME 2026
 - <u>Medical Imaging & Healthcare</u>: ISMRM 2025/2026, MICCAI 2025/2026, CHIL 2025/2026, MIDL 2026, ISBI 2025/2026
-- <u>Signal Processing & Others</u>: ACM MobileHCI 2024, IJCNN 2025, ICASSP 2026
+- <u>Signal Processing & Others</u>: ACM MobileHCI 2024, ICASSP 2026
 
 **Teaching Assistant**
 - *Medical Image Processing* (Undergraduate, 3 Units), School of Biomedical Engineering, Tsinghua University, 2024 & 2025
