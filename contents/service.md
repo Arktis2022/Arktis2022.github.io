@@ -1,5 +1,3 @@
-## Academic Services
-
 **Conference Organization**
 - Co-organizer, [OCSMRM 2024](http://www.ocsmrm.org/)
 - Co-organizer, [BEIHAI Summit 2025](https://www.medcircle.cn/meeting/index/2025bs)
