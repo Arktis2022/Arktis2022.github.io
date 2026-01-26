@@ -25,7 +25,7 @@
 
 - Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, S. Zhu, F. Qin, and C. Wang*. DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral)
 
-- J. Huang, Y. Hao, Y. Luo, Z. Wang, <strong>M. Liu</strong>, Y. Chen, Y. Wang, L. Xiang, and Q. Tian*. autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT. <strong>MICCAI autoPET IV challenge (MICCAI)</strong>, 2025. (1st Place Winner) [[Paper]](https://arxiv.org/pdf/2509.02402) [[Code]](https://github.com/huang-jw22/autoPET-4-submission/tree/master)
+- J. Huang, Y. Hao, Y. Luo, Z. Wang, <strong>M. Liu</strong>, Y. Chen, Y. Wang, L. Xiang, and Q. Tian*. autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT. <strong>MICCAI autoPET IV challenge (MICCAI)</strong>, 2025. (1st Place Winner) [[Paper]](https://www.autopet.org/docu/autopetiv/Task1/1_BIRTH_autoPET4_BIRTH_Submission.pdf) [[Code]](https://github.com/huang-jw22/autoPET-4-submission/tree/master)
 
 - <strong>M. Liu#</strong>, Y. Li#, J. Zhu#, H. Yang, Y. Huang, H. Li, Y. Chen, X. Bai, Y. Liao, H. Qu, and Q. Tian*. FetalExtract-LLM: Structured Information Extraction in Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models. <strong>MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis (PIPPI)</strong>, 2025. (Oral) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11)
 
