@@ -1,5 +1,6 @@
 <div style="max-height: 500px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
-  
+
+- *2026.01.09*, Attended the 2026 Annual Retreat of the Center for Biomedical Imaging Research (CBIR) and awarded [2nd Place in the Oral Session of AI for Image Reconstruction and Analysis](https://img.erpweb.eu.org/imgs/2026/01/5f385f7acc2664fd.jpg). [Photo](https://img.erpweb.eu.org/imgs/2026/01/6e31489915a6b1ca.jpg)
 - *2025.11.22*, Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University) and awarded [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing). [Photo](https://img.erpweb.eu.org/imgs/2025/12/f6c7ff3788f3fa0e.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/12/abfd2851a152ef49.jpg)
 - *2025.11.15*, Attended the CHINESE CONGRESS OF RADIOLOGY (CCR) 2025 in Changsha. [Photo](https://img.erpweb.eu.org/imgs/2025/11/498636a54e2a6196.jpg)
 - *2025.11.06*, Attended the symposium on Recent Advances in Artificial Intelligence-Driven Magnetic Resonance Technology (CASFIS) in Hong Kong. [Photo](https://img.erpweb.eu.org/imgs/2025/11/f9e94181835f1b08.jpg) [Photo](https://img.erpweb.eu.org/imgs/2025/11/5e1287d760fafd4c.jpg)
