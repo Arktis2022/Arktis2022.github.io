@@ -63,6 +63,8 @@
 
 <div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- <strong>M. Liu</strong>, Y. Hao, Y. Liao, H. Li, J. Zhu, H. Yang, Y. Chen, X. Bai, H. Qu, and Q. Tian*. Quality-Label-Free Stack-Level Quality Control Improves Fetal Brain Slice-to-Volume Reconstruction. <strong>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging</strong>, 2026. (Traditional Poster)
+ 
 - <strong>M. Liu</strong>, H. Li, Z. Li, H. Yang, J. Zheng, H. Qu, and Q. Tian*. Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty. <strong>OHBM Annual Meeting (OHBM)</strong>, 2025. (Poster, OHBM Merit Award, Top 1.6%) [[Paper]](https://hal.science/hal-04974115)
 
 - <strong>M. Liu</strong>, Y. Liao, J. Zhu, H. Li, H. Yang, J. Zheng, Z. Li, Z. Li, H. Qu, and Q. Tian*. FreeHemoSeg: Label-Free Deep Learning Framework for Automated Segmentation of Fetal Brain Germinal Matrix and Intraventricular Hemorrhage. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster) [[Paper]](https://archive.ismrm.org/2025/3790_Ym89lJRZe.html)
@@ -75,6 +77,8 @@
 
 - <strong>M. Liu</strong>, H. Li, H. Qu, and Q. Tian*. Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning. <strong>Singapore AI Health Summit</strong>, 2023. (Poster Competition 3rd Place Winner, Top 3%) [[Paper]](https://hal.science/hal-04961169/)
 
+- X. Hu, <strong>M. Liu</strong>, H. Yang, Y. Li, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*. INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI. <strong>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging</strong>, 2026. (Oral)
+  
 - Y. Zhang, <strong>M. Liu</strong>, Y. Wu, L. Zhang, C. Chai, Z. Liu, and Q. Tian*. Machine Learning and Deep Learning for Pediatric and Adolescent Myopia Prediction. <strong>Beijing-Tsinghua Health AI Summit (BEIHAI)</strong>, 2025. (Poster) [[Paper]](https://hal.science/hal-05330520)
 
 - Y. Hao, <strong>M. Liu</strong>, J. Zhu, H. Yang, Y. Liao, H. Qu, and Q. Tian*. Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder (ω-DAE). <strong>OHBM Annual Meeting (OHBM)</strong>, 2025. (Poster) [[Paper]](https://hal.science/hal-04974207)
@@ -166,9 +170,5 @@
 - Y. Li, <strong>M. Liu</strong>, H. Yang, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, X. Hu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Under Review)
 
 - Y. Zhang#, Y. Xiang#, and <strong>M. Liu*</strong>. The Mask of Civility: Benchmarking Chinese Mock Politeness Comprehension in Large Language Models. <strong>EACL Student Research Workshop (EACL SRW)</strong>, 2026. (Under Review)
-
-- <strong>M. Liu</strong>, Y. Hao, Y. Liao, H. Li, J. Zhu, H. Yang, Y. Chen, X. Bai, H. Qu, and Q. Tian*. Quality-Label-Free Stack-Level Quality Control Improves Fetal Brain Slice-to-Volume Reconstruction. <strong>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging</strong>, 2026. (Under Review)
-
-- X. Hu, <strong>M. Liu</strong>, H. Yang, Y. Li, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*. INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI. <strong>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging</strong>, 2026. (Under Review)
 
 </div>
