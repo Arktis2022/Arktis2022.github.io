@@ -1,5 +1,7 @@
 <div style="max-height: 500px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
-
+  
+**2026.01.27:** 🎉🎉 Two abstracts accepted by [ISMRM Workshop on Unlocking the Potential of Prenatal MRI](https://www.ismrm.org/workshops/2026/PrenatalMRI/reg.htm).
+  
 **2026.01.09:** 🎉🎉 Attended the 2026 Annual Retreat of the Center for Biomedical Imaging Research (CBIR) and awarded [2nd Place in the Oral Session of AI for Image Reconstruction and Analysis](https://img.erpweb.eu.org/imgs/2026/01/5f385f7acc2664fd.jpg). [Photo](https://img.erpweb.eu.org/imgs/2026/01/6e31489915a6b1ca.jpg)
 
 **2026.01.09:** 🎉🎉 One [paper](https://arxiv.org/abs/2506.09695) accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control).
