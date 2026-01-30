@@ -145,11 +145,11 @@
 
 - W. Yu#, S. Jiang#, Y. Chen#, S. Chang, Y. Wang, B. Wu, J. Dong, <strong>M. Liu</strong>, S. Zhu, F. Qin*, C. Wang, and Q. Tian*. A Large Scale Benchmark for Test Time Adaptation in Medical Image Segmentation. <strong>Pattern Recognition (PR)</strong>. (Under Review)
 
-- J. Lu, <strong>M. Liu</strong>, H. Chen*, C. Wang, and J. Hu. An incredibly simple real-time method without CNN for red tongue tip classification. <strong>Chinese Journal of Electronics (CJE)</strong>. (Under Review)
-
 - Y. Chen#, Z. Li#, Y. Wang, Y. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, T. Cukur, Z. Li, and Q. Tian*. MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network. <strong>NeuroImage (NIMG)</strong>. (Major Revision)
 
 - Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, B. Wu, J. Zong, F. Qin, C. Wang, and Q. Tian*. SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI. <strong>Journal of Biomedical and Health Informatics (JBHI)</strong>. (Under Review)
+
+- J. Lu, <strong>M. Liu</strong>, H. Chen*, C. Wang, and J. Hu. An incredibly simple real-time method without CNN for red tongue tip classification. <strong>Chinese Journal of Electronics (CJE)</strong>. (Under Review)
 
 - <strong>M. Liu</strong>, H. Li, H. Yang, Y. Liao, J. Zhu, J. Zheng, Y. Hao, Z. Li, Z. Li, Z. Wang, Y. Li, J. Huang, G. Ning, H. Qu, and Q. Tian*. Cortical Brain in Utero Growth Among Fetuses with Germinal Matrix and Intraventricular Hemorrhage (GMH-IVH). <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
 
