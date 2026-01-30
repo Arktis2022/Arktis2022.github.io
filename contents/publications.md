@@ -127,7 +127,7 @@
 
 <div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-- <strong>M. Liu#</strong>, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian*. Development and validation of an annotation-free deep learning framework for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI: a retrospective multicentre cohort study <strong>eClinicalMedicine (eCM)</strong>. (Under Review)
+- <strong>M. Liu#</strong>, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian*. Development and validation of an annotation-free deep learning framework for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI: a retrospective multicentre cohort study. <strong>eClinicalMedicine (eCM)</strong>. (Under Review)
 
 - Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, <strong>M. Liu</strong>, S. Xin, L. Liu, H. Liao*, and G. Ning*. Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
 
