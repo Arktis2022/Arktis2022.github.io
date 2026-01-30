@@ -127,13 +127,15 @@
 
 <div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-- <strong>M. Liu#</strong>, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, N. Sun, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian*. An Annotation-Free Deep Learning Framework for Fetal Brain Hemorrhage Detection and Segmentation. <strong>JAMA Network Open (JNO)</strong>. (Under Review)
+- <strong>M. Liu#</strong>, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian*. Development and validation of an annotation-free deep learning framework for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI: a retrospective multicentre cohort study <strong>eClinicalMedicine (eCM)</strong>. (Under Review)
 
 - Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, <strong>M. Liu</strong>, S. Xin, L. Liu, H. Liao*, and G. Ning*. Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
 
 - <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>. (Major Revision)
 
 - Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>. (Under Review)
+
+- Y. Zhang#, M. Liu#, Y. Chen#, Y. Wu*, L. Zhang, M. Guo, Y. Yan, R. Wei, Z. Cui, P. Luo, F. Chen, B. Yang, Y. Han, X. Liu, and Q. Tian*. Multi-center validation of machine learning models for predicting myopia progression across school-based screening and optical intervention settings in Chinese children and adolescents. <strong>Advanced Intelligent Discovery (AID)</strong>. (Under Review)
 
 - M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, <strong>M. Liu</strong>, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian*. SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data. <strong>Imaging Neuroscience (IMAG)</strong>. (Under Review)
 
