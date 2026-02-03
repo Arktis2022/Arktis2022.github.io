@@ -126,12 +126,12 @@
 <h4 style="margin-top: 50px;">Manuscripts Under Review</h4>
 
 <div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
-
+  
+- <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>. (Minor Revision)
+  
 - <strong>M. Liu#</strong>, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian*. Development and validation of an annotation-free deep learning framework for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI: a retrospective multicentre cohort study. <strong>eClinicalMedicine (eCM)</strong>. (Under Review)
 
 - Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, <strong>M. Liu</strong>, S. Xin, L. Liu, H. Liao*, and G. Ning*. Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
-
-- <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>. (Major Revision)
 
 - Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>. (Under Review)
 
@@ -170,7 +170,5 @@
 - X. Hu, <strong>M. Liu</strong>, Y. Li, H. Yang, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Benchmarking Spatiotemporal Fetal Brain Atlas Construction. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Under Review)
 
 - Y. Li, <strong>M. Liu</strong>, H. Yang, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, X. Hu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Under Review)
-
-- Y. Zhang#, Y. Xiang#, and <strong>M. Liu*</strong>. The Mask of Civility: Benchmarking Chinese Mock Politeness Comprehension in Large Language Models. <strong>EACL Student Research Workshop (EACL SRW)</strong>, 2026. (Under Review)
 
 </div>
