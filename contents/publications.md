@@ -63,6 +63,8 @@
 
 <div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- <strong>M. Liu</strong>, H. Li, H. Yang, Y. Liao, J. Zhu, J. Zheng, Y. Hao, Z. Li, Z. Li, Z. Wang, Y. Li, J. Huang, G. Ning, H. Qu, and Q. Tian*. Cortical Brain in Utero Growth Among Fetuses with Germinal Matrix and Intraventricular Hemorrhage (GMH-IVH). <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
+  
 - <strong>M. Liu</strong>, Y. Hao, Y. Liao, H. Li, J. Zhu, H. Yang, Y. Chen, X. Bai, H. Qu, and Q. Tian*. Quality-Label-Free Stack-Level Quality Control Improves Fetal Brain Slice-to-Volume Reconstruction. <strong>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging</strong>, 2026. (Traditional Poster)
  
 - <strong>M. Liu</strong>, H. Li, Z. Li, H. Yang, J. Zheng, H. Qu, and Q. Tian*. Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty. <strong>OHBM Annual Meeting (OHBM)</strong>, 2025. (Poster, OHBM Merit Award, Top 1.6%) [[Paper]](https://hal.science/hal-04974115)
@@ -77,6 +79,18 @@
 
 - <strong>M. Liu</strong>, H. Li, H. Qu, and Q. Tian*. Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning. <strong>Singapore AI Health Summit</strong>, 2023. (Poster Competition 3rd Place Winner, Top 3%) [[Paper]](https://hal.science/hal-04961169/)
 
+- H. Li, <strong>M. Liu</strong>, D. Varadarajan, Z. Hu, Q. Tian, and J. Polimeni*. Test-time optimization for cortical surface reconstruction across image resolutions/contrasts using untrained neural networks. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Oral)
+
+- H. Yang, <strong>M. Liu</strong>, Y. Liao, M. Zhang, J. Zhu, H. Li, F. Jia, Z. Li, Y. Li, J. Huang, Z. Wang, Z. Li, H. Qu, and Q. Tian*. Improving the Accuracy of Fetal Brain Age Prediction Using Neural Network Attribution Maps. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
+
+- Y. Li, <strong>M. Liu</strong>, H. Yang, X. Hu, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Oral)
+
+- Y. Hao, <strong>M. Liu</strong>, J. Zhu, H. Yang, H. Li, J. Huang, Y. Liao, H. Qu, and Q. Tian*. Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
+
+- J. Huang, K. Anmahapong, H. Li, <strong>M. Liu</strong>, J. Zhu, H. Yang, Y. Li, Y. Hao, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Multi-Organ Volumetric Growth Trajectories in Fetuses with Hydronephrosis. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
+
+- Y. Chen, G. Zhou, Y. Wang, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, J. Lu, and Q. Tian*. AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Oral Power Pitch)
+  
 - X. Hu, <strong>M. Liu</strong>, H. Yang, Y. Li, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*. INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI. <strong>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging</strong>, 2026. (Oral)
   
 - Y. Zhang, <strong>M. Liu</strong>, Y. Wu, L. Zhang, C. Chai, Z. Liu, and Q. Tian*. Machine Learning and Deep Learning for Pediatric and Adolescent Myopia Prediction. <strong>Beijing-Tsinghua Health AI Summit (BEIHAI)</strong>, 2025. (Poster) [[Paper]](https://hal.science/hal-05330520)
@@ -150,20 +164,6 @@
 - Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, B. Wu, J. Zong, F. Qin, C. Wang, and Q. Tian*. SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI. <strong>Journal of Biomedical and Health Informatics (JBHI)</strong>. (Under Review)
 
 - J. Lu, <strong>M. Liu</strong>, H. Chen*, C. Wang, and J. Hu. An incredibly simple real-time method without CNN for red tongue tip classification. <strong>Chinese Journal of Electronics (CJE)</strong>. (Under Review)
-
-- <strong>M. Liu</strong>, H. Li, H. Yang, Y. Liao, J. Zhu, J. Zheng, Y. Hao, Z. Li, Z. Li, Z. Wang, Y. Li, J. Huang, G. Ning, H. Qu, and Q. Tian*. Cortical Brain in Utero Growth Among Fetuses with Germinal Matrix and Intraventricular Hemorrhage (GMH-IVH). <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
-
-- H. Li, <strong>M. Liu</strong>, D. Varadarajan, Z. Hu, Q. Tian, and J. Polimeni*. Test-time optimization for cortical surface reconstruction across image resolutions/contrasts using untrained neural networks. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
-
-- H. Yang, <strong>M. Liu</strong>, Y. Liao, M. Zhang, J. Zhu, H. Li, F. Jia, Z. Li, Y. Li, J. Huang, Z. Wang, Z. Li, H. Qu, and Q. Tian*. Improving the Accuracy of Fetal Brain Age Prediction Using Neural Network Attribution Maps. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
-
-- Y. Li, <strong>M. Liu</strong>, H. Yang, X. Hu, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
-
-- Y. Hao, <strong>M. Liu</strong>, J. Zhu, H. Yang, H. Li, J. Huang, Y. Liao, H. Qu, and Q. Tian*. Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
-
-- J. Huang, K. Anmahapong, H. Li, <strong>M. Liu</strong>, J. Zhu, H. Yang, Y. Li, Y. Hao, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Multi-Organ Volumetric Growth Trajectories in Fetuses with Hydronephrosis. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
-
-- Y. Chen, G. Zhou, Y. Wang, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, J. Lu, and Q. Tian*. AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Under Review)
 
 - X. Zhang, <strong>M. Liu</strong>, H. Yang, Y. Chen, J. Zhu, X. Bai, Y. Huang, Y. Hao, Z. Li, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Automated Induction of Standardized Reporting Templates from Fetal Brain MRI Free-Text Corpora. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Under Review)
 
