@@ -15,4 +15,4 @@ B.E. Student, Chemical Engineering, Tsinghua University, 2019—2021.
 AI for Neuroscience; Medical Image Analysis; Fetal Brain MRI; Foundation Model. 
 
 #### Links
-[Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN) / [Github](https://github.com/Arktis2022) / [Wechat](https://img.erpweb.eu.org/imgs/2026/01/f586f78b30e6712a.jpg)
+[Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN) / [Github](https://github.com/Arktis2022) / [Wechat](https://ibb.co/gMGVMJnN)
