@@ -9,7 +9,7 @@
 - [[Certificate]](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing) *2025* **OHBM Merit Award (Top 1.6%)**
 - [[Certificate]](https://ibb.co/ymv28Vqs) *2025* **ISMRM Educational Stipend Award**
 - [[Certificate]](https://ibb.co/XxRZYRxB) *2024* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
-- [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing) *2024* **First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students (Top 5%)** <br /> &nbsp; &nbsp; &nbsp; *A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI*
+- [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing) *2024* **First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students** <br /> &nbsp; &nbsp; &nbsp; *A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI (Top 5%)*
 - [[Certificate]](https://ibb.co/rRL0J4Dw) *2024* **Outstanding Graduate of Beijing**
 - [[Certificate]](https://ibb.co/BHD3Y6bp) *2024* **Outstanding Graduate Award (Top 2%)**, Tsinghua University
 - [[Certificate]](https://ibb.co/gMPvQ0wW) *2024* **ISMRM Magna Cum Laude Merit Award (Top 15%)**
