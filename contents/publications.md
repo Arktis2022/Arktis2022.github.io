@@ -21,9 +21,9 @@
 
 <div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
   
-- G. Zhou#, Y. Chen#, G. Ying, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, Q. Tian*, and J. Lu*. WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral)
+- G. Zhou#, Y. Chen#, G. Ying, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, Q. Tian*, and J. Lu*. WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11356448) [[code]](https://github.com/Guanyu-Zhou/WARPNet)
 
-- Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, S. Zhu, F. Qin, and C. Wang*. DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral)
+- Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, S. Zhu, F. Qin, and C. Wang*. DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11356381) [[code]](https://github.com/baiyou1234/DR-TTA)
 
 - J. Huang, Y. Hao, Y. Luo, Z. Wang, <strong>M. Liu</strong>, Y. Chen, Y. Wang, L. Xiang, and Q. Tian*. autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT. <strong>MICCAI autoPET IV challenge (MICCAI)</strong>, 2025. (1st Place Winner) [[Paper]](https://www.autopet.org/docu/autopetiv/Task1/1_BIRTH_autoPET4_BIRTH_Submission.pdf) [[Code]](https://github.com/huang-jw22/autoPET-4-submission/tree/master)
 
