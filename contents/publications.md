@@ -49,7 +49,7 @@
 
 <h4 style="margin-top: 50px;">CONFERENCE SHORT PAPERS</h4>
 
-<div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+<div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
 - Y. Hao#, <strong>M. Liu#</strong>, H. Yang, H. Li, X. Bai, Y. Liao, H. Qu, and Q. Tian*. Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI. <strong>Medical Imaging with Deep Learning (MIDL)</strong>, 2025. (Poster) [[Paper]](https://openreview.net/forum?id=RY54DHewSk) [[Code]](https://github.com/yingqihao2022/FetalBrainEnhancement)
 
