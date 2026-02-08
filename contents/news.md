@@ -1,4 +1,4 @@
-<div style="max-height: 500px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+<div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
 **2026.02.04:** 🎉🎉 Seven abstracts accept by [ISMRM 2026](https://www.ismrm.org/26m/), and awarded [Educational Stipend Award](https://ibb.co/q37WpDdg).
 
