@@ -61,7 +61,7 @@
 
 <h4 style="margin-top: 50px;">CONFERENCE ABSTRACTS</h4>
 
-<div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+<div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
 - <strong>M. Liu</strong>, H. Li, H. Yang, Y. Liao, J. Zhu, J. Zheng, Y. Hao, Z. Li, Z. Li, Z. Wang, Y. Li, J. Huang, G. Ning, H. Qu, and Q. Tian*. Cortical Brain in Utero Growth Among Fetuses with Germinal Matrix and Intraventricular Hemorrhage (GMH-IVH). <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
   
@@ -139,7 +139,7 @@
 
 <h4 style="margin-top: 50px;">Manuscripts Under Review</h4>
 
-<div style="max-height: 600px; overflow-y: auto; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+<div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
   
 - <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>. (Minor Revision)
   
