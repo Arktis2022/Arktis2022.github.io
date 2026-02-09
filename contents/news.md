@@ -1,6 +1,6 @@
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-**2026.01.09:** 🎉🎉 [OR-KAN](https://github.com/birthlab/OR-KAN) accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis).
+**2026.02.09:** 🎉🎉 [OR-KAN](https://github.com/birthlab/OR-KAN) accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis).
 
 **2026.02.04:** 🎉🎉 Seven abstracts accept by [ISMRM 2026](https://www.ismrm.org/26m/), and awarded [Educational Stipend Award](https://ibb.co/q37WpDdg).
 
