@@ -7,6 +7,8 @@
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>. [[Code]](https://github.com/birthlab/OR-KAN)
+
 - C. Wu#, Y. Chen#, Y. Du, J. Zong, J. Dong, <strong>M. Liu</strong>, Y. Peng, J. Fan, F. Qin, and C. Wang*. Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model. <strong>Biomedical Signal Processing and Control (BSPC)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809426001497?DGCID=STMJ_220042_AUTH_SERV_PPUB&lid=jua9g5tkojjo&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_medium=email&utm_source=braze&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca) [[Code]](https://github.com/wuchangw/FasterSNN)
 
 - J. Zheng, Z. Li*, W. Zhong, Z. Wang, Z. Li, H. Yang, <strong>M. Liu</strong>, X. Cao, C. Liao, D. H. Salat, S. Y. Huang, and Q. Tian*. Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation. <strong>Imaging Neuroscience (IMAG)</strong>, 2026. [[Paper]](https://doi.org/10.1101/2025.06.04.657810)
@@ -140,9 +142,7 @@
 <h4 style="margin-top: 50px;">Manuscripts Under Review</h4>
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
-  
-- <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>. (Minor Revision)
-  
+
 - <strong>M. Liu#</strong>, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian*. Development and validation of an annotation-free deep learning framework for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI: a retrospective multicentre cohort study. <strong>eClinicalMedicine (eCM)</strong>. (Under Review)
 
 - Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, <strong>M. Liu</strong>, S. Xin, L. Liu, H. Liao*, and G. Ning*. Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
