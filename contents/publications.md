@@ -9,24 +9,39 @@
 
 - <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>, 2026. [[Code]](https://github.com/birthlab/OR-KAN)
 
-- C. Wu#, Y. Chen#, Y. Du, J. Zong, J. Dong, <strong>M. Liu</strong>, Y. Peng, J. Fan, F. Qin, and C. Wang*. Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model. <strong>Biomedical Signal Processing and Control (BSPC)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809426001497?DGCID=STMJ_220042_AUTH_SERV_PPUB&lid=jua9g5tkojjo&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_medium=email&utm_source=braze&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca) [[Code]](https://github.com/wuchangw/FasterSNN) <a href="javascript:void(0)" onclick="document.getElementById('bib_mia2026').style.display = (document.getElementById('bib_mia2026').style.display === 'none' ? 'block' : 'none')" style="color:#b02418; text-decoration:none;">
-        <b>[BibTeX]</b>
-    </a>
-    <div id="bib_mia2026" style="display: none; background: #eee; padding: 10px; margin: 5px 0; border-radius: 4px; font-family: monospace; font-size: 0.85em;">
+- C. Wu#, Y. Chen#, Y. Du, J. Zong, J. Dong, <strong>M. Liu</strong>, Y. Peng, J. Fan, F. Qin, and C. Wang*. Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model. <strong>Biomedical Signal Processing and Control (BSPC)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809426001497?DGCID=STMJ_220042_AUTH_SERV_PPUB&lid=jua9g5tkojjo&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_medium=email&utm_source=braze&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca) [[Code]](https://github.com/wuchangw/FasterSNN) 
+<a href="javascript:void(0)" 
+   onclick="var x=document.getElementById('bib_bspc2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   style="text-decoration: underline; color: #0066cc;">
+   [BibTeX]
+</a>
+
+<!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
+<div id="bib_bspc2026" 
+     style="display: none; 
+            background: #f6f8fa; 
+            padding: 10px; 
+            margin: 5px 0; 
+            border-radius: 5px; 
+            font-family: monospace; 
+            font-size: 0.85em; 
+            white-space: pre-wrap; 
+            border: 1px solid #ddd;
+            color: #333;
+            text-align: left;">
 @article{WU2026109595,
-title = {Towards practical Alzheimer’s Disease diagnosis: A lightweight and interpretable spiking neural model},
-journal = {Biomedical Signal Processing and Control},
-volume = {117},
-pages = {109595},
-year = {2026},
-issn = {1746-8094},
-doi = {https://doi.org/10.1016/j.bspc.2026.109595},
-url = {https://www.sciencedirect.com/science/article/pii/S1746809426001497},
-author = {Changwei Wu and Yifei Chen and Yuxin Du and Jinying Zong and Jie Dong and Mingxuan Liu and Feiwei Qin and Yong Peng and Jin Fan and Chaomiao Wang},
-keywords = {Alzheimer’s disease, Bio-inspired computing, Spiking neural network, Leaky integrate-and-fire neuron, Multi-scale feature fusion},
+  title = {Towards practical Alzheimer’s Disease diagnosis: A lightweight and interpretable spiking neural model},
+  journal = {Biomedical Signal Processing and Control},
+  volume = {117},
+  pages = {109595},
+  year = {2026},
+  issn = {1746-8094},
+  doi = {https://doi.org/10.1016/j.bspc.2026.109595},
+  url = {https://www.sciencedirect.com/science/article/pii/S1746809426001497},
+  author = {Changwei Wu and Yifei Chen and Yuxin Du and Jinying Zong and Jie Dong and Mingxuan Liu and Feiwei Qin and Yong Peng and Jin Fan and Chaomiao Wang},
+  keywords = {Alzheimer’s disease, Bio-inspired computing, Spiking neural network}
 }
-    </div>
-</li>
+</div>
 
 - J. Zheng, Z. Li*, W. Zhong, Z. Wang, Z. Li, H. Yang, <strong>M. Liu</strong>, X. Cao, C. Liao, D. H. Salat, S. Y. Huang, and Q. Tian*. Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation. <strong>Imaging Neuroscience (IMAG)</strong>, 2026. [[Paper]](https://doi.org/10.1101/2025.06.04.657810)
 
