@@ -7,7 +7,7 @@
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-- <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>, 2026. [[Code]](https://github.com/birthlab/OR-KAN)
+- <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841526000630) [[Code]](https://github.com/birthlab/OR-KAN)
 
 - C. Wu#, Y. Chen#, Y. Du, J. Zong, J. Dong, <strong>M. Liu</strong>, Y. Peng, J. Fan, F. Qin, and C. Wang*. Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model. <strong>Biomedical Signal Processing and Control (BSPC)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809426001497?DGCID=STMJ_220042_AUTH_SERV_PPUB&lid=jua9g5tkojjo&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_medium=email&utm_source=braze&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca) [[Code]](https://github.com/wuchangw/FasterSNN) 
 <a href="javascript:void(0)" 
