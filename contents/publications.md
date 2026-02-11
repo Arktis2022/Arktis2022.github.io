@@ -150,30 +150,30 @@ keywords = {Brain-inspired neural networks, Remote photoplethysmography, Biomedi
    [BibTeX]
 </a>
 
-<!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
-<div id="bib_tim2024" 
-     style="display: none; 
-            background: #f6f8fa; 
-            padding: 10px; 
-            margin: 5px 0; 
-            border-radius: 5px; 
-            font-family: monospace; 
-            font-size: 0.85em; 
-            white-space: pre-wrap; 
-            border: 1px solid #ddd;
-            color: #333;
-            text-align: left;">
-@ARTICLE{10540605,
-  author={Liu, Mingxuan and Jiao, Yunrui and Lu, Jingqiao and Chen, Hong},
-  journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={Anomaly Detection for Medical Images Using Teacher–Student Model With Skip Connections and Multiscale Anomaly Consistency}, 
-  year={2024},
-  volume={73},
-  number={},
-  pages={1-15},
-  keywords={Feature extraction;Anomaly detection;Training;Image reconstruction;Data models;Medical diagnostic imaging;Location awareness;Anomaly detection (AD);deep learning;knowledge distillation (KD);medical image analysis;teacher-student (T-S) model},
-  doi={10.1109/TIM.2024.3406792}}
-</div>
+   <!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
+   <div id="bib_tim2024" 
+        style="display: none; 
+               background: #f6f8fa; 
+               padding: 10px; 
+               margin: 5px 0; 
+               border-radius: 5px; 
+               font-family: monospace; 
+               font-size: 0.85em; 
+               white-space: pre-wrap; 
+               border: 1px solid #ddd;
+               color: #333;
+               text-align: left;">
+   @ARTICLE{10540605,
+     author={Liu, Mingxuan and Jiao, Yunrui and Lu, Jingqiao and Chen, Hong},
+     journal={IEEE Transactions on Instrumentation and Measurement}, 
+     title={Anomaly Detection for Medical Images Using Teacher–Student Model With Skip Connections and Multiscale Anomaly Consistency}, 
+     year={2024},
+     volume={73},
+     number={},
+     pages={1-15},
+     keywords={Feature extraction;Anomaly detection;Training;Image reconstruction;Data models;Medical diagnostic imaging;Location awareness;Anomaly detection (AD);deep learning;knowledge distillation (KD);medical image analysis;teacher-student (T-S) model},
+     doi={10.1109/TIM.2024.3406792}}
+   </div>
 
 </div>
 
