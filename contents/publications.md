@@ -368,7 +368,6 @@ url       = {https://papers.bmvc2024.org/0493.pdf}
      doi={10.1109/BioCAS54905.2022.9948645}}
    </div>
 
-
 </div>
 
 <h4 style="margin-top: 50px;">CONFERENCE SHORT PAPERS</h4>
