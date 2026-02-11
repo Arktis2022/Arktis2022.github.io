@@ -8,6 +8,37 @@
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
 - <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841526000630) [[Code]](https://github.com/birthlab/OR-KAN)
+<a href="javascript:void(0)" 
+   onclick="var x=document.getElementById('bib_bspc2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   style="text-decoration: underline; color: #3333ff;">
+   [BibTeX]
+</a>
+
+<!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
+<div id="bib_bspc2026" 
+     style="display: none; 
+            background: #f6f8fa; 
+            padding: 10px; 
+            margin: 5px 0; 
+            border-radius: 5px; 
+            font-family: monospace; 
+            font-size: 0.85em; 
+            white-space: pre-wrap; 
+            border: 1px solid #ddd;
+            color: #333;
+            text-align: left;">
+@article{LIU2026103994,
+title = {Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty},
+journal = {Medical Image Analysis},
+pages = {103994},
+year = {2026},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2026.103994},
+url = {https://www.sciencedirect.com/science/article/pii/S1361841526000630},
+author = {Mingxuan Liu and Yi Liao and Haoxiang Li and Juncheng Zhu and Hongjia Yang and Yingqi Hao and Haibo Qu and Qiyuan Tian},
+keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Slice-to-volume reconstruction, Germinal matrix-intraventricular hemorrhage}
+}
+</div>
 
 - C. Wu#, Y. Chen#, Y. Du, J. Zong, J. Dong, <strong>M. Liu</strong>, Y. Peng, J. Fan, F. Qin, and C. Wang*. Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model. <strong>Biomedical Signal Processing and Control (BSPC)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809426001497?DGCID=STMJ_220042_AUTH_SERV_PPUB&lid=jua9g5tkojjo&utm_campaign=STMJ_220042_AUTH_SERV_PPUB&utm_content=07bab9e4-c31e-408b-afa5-1c9ca0f269ca&utm_medium=email&utm_source=braze&utm_term=07bab9e4-c31e-408b-afa5-1c9ca0f269ca) [[Code]](https://github.com/wuchangw/FasterSNN) 
 <a href="javascript:void(0)" 
