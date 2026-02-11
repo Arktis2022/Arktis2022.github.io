@@ -356,18 +356,18 @@ url       = {https://papers.bmvc2024.org/0493.pdf}
 
 - <strong>M. Liu</strong>, Y. Jiao, H. Gu, J. Lu, and H. Chen*. Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data. <strong>IEEE Biomedical Circuits and Systems Conference (BioCAS)</strong>, 2022. (Oral Paper Presentation) [[Paper]](https://ieeexplore.ieee.org/document/9948645)
 <a href="javascript:void(0)" onclick="var x=document.getElementById('bib_dataaug'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
-<div id="bib_dataaug" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
-@INPROCEEDINGS{9948645,
-  author={Liu, Mingxuan and Jiao, Yunrui and Gu, Hongyu and Lu, Jingqiao and Chen, Hong},
-  booktitle={2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)}, 
-  title={Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={90-94},
-  keywords={Deep learning;Tongue;Circuits and systems;Biological system modeling;Generative adversarial networks;Coatings;Task analysis;TCM;tongue diagnosis;data augmentation;image classification;image-to-image translation},
-  doi={10.1109/BioCAS54905.2022.9948645}}
-</div>
+   <div id="bib_dataaug" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+   @INPROCEEDINGS{9948645,
+     author={Liu, Mingxuan and Jiao, Yunrui and Gu, Hongyu and Lu, Jingqiao and Chen, Hong},
+     booktitle={2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)}, 
+     title={Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data}, 
+     year={2022},
+     volume={},
+     number={},
+     pages={90-94},
+     keywords={Deep learning;Tongue;Circuits and systems;Biological system modeling;Generative adversarial networks;Coatings;Task analysis;TCM;tongue diagnosis;data augmentation;image classification;image-to-image translation},
+     doi={10.1109/BioCAS54905.2022.9948645}}
+   </div>
 
 
 </div>
