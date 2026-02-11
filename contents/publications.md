@@ -74,11 +74,106 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 }
 </div>
 
-- J. Zheng, Z. Li*, W. Zhong, Z. Wang, Z. Li, H. Yang, <strong>M. Liu</strong>, X. Cao, C. Liao, D. H. Salat, S. Y. Huang, and Q. Tian*. Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation. <strong>Imaging Neuroscience (IMAG)</strong>, 2026. [[Paper]](https://doi.org/10.1101/2025.06.04.657810)
+- J. Zheng, Z. Li*, W. Zhong, Z. Wang, Z. Li, H. Yang, <strong>M. Liu</strong>, X. Cao, C. Liao, D. H. Salat, S. Y. Huang, and Q. Tian*. Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation. <strong>Imaging Neuroscience (IMAG)</strong>, 2026. [[Paper]](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on)
+<a href="javascript:void(0)" 
+   onclick="var x=document.getElementById('bib_bspc2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   style="text-decoration: underline; color: #3333ff;">
+   [BibTeX]
+</a>
+
+<!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
+<div id="bib_bspc2026" 
+     style="display: none; 
+            background: #f6f8fa; 
+            padding: 10px; 
+            margin: 5px 0; 
+            border-radius: 5px; 
+            font-family: monospace; 
+            font-size: 0.85em; 
+            white-space: pre-wrap; 
+            border: 1px solid #ddd;
+            color: #333;
+            text-align: left;">
+@article{10.1162/IMAG.a.1089,
+    author = {Zheng, Jialan and Li, Ziyu and Zhong, Wen and Wang, Ziang and Li, Zihan and Yang, Hongjia and Liu, Mingxuan and Cao, Xiaozhi and Liao, Congyu and Salat, David H. and Huang, Susie Y. and Tian, Qiyuan},
+    title = {Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation},
+    journal = {Imaging Neuroscience},
+    volume = {4},
+    pages = {IMAG.a.1089},
+    year = {2026},
+    month = {01},
+    issn = {2837-6056},
+    doi = {10.1162/IMAG.a.1089},
+    url = {https://doi.org/10.1162/IMAG.a.1089},
+    eprint = {https://direct.mit.edu/imag/article-pdf/doi/10.1162/IMAG.a.1089/2571321/imag.a.1089.pdf},
+}
+</div>
 
 - <strong>M. Liu#</strong>, J. Tang#, C. Yong, H. Li, J. Qi, S. Li, K. Wang, J. Gan, Y. Wang*, and H. Chen*. Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer. <strong>Neural Networks (NN)</strong>, 2025. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025000073) [[Code]](https://github.com/Arktis2022/Spiking-PhysFormer)
+<a href="javascript:void(0)" 
+   onclick="var x=document.getElementById('bib_bspc2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   style="text-decoration: underline; color: #3333ff;">
+   [BibTeX]
+</a>
+
+<!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
+<div id="bib_bspc2026" 
+     style="display: none; 
+            background: #f6f8fa; 
+            padding: 10px; 
+            margin: 5px 0; 
+            border-radius: 5px; 
+            font-family: monospace; 
+            font-size: 0.85em; 
+            white-space: pre-wrap; 
+            border: 1px solid #ddd;
+            color: #333;
+            text-align: left;">
+@article{LIU2025107128,
+title = {Spiking-PhysFormer: Camera-based remote photoplethysmography with parallel spike-driven transformer},
+journal = {Neural Networks},
+volume = {185},
+pages = {107128},
+year = {2025},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2025.107128},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608025000073},
+author = {Mingxuan Liu and Jiankai Tang and Yongli Chen and Haoxiang Li and Jiahao Qi and Siwei Li and Kegang Wang and Jie Gan and Yuntao Wang and Hong Chen},
+keywords = {Brain-inspired neural networks, Remote photoplethysmography, Biomedical signal, Transformer}
+}
+</div>
 
 - <strong>M. Liu</strong>, Y. Jiao, J. Lu, and H. Chen*. Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency. <strong>IEEE Transactions on Instrumentation and Measurement (IEEE TIM)</strong>, 2024. [[Paper]](https://doi.org/10.1109/TIM.2024.3406792) [[Code]](https://github.com/Arktis2022/Skip-TS)
+<a href="javascript:void(0)" 
+   onclick="var x=document.getElementById('bib_bspc2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   style="text-decoration: underline; color: #3333ff;">
+   [BibTeX]
+</a>
+
+<!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
+<div id="bib_bspc2026" 
+     style="display: none; 
+            background: #f6f8fa; 
+            padding: 10px; 
+            margin: 5px 0; 
+            border-radius: 5px; 
+            font-family: monospace; 
+            font-size: 0.85em; 
+            white-space: pre-wrap; 
+            border: 1px solid #ddd;
+            color: #333;
+            text-align: left;">
+@ARTICLE{10540605,
+  author={Liu, Mingxuan and Jiao, Yunrui and Lu, Jingqiao and Chen, Hong},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Anomaly Detection for Medical Images Using Teacher–Student Model With Skip Connections and Multiscale Anomaly Consistency}, 
+  year={2024},
+  volume={73},
+  number={},
+  pages={1-15},
+  keywords={Feature extraction;Anomaly detection;Training;Image reconstruction;Data models;Medical diagnostic imaging;Location awareness;Anomaly detection (AD);deep learning;knowledge distillation (KD);medical image analysis;teacher-student (T-S) model},
+  doi={10.1109/TIM.2024.3406792}}
+</div>
 
 </div>
 
