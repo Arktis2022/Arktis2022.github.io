@@ -9,13 +9,13 @@
 
 - <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841526000630) [[Code]](https://github.com/birthlab/OR-KAN)
 <a href="javascript:void(0)" 
-   onclick="var x=document.getElementById('bib_bspc2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   onclick="var x=document.getElementById('bib_mia2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
    style="text-decoration: underline; color: #3333ff;">
    [BibTeX]
 </a>
 
 <!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
-<div id="bib_bspc2026" 
+<div id="bib_mia2026" 
      style="display: none; 
             background: #f6f8fa; 
             padding: 10px; 
@@ -76,13 +76,13 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 - J. Zheng, Z. Li*, W. Zhong, Z. Wang, Z. Li, H. Yang, <strong>M. Liu</strong>, X. Cao, C. Liao, D. H. Salat, S. Y. Huang, and Q. Tian*. Effects of diffusion MRI spatial resolution on human brain short-range association fiber reconstruction and structural connectivity estimation. <strong>Imaging Neuroscience (IMAG)</strong>, 2026. [[Paper]](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1089/134558/Effects-of-diffusion-MRI-spatial-resolution-on)
 <a href="javascript:void(0)" 
-   onclick="var x=document.getElementById('bib_bspc2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   onclick="var x=document.getElementById('bib_imag2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
    style="text-decoration: underline; color: #3333ff;">
    [BibTeX]
 </a>
 
 <!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
-<div id="bib_bspc2026" 
+<div id="bib_imag2026" 
      style="display: none; 
             background: #f6f8fa; 
             padding: 10px; 
@@ -111,13 +111,13 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 - <strong>M. Liu#</strong>, J. Tang#, C. Yong, H. Li, J. Qi, S. Li, K. Wang, J. Gan, Y. Wang*, and H. Chen*. Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer. <strong>Neural Networks (NN)</strong>, 2025. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025000073) [[Code]](https://github.com/Arktis2022/Spiking-PhysFormer)
 <a href="javascript:void(0)" 
-   onclick="var x=document.getElementById('bib_bspc2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   onclick="var x=document.getElementById('bib_nn2025'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
    style="text-decoration: underline; color: #3333ff;">
    [BibTeX]
 </a>
 
 <!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
-<div id="bib_bspc2026" 
+<div id="bib_nn2025" 
      style="display: none; 
             background: #f6f8fa; 
             padding: 10px; 
@@ -145,13 +145,13 @@ keywords = {Brain-inspired neural networks, Remote photoplethysmography, Biomedi
 
 - <strong>M. Liu</strong>, Y. Jiao, J. Lu, and H. Chen*. Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency. <strong>IEEE Transactions on Instrumentation and Measurement (IEEE TIM)</strong>, 2024. [[Paper]](https://doi.org/10.1109/TIM.2024.3406792) [[Code]](https://github.com/Arktis2022/Skip-TS)
 <a href="javascript:void(0)" 
-   onclick="var x=document.getElementById('bib_bspc2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   onclick="var x=document.getElementById('bib_tim2024'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
    style="text-decoration: underline; color: #3333ff;">
    [BibTeX]
 </a>
 
 <!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
-<div id="bib_bspc2026" 
+<div id="bib_tim2024" 
      style="display: none; 
             background: #f6f8fa; 
             padding: 10px; 
