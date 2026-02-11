@@ -221,8 +221,7 @@ keywords = {Brain-inspired neural networks, Remote photoplethysmography, Biomedi
       eprint={2509.02402},
       archivePrefix={arXiv},
       primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2509.02402}, 
-}
+      url={https://arxiv.org/abs/2509.02402}}
 </div>
 
 - <strong>M. Liu#</strong>, Y. Li#, J. Zhu#, H. Yang, Y. Huang, H. Li, Y. Chen, X. Bai, Y. Liao, H. Qu, and Q. Tian*. FetalExtract-LLM: Structured Information Extraction in Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models. <strong>MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis (PIPPI)</strong>, 2025. (Oral) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11)
