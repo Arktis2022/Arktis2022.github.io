@@ -182,28 +182,193 @@ keywords = {Brain-inspired neural networks, Remote photoplethysmography, Biomedi
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
   
 - G. Zhou#, Y. Chen#, G. Ying, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, Q. Tian*, and J. Lu*. WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11356448) [[code]](https://github.com/Guanyu-Zhou/WARPNet)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_warpnet'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_warpnet" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@INPROCEEDINGS{11356448,
+  author={Zhou, Guanyu and Chen, Yifei and Ying, Gaoxiang and Liu, Mingxuan and Bai, Xuguang and Zheng, Jialan and Cui, Bixiao and Tian, Qiyuan and Lu, Jie},
+  booktitle={2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={WARPNet: Scale-Wise Autoregressive Cross-Modal Synthesis for Accurate and Detail-Preserving MRI-to-PET Generation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={3397-3404},
+  keywords={Wavelet transforms;Neurological diseases;Costs;Accuracy;Translation;Image synthesis;Magnetic resonance imaging;Epilepsy;Distortion;Lesions;Cross-modal image synthesis;MRI-to-PET translation;Multi-scale autoregressive;Lesion-aware generation},
+  doi={10.1109/BIBM66473.2025.11356448}}
+</div>
 
 - Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, S. Zhu, F. Qin, and C. Wang*. DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11356381) [[code]](https://github.com/baiyou1234/DR-TTA)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_drtta'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_drtta" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@INPROCEEDINGS{11356381,
+  author={Wang, Yuanhan and Chen, Yifei and Jiang, Shuo and Yu, Wenjing and Liu, Mingxuan and Wu, Beining and Zhu, Shenghao and Qin, Feiwei and Fan, Jin and Wang, Changmiao},
+  booktitle={2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality Mri Conditions for Brain Tumor Segmentation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={2899-2906},
+  keywords={Training;Degradation;Filtering;Magnetic resonance imaging;Source coding;Brain tumors;Dynamic scheduling;Performance metrics;Distortion;Noise measurement;Test-Time Adaptation;Brain Tumor Segmentation;Domain Adaptation;Low-Quality MRI;Deep Learning},
+  doi={10.1109/BIBM66473.2025.11356381}}
+</div>
 
 - J. Huang, Y. Hao, Y. Luo, Z. Wang, <strong>M. Liu</strong>, Y. Chen, Y. Wang, L. Xiang, and Q. Tian*. autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT. <strong>MICCAI autoPET IV challenge (MICCAI)</strong>, 2025. (1st Place Winner) [[Paper]](https://www.autopet.org/docu/autopetiv/Task1/1_BIRTH_autoPET4_BIRTH_Submission.pdf) [[Code]](https://github.com/huang-jw22/autoPET-4-submission/tree/master)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_autopet'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_autopet" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@misc{huang2025autopetivchallengeincorporating,
+      title={autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT}, 
+      author={Junwei Huang and Yingqi Hao and Yitong Luo and Ziyu Wang and Mingxuan Liu and Yifei Chen and Yuanhan Wang and Lei Xiang and Qiyuan Tian},
+      year={2025},
+      eprint={2509.02402},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2509.02402}, 
+}
+</div>
 
 - <strong>M. Liu#</strong>, Y. Li#, J. Zhu#, H. Yang, Y. Huang, H. Li, Y. Chen, X. Bai, Y. Liao, H. Qu, and Q. Tian*. FetalExtract-LLM: Structured Information Extraction in Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-weights Large Language Models. <strong>MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis (PIPPI)</strong>, 2025. (Oral) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-05997-0_11)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_fetalextract'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_fetalextract" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@InProceedings{10.1007/978-3-032-05997-0_11,
+author="Liu, Mingxuan
+and Li, Yijin
+and Zhu, Juncheng
+and Yang, Hongjia
+and Huang, Yiming
+and Li, Haoxiang
+and Chen, Yifei
+and Bai, Xuguang
+and Liao, Yi
+and Qu, Haibo
+and Tian, Qiyuan",
+title="FetalExtract-LLM: Structured Information Extraction from Free-Text Fetal MRI Reports Based on Privacy-Ensuring Open-Weights Large Language Models",
+booktitle="Perinatal, Preterm and Paediatric Image Analysis",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="119--129",
+isbn="978-3-032-05997-0"
+}
+</div>
 
 - X. Bai#, <strong>M. Liu#</strong>, Y. Chen, H. Yang, and Q. Tian*. Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report. <strong>Medical Imaging with Deep Learning (MIDL)</strong>, 2025. (Poster, MICCAI VLM3D Challenge 2nd Place Winner) [[Paper]](https://openreview.net/forum?id=ns6nq592HX) [[Code]](https://github.com/JasonW375/Chest-OMDL)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_chestomdl'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_chestomdl" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@inproceedings{
+bai2025chestomdl,
+title={Chest-{OMDL}: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report},
+author={Xuguang Bai and Mingxuan Liu and Yifei Chen and Hongjia Yang and Qiyuan Tian},
+booktitle={Medical Imaging with Deep Learning},
+year={2025},
+url={https://openreview.net/forum?id=ns6nq592HX}
+}
+</div>
 
 - H. Li#, <strong>M. Liu#</strong>, X. Bai, Y. Liao, J. Zheng, H. Yang, Z. Li, H. Qu, and Q. Tian*. FetalCSR: Multi-input Attention Fusion Network for Neural ODE-based Fetal Cortical Surface Reconstruction. <strong>ICLR Workshop on AI for Children (AI4CHL)</strong>, 2025. (Oral Paper Presentation) [[Paper]](https://hal.science/hal-05039904/document) [[Code]](https://github.com/lhx-lhx-lhx/FetalCSR)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_fetalcsr'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_fetalcsr" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@inproceedings{li:hal-05039904,
+  TITLE = {{FetalCSR: Multi-input Attention Fusion Network for Neural ODE-based Fetal Cortical Surface Reconstruction}},
+  AUTHOR = {Li, Haoxiang and Liu, Mingxuan and Bai, Xuguang and Liao, Yi and Zheng, Jialan and Yang, Hongjia and Li, Zihan and Qu, Haibo and Tian, Qiyuan},
+  URL = {https://hal.science/hal-05039904},
+  BOOKTITLE = {{ICLR 2025 Workshop AI4CHL}},
+  ADDRESS = {Singapore, Singapore},
+  YEAR = {2025},
+  MONTH = Apr,
+  KEYWORDS = {Fetal Cortical Surface Reconstruction ; Brain MRI ; Geometric Deep Learning ; Multi-input ; Cross-Attention},
+  PDF = {https://hal.science/hal-05039904v1/file/1_FetalCSR_Multi_input_Attenti.pdf},
+  HAL_ID = {hal-05039904},
+  HAL_VERSION = {v1},
+}
+</div>
 
 - X. Lin#, <strong>M. Liu#</strong>, K. Liu, and H. Chen*. Spike-SLR: An Energy-efficient Parallel Spiking Transformer for Event-based Sign Language Recognition. <strong>The British Machine Vision Conference (BMVC)</strong>, 2024. (Poster) [[Paper]](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_493/paper.pdf) [[Project]](https://bmvc2024.org/proceedings/493/)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_spikeslr'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_spikeslr" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@inproceedings{Lin_2024_BMVC,
+author    = {Xinxu Lin and Mingxuan Liu and Kezhuo Liu and Hong Chen},
+title     = {Spike-SLR: An Energy-efficient Parallel Spiking Transformer for Event-based Sign Language Recognition},
+booktitle = {35th British Machine Vision Conference 2024, {BMVC} 2024, Glasgow, UK, November 25-28, 2024},
+publisher = {BMVA},
+year      = {2024},
+url       = {https://papers.bmvc2024.org/0493.pdf}
+}
+</div>
 
 - S. Li#, <strong>M. Liu#</strong>, Y. Zhang, S. Chen, H. Li, H. Chen*, and Z. Dou*. SAM-Deblur: Let Segment Anything Boost Image Deblurring. <strong>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</strong>, 2024. (Poster) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10445844) [[Project]](https://hplqaq.github.io/projects/sam-deblur)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_samdeblur'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_samdeblur" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@INPROCEEDINGS{10445844,
+  author={Li, Siwei and Liu, Mingxuan and Zhang, Yating and Chen, Shu and Li, Haoxiang and Dou, Zifei and Chen, Hong},
+  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={SAM-DEBLUR: Let Segment Anything Boost Image Deblurring}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={2445-2449},
+  keywords={Training;Image segmentation;Robustness;Image restoration;Task analysis;Speech processing;Software development management;Image deblurring;Segment anything model;Plug-and-play;Image restoration;OOD generalization},
+  doi={10.1109/ICASSP48485.2024.10445844}}
+</div>
 
 - <strong>M. Liu#</strong>, J. Gan#, R. Wen#, T. Li, Y. Chen, and H. Chen*. Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks. <strong>IEEE International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+AI)</strong>, 2024. (Best Paper Award) [[Paper]](https://ieeexplore.ieee.org/document/10933745) [[Code]](https://github.com/Arktis2022/Spiking-Diffusion)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_spikingdiffusion'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_spikingdiffusion" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@INPROCEEDINGS{10933745,
+  author={Liu, Mingxuan and Gan, Jie and Wen, Rui and Li, Tao and Chen, Yongli and Chen, Hong},
+  booktitle={2024 5th International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+AI)}, 
+  title={Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={627-631},
+  keywords={Image synthesis;Neuromorphics;Computational modeling;Biological system modeling;Spiking neural networks;Learning (artificial intelligence);Diffusion models;Vectors;Image restoration;Image reconstruction;Spiking neural networks;Diffusion model;Image generation;Bionic Learning},
+  doi={10.1109/ICCBD-AI65562.2024.00110}}
+</div>
 
 - <strong>M. Liu</strong>, Y. Jiao, and H. Chen*. Skip-ST: Anomaly Detection for Medical Images Using Student-Teacher Network with Skip Connections. <strong>IEEE International Symposium on Circuits and Systems (ISCAS)</strong>, 2023. (Oral Paper Presentation) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10181639) [[Code]](https://github.com/Arktis2022/Skip-TS)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_skipst'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_skipst" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@INPROCEEDINGS{10181639,
+  author={Liu, Mingxuan and Jiao, Yunrui and Chen, Hong},
+  booktitle={2023 IEEE International Symposium on Circuits and Systems (ISCAS)}, 
+  title={Skip-ST: Anomaly Detection for Medical Images Using Student-Teacher Network with Skip Connections}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Knowledge engineering;Training;Location awareness;Receivers;Decoding;Task analysis;Integrated circuit modeling;anomaly detection;medical image analysis;deep learning;student-teacher network;knowledge distillation},
+  doi={10.1109/ISCAS46773.2023.10181639}}
+</div>
 
 - J. Lu, <strong>M. Liu</strong>, and H. Chen*. PRTMTM: A Priori Regularization Method for Tooth-Marked Tongue Classification. <strong>IEEE International Symposium on Circuits and Systems (ISCAS)</strong>, 2023. (Poster) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10181870)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_prtmtm'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_prtmtm" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@INPROCEEDINGS{10181870,
+  author={Lu, Jingqiao and Liu, Mingxuan and Chen, Hong},
+  booktitle={2023 IEEE International Symposium on Circuits and Systems (ISCAS)}, 
+  title={PRTMTM: A Priori Regularization Method for Tooth-Marked Tongue Classification}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Training;Heating systems;Stomach;Image segmentation;Tongue;Circuits and systems;Image edge detection;traditional Chinese medicine;tooth-marked tongue classification;convolutional neural network;priori regularization},
+  doi={10.1109/ISCAS46773.2023.10181870}}
+</div>
 
 - <strong>M. Liu</strong>, Y. Jiao, H. Gu, J. Lu, and H. Chen*. Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data. <strong>IEEE Biomedical Circuits and Systems Conference (BioCAS)</strong>, 2022. (Oral Paper Presentation) [[Paper]](https://ieeexplore.ieee.org/document/9948645)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_dataaug'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_dataaug" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@INPROCEEDINGS{9948645,
+  author={Liu, Mingxuan and Jiao, Yunrui and Gu, Hongyu and Lu, Jingqiao and Chen, Hong},
+  booktitle={2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)}, 
+  title={Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={90-94},
+  keywords={Deep learning;Tongue;Circuits and systems;Biological system modeling;Generative adversarial networks;Coatings;Task analysis;TCM;tongue diagnosis;data augmentation;image classification;image-to-image translation},
+  doi={10.1109/BioCAS54905.2022.9948645}}
+</div>
+
 
 </div>
 
