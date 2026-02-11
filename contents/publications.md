@@ -375,10 +375,43 @@ url       = {https://papers.bmvc2024.org/0493.pdf}
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
 - Y. Hao#, <strong>M. Liu#</strong>, H. Yang, H. Li, X. Bai, Y. Liao, H. Qu, and Q. Tian*. Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain MRI. <strong>Medical Imaging with Deep Learning (MIDL)</strong>, 2025. (Poster) [[Paper]](https://openreview.net/forum?id=RY54DHewSk) [[Code]](https://github.com/yingqihao2022/FetalBrainEnhancement)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_midl2025_hao'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_midl2025_hao" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@inproceedings{
+hao2025comprehensive,
+title={Comprehensive Evaluation of Unsupervised Image Enhancement for Volumetric Fetal Brain {MRI}},
+author={Yingqi Hao and Mingxuan Liu and Hongjia Yang and Haoxiang Li and Xuguang Bai and Yi Liao and Haibo Qu and Qiyuan Tian},
+booktitle={Medical Imaging with Deep Learning - Short Papers},
+year={2025},
+url={https://openreview.net/forum?id=RY54DHewSk}
+}
+</div>
 
 - Y. Li#, <strong>M. Liu#</strong>, H. Yang, H. Li, X. Bai, Y. Liao, H. Qu, and Q. Tian*. Anatomy-guided Test-Time Adaptation for Automated Fetal Brain MRI Morphometry. <strong>Medical Imaging with Deep Learning (MIDL)</strong>, 2025. (Poster) [[Paper]](https://openreview.net/forum?id=iLBipDelQu)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_midl2025_yli'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+<div id="bib_midl2025_yli" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+@inproceedings{
+li2025anatomyguided,
+title={Anatomy-guided Test-Time Adaptation for Automated Fetal Brain {MRI} Morphometry},
+author={Yijin Li and Mingxuan Liu and Hongjia Yang and Haoxiang Li and Xuguang Bai and Yi Liao and Haibo Qu and Qiyuan Tian},
+booktitle={Medical Imaging with Deep Learning - Short Papers},
+year={2025},
+url={https://openreview.net/forum?id=iLBipDelQu}
+}
+</div>
 
 - H. Li#, <strong>M. Liu#</strong>, H. Yang, Y. Liao, H. Qu, J. R. Polimeni, and Q. Tian*. Self-Supervised Cortical Surface Reconstruction for Ultra High-resolution ex vivo 7T MRI. <strong>Medical Imaging with Deep Learning (MIDL)</strong>, 2025. (Poster) [[Paper]](https://openreview.net/forum?id=fn8aDbnylG)
+<a href="javascript:void(0)" onclick="var x=document.getElementById('bib_midl2025_hli'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
+   <div id="bib_midl2025_hli" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+   @inproceedings{
+   li2025selfsupervised,
+   title={Self-Supervised Cortical Surface Reconstruction for Ultra High-resolution ex vivo 7T {MRI}},
+   author={Haoxiang Li and Mingxuan Liu and Hongjia Yang and Yi Liao and Haibo Qu and Jonathan R. Polimeni and Qiyuan Tian},
+   booktitle={Medical Imaging with Deep Learning - Short Papers},
+   year={2025},
+   url={https://openreview.net/forum?id=fn8aDbnylG}
+   }
+   </div>
 
 </div>
 
