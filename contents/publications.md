@@ -436,6 +436,12 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - <strong>M. Liu</strong>, H. Li, H. Qu, and Q. Tian*. Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning. <strong>Singapore AI Health Summit</strong>, 2023. (Poster Competition 3rd Place Winner, Top 3%) [[Paper]](https://hal.science/hal-04961169/)
 
+- X. Zhang, <strong>M. Liu</strong>, H. Yang, Y. Chen, J. Zhu, X. Bai, Y. Huang, Y. Hao, Z. Li, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Automated Induction of Standardized Reporting Templates from Fetal Brain MRI Free-Text Corpora. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
+
+- X. Hu, <strong>M. Liu</strong>, Y. Li, H. Yang, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Benchmarking Spatiotemporal Fetal Brain Atlas Construction. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
+
+- Y. Li, <strong>M. Liu</strong>, H. Yang, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, X. Hu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
+- 
 - H. Li, <strong>M. Liu</strong>, D. Varadarajan, Z. Hu, Q. Tian, and J. Polimeni*. Test-time optimization for cortical surface reconstruction across image resolutions/contrasts using untrained neural networks. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Oral)
 
 - H. Yang, <strong>M. Liu</strong>, Y. Liao, M. Zhang, J. Zhu, H. Li, F. Jia, Z. Li, Y. Li, J. Huang, Z. Wang, Z. Li, H. Qu, and Q. Tian*. Improving the Accuracy of Fetal Brain Age Prediction Using Neural Network Attribution Maps. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
@@ -519,11 +525,5 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 - Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, B. Wu, J. Zong, F. Qin, C. Wang, and Q. Tian*. SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI. <strong>Journal of Biomedical and Health Informatics (JBHI)</strong>. (Under Review)
 
 - J. Lu, <strong>M. Liu</strong>, H. Chen*, C. Wang, and J. Hu. An incredibly simple real-time method without CNN for red tongue tip classification. <strong>Chinese Journal of Electronics (CJE)</strong>. (Under Review)
-
-- X. Zhang, <strong>M. Liu</strong>, H. Yang, Y. Chen, J. Zhu, X. Bai, Y. Huang, Y. Hao, Z. Li, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Automated Induction of Standardized Reporting Templates from Fetal Brain MRI Free-Text Corpora. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Under Review)
-
-- X. Hu, <strong>M. Liu</strong>, Y. Li, H. Yang, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Benchmarking Spatiotemporal Fetal Brain Atlas Construction. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Under Review)
-
-- Y. Li, <strong>M. Liu</strong>, H. Yang, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, X. Hu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Under Review)
 
 </div>
