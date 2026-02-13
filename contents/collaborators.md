@@ -9,5 +9,6 @@
 - [**Yingqi Hao**](https://yingqihao2022.github.io/) - School of Biomedical Engineering, Tsinghua University
 - [**Jialan Zheng**](https://zjl21.github.io/) - School of Biomedical Engineering, Tsinghua University
 - [**Xuguang Bai**](https://jasonw375.github.io/) - School of Biomedical Engineering, Tsinghua University
-- [**Yijin Li**](https://liyijin6815.github.io/) - School of Biological Science and Medical Engineering, Beihang University
+- [**Yijin Li**](https://liyijin6815.github.io/) - School of Biomedical Engineering, Tsinghua University
 - [**Jayce Xu**](https://iayce.github.io/) - Software Engineering, Huazhong University of Science and Technology
+- [**Xingyue Wei**](https://weixy17.github.io/) - School of Biomedical Engineering, Tsinghua University
