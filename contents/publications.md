@@ -421,27 +421,7 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
 - <strong>M. Liu</strong>, H. Li, H. Yang, Y. Liao, J. Zhu, J. Zheng, Y. Hao, Z. Li, Z. Li, Z. Wang, Y. Li, J. Huang, G. Ning, H. Qu, and Q. Tian*. Cortical Brain in Utero Growth Among Fetuses with Germinal Matrix and Intraventricular Hemorrhage (GMH-IVH). <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
-  
-- <strong>M. Liu</strong>, Y. Hao, Y. Liao, H. Li, J. Zhu, H. Yang, Y. Chen, X. Bai, H. Qu, and Q. Tian*. Quality-Label-Free Stack-Level Quality Control Improves Fetal Brain Slice-to-Volume Reconstruction. <strong>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging</strong>, 2026. (Traditional Poster)
- 
-- <strong>M. Liu</strong>, H. Li, Z. Li, H. Yang, J. Zheng, H. Qu, and Q. Tian*. Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty. <strong>OHBM Annual Meeting (OHBM)</strong>, 2025. (Poster, OHBM Merit Award, Top 1.6%) [[Paper]](https://hal.science/hal-04974115)
 
-- <strong>M. Liu</strong>, Y. Liao, J. Zhu, H. Li, H. Yang, J. Zheng, Z. Li, Z. Li, H. Qu, and Q. Tian*. FreeHemoSeg: Label-Free Deep Learning Framework for Automated Segmentation of Fetal Brain Germinal Matrix and Intraventricular Hemorrhage. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster) [[Paper]](https://archive.ismrm.org/2025/3790_Ym89lJRZe.html)
-
-- <strong>M. Liu</strong>, Y. Li, J. Zhu, H. Yang, Y. Huang, H. Li, Y. Chen, X. Bai, Y. Liao, H. Qu, and Q. Tian*. From Free Text to Usable Labels: Privacy-Ensuring Open-weights LLM-Enhanced Clinical Report Extraction for Fetal MRI. <strong>Beijing-Tsinghua Health AI Summit (BEIHAI)</strong>, 2025. (Oral, Second Prize of Oral Presentation) [[Paper]](https://hal.science/hal-05330462)
-
-- <strong>M. Liu</strong>, H. Li, J. Zhu, J. Zheng, H. Yang, Z. Li, Z. Li, and Q. Tian*. Detecting Fetal Germinal Matrix and Intraventricular Hemorrhage in Brain MRI Using Label-free Deep Learning. <strong>Annual Meeting of Radiological Society of North America (RSNA)</strong>, 2024. (Oral Paper Presentation) [[Paper]](https://hal.science/hal-04961196/)
-
-- <strong>M. Liu</strong>, H. Li, Z. Li, H. Yang, J. Zheng, X. Zhang, and Q. Tian*. Image Quality Assessment using an Orientation Recognition Network for Fetal MRI. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2024. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%) [[Paper]](https://archive.ismrm.org/2024/0726.html)
-
-- <strong>M. Liu</strong>, H. Li, H. Qu, and Q. Tian*. Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning. <strong>Singapore AI Health Summit</strong>, 2023. (Poster Competition 3rd Place Winner, Top 3%) [[Paper]](https://hal.science/hal-04961169/)
-
-- X. Zhang, <strong>M. Liu</strong>, H. Yang, Y. Chen, J. Zhu, X. Bai, Y. Huang, Y. Hao, Z. Li, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Automated Induction of Standardized Reporting Templates from Fetal Brain MRI Free-Text Corpora. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
-
-- X. Hu, <strong>M. Liu</strong>, Y. Li, H. Yang, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Benchmarking Spatiotemporal Fetal Brain Atlas Construction. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
-
-- Y. Li, <strong>M. Liu</strong>, H. Yang, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, X. Hu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
-  
 - H. Li, <strong>M. Liu</strong>, D. Varadarajan, Z. Hu, Q. Tian, and J. Polimeni*. Test-time optimization for cortical surface reconstruction across image resolutions/contrasts using untrained neural networks. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Oral)
 
 - H. Yang, <strong>M. Liu</strong>, Y. Liao, M. Zhang, J. Zhu, H. Li, F. Jia, Z. Li, Y. Li, J. Huang, Z. Wang, Z. Li, H. Qu, and Q. Tian*. Improving the Accuracy of Fetal Brain Age Prediction Using Neural Network Attribution Maps. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
@@ -453,30 +433,36 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 - J. Huang, K. Anmahapong, H. Li, <strong>M. Liu</strong>, J. Zhu, H. Yang, Y. Li, Y. Hao, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Multi-Organ Volumetric Growth Trajectories in Fetuses with Hydronephrosis. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
 
 - Y. Chen, G. Zhou, Y. Wang, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, J. Lu, and Q. Tian*. AlignPET: Structure-Aligned MRI-to-PET Synthesis via Variational Autoregression Model for Ischemic Brain Lesions. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Oral Power Pitch)
-  
+
+- <strong>M. Liu</strong>, Y. Hao, Y. Liao, H. Li, J. Zhu, H. Yang, Y. Chen, X. Bai, H. Qu, and Q. Tian*. Quality-Label-Free Stack-Level Quality Control Improves Fetal Brain Slice-to-Volume Reconstruction. <strong>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging</strong>, 2026. (Traditional Poster)
+
 - X. Hu, <strong>M. Liu</strong>, H. Yang, Y. Li, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*. INSTA: Implicit Neural Spatio-Temporal Atlas from Thick-Slice Clinical Fetal Brain MRI. <strong>ISMRM Workshop on Unlocking the Potential of Prenatal MRI: Advances in Fetal Brain, Heart & Placenta Imaging</strong>, 2026. (Oral)
-  
-- Y. Zhang, <strong>M. Liu</strong>, Y. Wu, L. Zhang, C. Chai, Z. Liu, and Q. Tian*. Machine Learning and Deep Learning for Pediatric and Adolescent Myopia Prediction. <strong>Beijing-Tsinghua Health AI Summit (BEIHAI)</strong>, 2025. (Poster) [[Paper]](https://hal.science/hal-05330520)
+
+- X. Zhang, <strong>M. Liu</strong>, H. Yang, Y. Chen, J. Zhu, X. Bai, Y. Huang, Y. Hao, Z. Li, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Automated Induction of Standardized Reporting Templates from Fetal Brain MRI Free-Text Corpora. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
+
+- X. Hu, <strong>M. Liu</strong>, Y. Li, H. Yang, Y. Hao, H. Li, Y. Chen, Z. Li, J. Zhu, Y. Liao, G. Ning, H. Qu, and Q. Tian*. Benchmarking Spatiotemporal Fetal Brain Atlas Construction. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
+
+- Y. Li, <strong>M. Liu</strong>, H. Yang, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, X. Hu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
+
+- Y. Chen, G. Zhou, Y. Wang, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, J. Lu, and Q. Tian*. Modality-Agnostic PET Synthesis from Single-Modality Thick-Slice MRI via Structured MRI-PET Mapping. OHBM Annual Meeting (OHBM), 2026. (Poster)
+
+- Y. Wu, Y. Zhang, <strong>M. Liu</strong>, L. Zhang, and Q. Tian*. Prognostic AI Model for Myopia in Children & Adolescents Using Real-World Intervention Data: A 7-Center Study. <strong>World Ophthalmology Congress (WOC)</strong>, 2026. (Poster)
+
+- Y. Wu, Y. Zhang, <strong>M. Liu</strong>, L. Zhang, and Q. Tian*. Artificial Intelligence-based Myopia Prediction in Children and Adolescents. <strong>Asia-Pacific Academy of Ophthalmology Congress (APAO)</strong>, 2026. (Poster)
+
+- <strong>M. Liu</strong>, H. Li, Z. Li, H. Yang, J. Zheng, H. Qu, and Q. Tian*. Unsupervised Fetal Brain MRI Quality Assessment based on Orientation Prediction Uncertainty. <strong>OHBM Annual Meeting (OHBM)</strong>, 2025. (Poster, OHBM Merit Award, Top 1.6%) [[Paper]](https://hal.science/hal-04974115)
 
 - Y. Hao, <strong>M. Liu</strong>, J. Zhu, H. Yang, Y. Liao, H. Qu, and Q. Tian*. Unsupervised Anomaly Detection for Fetal Brain MRI using Two-Stage Denoising Autoencoder (ω-DAE). <strong>OHBM Annual Meeting (OHBM)</strong>, 2025. (Poster) [[Paper]](https://hal.science/hal-04974207)
 
 - H. Yang, <strong>M. Liu</strong>, Y. Liao, J. Zhu, H. Li, Z. Li, J. Zhang, J. Zheng, Z. Li, H. Qu, and Q. Tian*. Volume Reconstruction from Single MRI Thick-slice Stack with Deep Learning for Fetal Brain. <strong>OHBM Annual Meeting (OHBM)</strong>, 2025. (Poster) [[Paper]](https://zenodo.org/records/15641972)
+
+- <strong>M. Liu</strong>, Y. Liao, J. Zhu, H. Li, H. Yang, J. Zheng, Z. Li, Z. Li, H. Qu, and Q. Tian*. FreeHemoSeg: Label-Free Deep Learning Framework for Automated Segmentation of Fetal Brain Germinal Matrix and Intraventricular Hemorrhage. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster) [[Paper]](https://archive.ismrm.org/2025/3790_Ym89lJRZe.html)
 
 - H. Yang, <strong>M. Liu</strong>, Y. Liao, H. Li, J. Zhu, Z. Li, J. Zhang, J. Zheng, Z. Li, H. Qu, and Q. Tian*. FetalSR: Super-resolving High-isotropic-resolution Image Volume from Single Thick-slice Stack with Deep Learning for Fetal Brain Morphometry. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Oral Presentation, ISMRM Summa Cum Laude Merit Award, Top 5%) [[Paper]](https://archive.ismrm.org/2025/0015_TonEG7RQy.html)
 
 - H. Li, <strong>M. Liu</strong>, Y. Liao, J. Zhu, J. Zheng, H. Yang, Z. Li, H. Qu, and Q. Tian*. CortexKAN: Multi-input KAN for fetal cortical surface reconstruction. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster) [[Paper]](https://archive.ismrm.org/2025/3792_9U0wArSPu.html)
 
 - Y. Li, <strong>M. Liu</strong>, J. Zhu, H. Yang, J. Zheng, Z. Li, Y. Liao, H. Qu, and Q. Tian*. FetalSFUDA: Source-Free Unsupervised Domain Adaptation for Fetal Brain Extraction from Different Centers or MRI Sequences. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster) [[Paper]](https://archive.ismrm.org/2025/3788_5TdJkERAZ.html)
-
-- Y. Li, <strong>M. Liu</strong>, J. Zhu, H. Yang, J. Zheng, Z. Li, Y. Liao, H. Qu, and Q. Tian*. BrainSFUDA: Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Oral Power Pitch) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Li,%20Yijin.pdf)
-
-- H. Li, <strong>M. Liu</strong>, J. Zheng, H. Yang, Z. Li, and Q. Tian*. FetalSurfer: Automated Fetal Cortical Surface Reconstruction. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2024. (Digital Poster) [[Paper]](https://archive.ismrm.org/2024/3635.html)
-
-- Y. Wu, Y. Zhang, <strong>M. Liu</strong>, L. Zhang, and Q. Tian*. Prognostic AI Model for Myopia in Children & Adolescents Using Real-World Intervention Data: A 7-Center Study. <strong>World Ophthalmology Congress (WOC)</strong>, 2026. (Poster)
-
-- Y. Wu, Y. Zhang, <strong>M. Liu</strong>, L. Zhang, and Q. Tian*. Artificial Intelligence-based Myopia Prediction in Children and Adolescents. <strong>Asia-Pacific Academy of Ophthalmology Congress (APAO)</strong>, 2026. (Poster)
-
-- Y. He, J. Zheng, H. Yang, Y. Chen, Z. Li, <strong>M. Liu</strong>, Q. Fan, Y. Liao, H. Qu, Q. Tian, J. Lu, and Z. Li*. HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure brain Imaging using Deep learning. <strong>Annual Meeting of Radiological Society of North America (RSNA)</strong>, 2025. (Poster) [[Paper]](https://github.com/Arktis2022/Arktis2022.github.io_old/blob/main/_data/RSNA2025_HeYuhang_Final.pdf)
 
 - H. Li, Y. Liao, J. Zhu, <strong>M. Liu</strong>, J. Zheng, H. Yang, Z. Li, Z. Li, Q. Tian, and H. Qu*. Negative Impacts of Germinal Matrix-Ventricular Hemorrhage on Prenatal and Postnatal Brain Development. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Digital Poster, ISMRM Summa Cum Laude Merit Award, Top 5%) [[Paper]](https://archive.ismrm.org/2025/3798_4AGubBRaV.html)
 
@@ -490,6 +476,8 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - J. Zheng, C. Yang, W. Zhong, Z. Wang, H. Li, Z. Li, <strong>M. Liu</strong>, H. Yang, X. Cao, C. Liao, D. H. Salat, S. Y. Huang, and Q. Tian*. Impacts of diffusion MRI spatial resolution on the short-range association fiber reconstruction and connectivity estimation. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2025. (Traditional Poster) [[Paper]](https://archive.ismrm.org/2025/4787_HSnqCVPx1.html)
 
+- Y. Li, <strong>M. Liu</strong>, J. Zhu, H. Yang, J. Zheng, Z. Li, Y. Liao, H. Qu, and Q. Tian*. BrainSFUDA: Fetal Brain Extraction from Diffusion-weighted MR Images using Source-free Unsupervised Domain Adaption. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Oral Power Pitch) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Li,%20Yijin.pdf)
+
 - Y. Chen, Z. Li, S. Zhu, Z. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, and Q. Tian*. DiffKAN3D: Efficient and Accurate 3D Diffusion MRI Parameter Estimation for Real-Time Clinical Applications. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Poster) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Chen,%20Yifei.pdf)
 
 - J. Zheng, C. Yang, W. Zhong, Z. Wang, H. Li, Z. Li, <strong>M. Liu</strong>, H. Yang, X. Cao, C. Liao, D. H. Salat, S. Y. Huang, and Q. Tian*. Effect of Diffusion MRI Acquisition and Nominal Spatial Resolutions on Fiber Reconstruction and Connectivity Estimation. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Oral Presentation) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Zheng,%20Jialan.pdf)
@@ -497,6 +485,20 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 - J. Zhang, F. Lange, J. Andersson, J. Zheng, Y. Jing, H. Yang, <strong>M. Liu</strong>, Z. Li, W. Wu, Q. Tian, and Z. Li*. DeepEddy: high-quality eddy current and bulk motion correction using deep learning-based image synthesis and co-registration. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Oral Presentation) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Zhang,%20Jize.pdf)
 
 - Z. Li, J. Zheng, Z. Li, Z. Wang, <strong>M. Liu</strong>, H. Yang, G. Ning, H. Liao, and Q. Tian*. DIMOND++: Improving diffusion model optimization using diffusion priors. <strong>ISMRM Workshop on 40 Years of Diffusion</strong>, 2025. (Poster) [[Paper]](https://cds.ismrm.org/protected/Diffusion40/abstracts/Li,%20Zihan.pdf)
+
+- <strong>M. Liu</strong>, Y. Li, J. Zhu, H. Yang, Y. Huang, H. Li, Y. Chen, X. Bai, Y. Liao, H. Qu, and Q. Tian*. From Free Text to Usable Labels: Privacy-Ensuring Open-weights LLM-Enhanced Clinical Report Extraction for Fetal MRI. <strong>Beijing-Tsinghua Health AI Summit (BEIHAI)</strong>, 2025. (Oral, Second Prize of Oral Presentation) [[Paper]](https://hal.science/hal-05330462)
+
+- Y. Zhang, <strong>M. Liu</strong>, Y. Wu, L. Zhang, C. Chai, Z. Liu, and Q. Tian*. Machine Learning and Deep Learning for Pediatric and Adolescent Myopia Prediction. <strong>Beijing-Tsinghua Health AI Summit (BEIHAI)</strong>, 2025. (Poster) [[Paper]](https://hal.science/hal-05330520)
+
+- Y. He, J. Zheng, H. Yang, Y. Chen, Z. Li, <strong>M. Liu</strong>, Q. Fan, Y. Liao, H. Qu, Q. Tian, J. Lu, and Z. Li*. HUMMID: High-fidelity Ultra-fast Macrostructure and Microstructure brain Imaging using Deep learning. <strong>Annual Meeting of Radiological Society of North America (RSNA)</strong>, 2025. (Poster) [[Paper]](https://github.com/Arktis2022/Arktis2022.github.io_old/blob/main/_data/RSNA2025_HeYuhang_Final.pdf)
+
+- <strong>M. Liu</strong>, H. Li, J. Zhu, J. Zheng, H. Yang, Z. Li, Z. Li, and Q. Tian*. Detecting Fetal Germinal Matrix and Intraventricular Hemorrhage in Brain MRI Using Label-free Deep Learning. <strong>Annual Meeting of Radiological Society of North America (RSNA)</strong>, 2024. (Oral Paper Presentation) [[Paper]](https://hal.science/hal-04961196/)
+
+- <strong>M. Liu</strong>, H. Li, Z. Li, H. Yang, J. Zheng, X. Zhang, and Q. Tian*. Image Quality Assessment using an Orientation Recognition Network for Fetal MRI. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2024. (Oral Power Pitch, Magna Cum Laude Merit Award, Top 15%) [[Paper]](https://archive.ismrm.org/2024/0726.html)
+
+- H. Li, <strong>M. Liu</strong>, J. Zheng, H. Yang, Z. Li, and Q. Tian*. FetalSurfer: Automated Fetal Cortical Surface Reconstruction. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2024. (Digital Poster) [[Paper]](https://archive.ismrm.org/2024/3635.html)
+
+- <strong>M. Liu</strong>, H. Li, H. Qu, and Q. Tian*. Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning. <strong>Singapore AI Health Summit</strong>, 2023. (Poster Competition 3rd Place Winner, Top 3%) [[Paper]](https://hal.science/hal-04961169/)
 
 </div>
 
