@@ -444,7 +444,7 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - Y. Li, <strong>M. Liu</strong>, H. Yang, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, X. Hu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. Towards Robustness Fetal Brain Development Monitoring and Universal Multi-Disease Diagnosis. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
 
-- Y. Chen, G. Zhou, Y. Wang, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, J. Lu, and Q. Tian*. Modality-Agnostic PET Synthesis from Single-Modality Thick-Slice MRI via Structured MRI-PET Mapping. OHBM Annual Meeting (OHBM), 2026. (Poster)
+- Y. Chen, G. Zhou, Y. Wang, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, J. Lu, and Q. Tian*. Modality-Agnostic PET Synthesis from Single-Modality Thick-Slice MRI via Structured MRI-PET Mapping. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
 
 - Y. Wu, Y. Zhang, <strong>M. Liu</strong>, L. Zhang, and Q. Tian*. Prognostic AI Model for Myopia in Children & Adolescents Using Real-World Intervention Data: A 7-Center Study. <strong>World Ophthalmology Congress (WOC)</strong>, 2026. (Poster)
 
