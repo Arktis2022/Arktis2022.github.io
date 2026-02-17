@@ -516,7 +516,7 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, <strong>M. Liu</strong>, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian*. SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data. <strong>Imaging Neuroscience (IMAG)</strong>. (Under Review)
 
-- Y. Chen#, J. Zheng#, Y. Wang#, B. Wu, L. Li, <strong>M. Liu</strong>, L. Xu, Y. Wu, C. Liu, L. Guo, H. Yang, X. Bai, F. Qin, Q. Liao, Y. Gu, G. Zhao, L. Ma, K. Pan, J. Guo, Y. Zhou, H. Sun*, and Q. Tian*. A Chinese vision-language large model for emergency 3D brain CT interpretation. <strong>npj Digital Medicine (NPJ DM)</strong>. (Under Review)
+- Y. Chen#, J. Zheng#, Y. Wang#, B. Wu, L. Li, <strong>M. Liu</strong>, L. Xu, Y. Wu, C. Liu, L. Guo, H. Yang, X. Bai, F. Qin, Q. Liao, Y. Gu, G. Zhao, L. Ma, K. Pan, J. Guo, Y. Zhou, H. Sun*, and Q. Tian*. A Chinese vision-language large model for emergency 3D brain CT interpretation. <strong>npj Digital Medicine (NPJ DM)</strong>. (Major Revision)
 
 - C. Wu#, Y. Chen#, Y. Du, <strong>M. Liu</strong>, J. Zong, B. Wu, J. Dong, F. Qin*, Y. Cao, and Q. Tian*. AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI. <strong>Pattern Recognition (PR)</strong>. (Under Review)
 
