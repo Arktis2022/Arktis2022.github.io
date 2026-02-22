@@ -13,3 +13,4 @@
 - [**Jayce Xu**](https://iayce.github.io/) - Software Engineering, Huazhong University of Science and Technology
 - [**Xingyue Wei**](https://weixy17.github.io/) - School of Biomedical Engineering, Tsinghua University
 - [**Xin Wu**](https://xinwu1897.github.io/XinWu.github.io/) - Institute of Physics Chinese Academy of Sciences
+- [**Wenjing Yu**](https://wenjing-gg.github.io/) - 3DV Lab, Hangzhou Dianzi University
