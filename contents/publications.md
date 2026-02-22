@@ -445,6 +445,8 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - Y. Chen, G. Zhou, Y. Wang, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, J. Lu, and Q. Tian*. Modality-Agnostic PET Synthesis from Single-Modality Thick-Slice MRI via Structured MRI-PET Mapping. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
 
+- Z. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, X. Hu, Y. Li, H. Liao, and Q. Tian*. DIMONER: Diffusion Model Optimization via Implicit Neural Representations with Signal Embedding. <strong>OHBM Annual Meeting (OHBM)</strong>, 2026. (Poster)
+
 - Y. Wu, Y. Zhang, <strong>M. Liu</strong>, L. Zhang, and Q. Tian*. Prognostic AI Model for Myopia in Children & Adolescents Using Real-World Intervention Data: A 7-Center Study. <strong>World Ophthalmology Congress (WOC)</strong>, 2026. (Poster)
 
 - Y. Wu, Y. Zhang, <strong>M. Liu</strong>, L. Zhang, and Q. Tian*. Artificial Intelligence-based Myopia Prediction in Children and Adolescents. <strong>Asia-Pacific Academy of Ophthalmology Congress (APAO)</strong>, 2026. (Poster)
