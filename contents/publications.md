@@ -535,6 +535,8 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - X. Hu#, **M. Liu#**, H. Yang, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*. INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
 
+- Y. Li#, **M. Liu#**, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+  
 - G. Zhou#, **M. Liu#**, Y. Du, L. Zhu, J. Zong, C. Wu, B. Wu, S. Zhu, F. Qin*, and Y. Chen*. AnatoSyn: Controllable Anatomical Anomaly Synthesis for Intracerebral Hemorrhage. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
 
 - Y. Hao#, Y. Luo#, **M. Liu#**, H. Yang, J. Zhu, X. Hu, K. Anmahapong, Z. Li, Y. Li, Y. Chen, J. Liu, G. Ning, Y. Liao, H. Qu, and Q. Tian*. FetMRIE: Unsupervised Fetal Brain MRI Image Enhancement with Anatomical Fidelity via Adaptive State-Matching Denoising Diffusion. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
