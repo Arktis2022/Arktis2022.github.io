@@ -533,7 +533,7 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - X. Zhang#, **M. Liu#**, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian*. ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
 
-- X. Hu#, **M. Liu#**, H. Yang, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*. INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+- X. Hu#, **M. Liu#**, H. Yang#, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*. INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
 
 - Y. Li#, **M. Liu#**, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
   
