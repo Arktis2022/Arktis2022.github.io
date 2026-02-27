@@ -529,4 +529,24 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - J. Lu, <strong>M. Liu</strong>, H. Chen*, C. Wang, and J. Hu. An incredibly simple real-time method without CNN for red tongue tip classification. <strong>Chinese Journal of Electronics (CJE)</strong>. (Under Review)
 
+- X. Hu#, J. Huang#, **M. Liu#**, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*. FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+
+- X. Zhang#, **M. Liu#**, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian*. ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+
+- X. Hu#, **M. Liu#**, H. Yang, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*. INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+
+- G. Zhou#, **M. Liu#**, Y. Du, L. Zhu, J. Zong, C. Wu, B. Wu, S. Zhu, F. Qin*, and Y. Chen*. AnatoSyn: Controllable Anatomical Anomaly Synthesis for Intracerebral Hemorrhage. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+
+- Y. Hao#, Y. Luo#, **M. Liu#**, H. Yang, J. Zhu, X. Hu, K. Anmahapong, Z. Li, Y. Li, Y. Chen, J. Liu, G. Ning, Y. Liao, H. Qu, and Q. Tian*. FetMRIE: Unsupervised Fetal Brain MRI Image Enhancement with Anatomical Fidelity via Adaptive State-Matching Denoising Diffusion. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+
+- H. Yang#, **M. Liu#**, Y. Hao#, X. Hu, Y. Li, J. Zhu, J. Liu, X. Bai, Y. Chen, J. Huang, Z. Li, Y. Liao, Z. Li, H. Qu, and Q. Tian*. Simple Baselines for Fetal Brain Unsupervised Anomaly Detection. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+
+- E. Bao#, Y. Chen#, S. Tang, B. Wu, G. Zhou, **M. Liu**, K. Anmahapong, Z. Wang, F. Qin*, L. Xiang, J. He, and Q. Tian*. Residual-Offset Diffusion for Structure-Consistent Low-Dose PET Reconstruction. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+
+- Y. Wang#, Y. Chen#, B. Wu, **M. Liu**, X. Hu, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*. R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+
+- S. Jiang, Y. Hong, C. Jiang, W. Chen, H. Chen, S. Zhu, B. Wu, **M. Liu**, Z. Zhu, F. Qin*, M. Tan, and Y. Chen*. GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+
+- A. Wang#, Z. Li#, L. Zhang, X. Zhang, Y. Wang, X. Yang, **M. Liu**, X. Wang, H. Liao, and G. Ning*. GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-Layer Fusion Network for Abdominal Ultrasound Standard Plane Classification. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
+  
 </div>
