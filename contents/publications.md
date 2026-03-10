@@ -509,7 +509,7 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - <strong>M. Liu#</strong>, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian*. Annotation-free deep learning for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI. <strong>The Lancet Medical Imaging & Theranostics (TLMIT)</strong>. (Under Review)
 
-- H. Yang#, Y. Liao#, <strong>M. Liu#</strong>, J. Zhu, H. Li, F. Jia, M. Zhang, J. Zheng, Z. Li, Z. Wang, J. Zhang, Y. Chen, Y. Li, H. Lai, X. Zhou, M. Kang, Y. Song, Z. Li, G. Ning, H. Qu*, and Q. Tian*. 3D fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution. Nature Biomedical Engineering (NBME). (Under Review)
+- H. Yang#, Y. Liao#, <strong>M. Liu#</strong>, J. Zhu, H. Li, F. Jia, M. Zhang, J. Zheng, Z. Li, Z. Wang, J. Zhang, Y. Chen, Y. Li, H. Lai, X. Zhou, M. Kang, Y. Song, Z. Li, G. Ning, H. Qu*, and Q. Tian*. 3D fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution. <strong>Nature Biomedical Engineering (NBME)</strong>. (Under Review)
   
 - Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, <strong>M. Liu</strong>, S. Xin, L. Liu, H. Liao*, and G. Ning*. Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
 
