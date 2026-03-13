@@ -1,5 +1,6 @@
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- *2026.03.04*, Attended the ISMRM Workshop on Unlocking the Potential of Prenatal MRI in Washington, D.C., USA. [Photo](https://ibb.co/hFTYj3MW)
 - *2026.01.09*, Attended the 2026 Annual Retreat of the Center for Biomedical Imaging Research (CBIR) and awarded [2nd Place in the Oral Session of AI for Image Reconstruction and Analysis](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/CBIR2026.png). [Photo](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/CBIR2026_photo.jpg)
 - *2025.11.22*, Attended the 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University) and awarded [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing). [Photo](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/bolun_2025_11.jpg) [Photo](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/bolun_2025_11_2.jpg)
 - *2025.11.15*, Attended the CHINESE CONGRESS OF RADIOLOGY (CCR) 2025 in Changsha. [Photo](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/CCR.jpg)
