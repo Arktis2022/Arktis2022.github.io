@@ -180,7 +180,7 @@ keywords = {Brain-inspired neural networks, Remote photoplethysmography, Biomedi
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-- Z. Gao, C. Zhang, <strong>M. Liu</strong>, Y. Chen, X. Hu, and Q. Tian*. View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis. <strong>IEEE International Symposium on Biomedical Imaging (ISBI)</strong>, 2026. (Challenge Paper)
+- Z. Gao#, C. Zhang#, <strong>M. Liu</strong>, Y. Chen, X. Hu, and Q. Tian*. View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis. <strong>IEEE International Symposium on Biomedical Imaging (ISBI)</strong>, 2026. (Challenge Paper)
 
 - G. Zhou#, Y. Chen#, G. Ying, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, Q. Tian*, and J. Lu*. WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11356448) [[code]](https://github.com/Guanyu-Zhou/WARPNet)
 <a href="javascript:void(0)" onclick="var x=document.getElementById('bib_warpnet'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
