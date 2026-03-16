@@ -509,6 +509,8 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- <strong>M. Liu#</strong>, X. Bai#, M. Zhang, Y. Chen, H. Yang, Z. Wang, Y. Luo, Y. Zhou, X. Han*, and Q. Tian. Preoperative CTA-based deep learning model for predicting AKI after TEVAR in type B aortic dissection. <strong> Radiology (RAD)</strong>. (Under Review)
+
 - <strong>M. Liu#</strong>, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian*. Annotation-free deep learning for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI. <strong>The Lancet Medical Imaging & Theranostics (TLMIT)</strong>. (Under Review)
 
 - H. Yang#, Y. Liao#, <strong>M. Liu</strong>, J. Zhu, H. Li, F. Jia, M. Zhang, J. Zheng, Z. Li, Z. Wang, J. Zhang, Y. Chen, Y. Li, H. Lai, X. Zhou, M. Kang, Y. Song, Z. Li, G. Ning, H. Qu*, and Q. Tian*. 3D fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution. <strong>Nature Biomedical Engineering (NBME)</strong>. (Under Review)
