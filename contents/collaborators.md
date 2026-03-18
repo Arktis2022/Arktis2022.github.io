@@ -14,3 +14,4 @@
 - [**Xingyue Wei**](https://weixy17.github.io/) - School of Biomedical Engineering, Tsinghua University
 - [**Xin Wu**](https://xinwu1897.github.io/XinWu.github.io/) - Institute of Physics Chinese Academy of Sciences
 - [**Wenjing Yu**](https://wenjing-gg.github.io/) - 3DV Lab, Hangzhou Dianzi University
+- [**Xiaotian Hu**](https://hu2274898.github.io/) - School of Biological Science and Medical Engineering, Beihang University.
