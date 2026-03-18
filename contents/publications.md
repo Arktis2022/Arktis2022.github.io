@@ -513,13 +513,13 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - <strong>M. Liu#</strong>, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian*. Annotation-free deep learning for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI. <strong>The Lancet Medical Imaging & Theranostics (TLMIT)</strong>. (Under Review)
 
-- H. Yang#, Y. Liao#, <strong>M. Liu</strong>, J. Zhu, H. Li, F. Jia, M. Zhang, J. Zheng, Z. Li, Z. Wang, J. Zhang, Y. Chen, Y. Li, H. Lai, X. Zhou, M. Kang, Y. Song, Z. Li, G. Ning, H. Qu*, and Q. Tian*. 3D fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution. <strong>Nature Biomedical Engineering (NBME)</strong>. (Under Review)
-  
-- Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, <strong>M. Liu</strong>, S. Xin, L. Liu, H. Liao*, and G. Ning*. Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
-
 - Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>. (Under Review)
 
 - Y. Zhang#, <strong>M. Liu#</strong>, Y. Chen#, Y. Wu*, L. Zhang, M. Guo, Y. Yan, R. Wei, Z. Cui, P. Luo, F. Chen, B. Yang, Y. Han, X. Liu, and Q. Tian*. Multi-center validation of machine learning models for predicting myopia progression across school-based screening and optical intervention settings in Chinese children and adolescents. <strong>Advanced Intelligent Discovery (AID)</strong>. (Under Review)
+  
+- H. Yang#, Y. Liao#, <strong>M. Liu</strong>, J. Zhu, H. Li, F. Jia, M. Zhang, J. Zheng, Z. Li, Z. Wang, J. Zhang, Y. Chen, Y. Li, H. Lai, X. Zhou, M. Kang, Y. Song, Z. Li, G. Ning, H. Qu*, and Q. Tian*. 3D fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution. <strong>Nature Biomedical Engineering (NBME)</strong>. (Under Review)
+  
+- Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, <strong>M. Liu</strong>, S. Xin, L. Liu, H. Liao*, and G. Ning*. Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
 
 - M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, <strong>M. Liu</strong>, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian*. SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data. <strong>Imaging Neuroscience (IMAG)</strong>. (Under Review)
 
