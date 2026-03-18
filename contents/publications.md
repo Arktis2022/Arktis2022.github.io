@@ -533,6 +533,8 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, B. Wu, J. Zong, F. Qin, C. Wang, and Q. Tian*. SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI. <strong>Journal of Biomedical and Health Informatics (JBHI)</strong>. (Under Review)
 
+- G. Zhou#, Y. Chen#, B. Cui, Y. Shan, H. Yang, Y. Wang, X. Bai, <strong>M. Liu</strong>, Z. Li, Q. Tian*, and J. Lu*. Interpretable Linear MRI-to-PET Synthesis for Metabolic Assessment of Cerebral Ischemia. <strong>Medical Image Analysis (MIA)</strong>. (Under Review)
+
 - J. Lu, <strong>M. Liu</strong>, H. Chen*, C. Wang, and J. Hu. An incredibly simple real-time method without CNN for red tongue tip classification. <strong>Chinese Journal of Electronics (CJE)</strong>. (Under Review)
 
 - H. Li#, **M. Liu#**, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni*. XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks. **European Conference on Computer Vision (ECCV)**. (Under Review)
