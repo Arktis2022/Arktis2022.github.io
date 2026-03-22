@@ -525,7 +525,7 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - Y. Chen#, J. Zheng#, Y. Wang#, B. Wu, L. Li, <strong>M. Liu</strong>, L. Xu, Y. Wu, C. Liu, L. Guo, H. Yang, X. Bai, F. Qin, Q. Liao, Y. Gu, G. Zhao, L. Ma, K. Pan, J. Guo, Y. Zhou, H. Sun*, and Q. Tian*. A Chinese vision-language large model for emergency 3D brain CT interpretation. <strong>npj Digital Medicine (NPJ DM)</strong>. (Major Revision)
 
-- C. Wu#, Y. Chen#, Y. Du, <strong>M. Liu</strong>, J. Zong, B. Wu, J. Dong, F. Qin*, Y. Cao, and Q. Tian*. AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI. <strong>Knowledge-Based Systems (KBS)</strong>. (Under Review)
+- C. Wu#, Y. Chen#, Y. Du, <strong>M. Liu</strong>, J. Zong, B. Wu, J. Dong, F. Qin*, Y. Cao, and Q. Tian*. AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI. <strong>Information Fusion (IF)</strong>. (Under Review)
 
 - W. Yu#, S. Jiang#, Y. Chen#, S. Chang, Y. Wang, B. Wu, J. Dong, <strong>M. Liu</strong>, S. Zhu, F. Qin*, C. Wang, and Q. Tian*. A Large Scale Benchmark for Test Time Adaptation in Medical Image Segmentation. <strong>Pattern Recognition (PR)</strong>. (Under Review)
 
