@@ -5,7 +5,7 @@
 - [[Certificate]](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing) *2025* **BEIHAI Summit Second Prize of Oral Presentation**<br /> &nbsp; &nbsp; &nbsp; *Competition judges: Charlotte Haug, Executive Editor of NEJM AI*
 - [[Certificate]](https://ibb.co/fwkyw94) *2025* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
 - [[Certificate]](https://ibb.co/bthJn0R) *2025* **MICCAI [autoPET IV Challenge](https://www.autopet.org/autopetiv.html) 1st Place Winner**
-- [[Certificate]](https://ibb.co/XxzjWdNw) *2025* **MICCAI [VLM3D Challenge](https://vlm3dchallenge.com/challenges/) 2nd Place Winner**
+- [[Certificate]](https://ibb.co/XxzjWdNw) *2025* **MICCAI [VLM3D Challenge](https://zenodo.org/records/15052708) 2nd Place Winner**
 - [[Certificate]](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing) *2025* **OHBM Merit Award (Top 1.6%)**
 - [[Certificate]](https://ibb.co/ymv28Vqs) *2025* **ISMRM Educational Stipend Award**
 - [[Certificate]](https://ibb.co/XxRZYRxB) *2024* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
