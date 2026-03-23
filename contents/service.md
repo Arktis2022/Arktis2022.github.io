@@ -3,12 +3,13 @@
 - Co-organizer, [BEIHAI Summit 2025](https://www.medcircle.cn/meeting/index/2025bs)
 
 **Journal Reviewer**
-- Engineering Applications of Artificial Intelligence
-- Neural Networks
-- Neurocomputing
-- IEEE Transactions on Cognitive and Developmental Systems
 - Applied Intelligence
 - Biomedical Signal Processing and Control
+- Engineering Applications of Artificial Intelligence
+- IEEE Transactions on Cognitive and Developmental Systems
+- IEEE Transactions on Human-Machine Systems
+- Neural Networks
+- Neurocomputing
 
 **Conference Reviewer**
 - Deep Learning: AAAI 2025, NeurIPS 2025, IJCNN 2025, ICML 2025 Workshop (PUT), ICLR 2025/2026 Workshop (AI4CHL, XAI4Science, TTU), AAAI 2026 Workshop (XAI4Science)
