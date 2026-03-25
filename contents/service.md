@@ -10,6 +10,7 @@
 - IEEE Transactions on Human-Machine Systems
 - Neural Networks
 - Neurocomputing
+- Pattern Recognition
 
 **Conference Reviewer**
 - Deep Learning: AAAI 2025, NeurIPS 2025, IJCNN 2025, ICML 2025 Workshop (PUT), ICLR 2025/2026 Workshop (AI4CHL, XAI4Science, TTU), AAAI 2026 Workshop (XAI4Science)
