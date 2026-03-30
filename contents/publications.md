@@ -517,7 +517,7 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - Y. Zhang#, <strong>M. Liu#</strong>, Y. Chen#, Y. Wu*, L. Zhang, M. Guo, Y. Yan, R. Wei, Z. Cui, P. Luo, F. Chen, B. Yang, Y. Han, X. Liu, and Q. Tian*. Multi-center validation of machine learning models for predicting myopia progression across school-based screening and optical intervention settings in Chinese children and adolescents. <strong>Advanced Intelligent Discovery (AID)</strong>. (Under Review)
 
-- J. Zong#, Y. Chen#*, <strong>M. Liu#</strong>, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin*. MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation. <strong>Pattern Recognition (PR)</strong>. (Under Review)
+- J. Zong#, Y. Chen#, <strong>M. Liu#</strong>, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin*. MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation. <strong>Pattern Recognition (PR)</strong>. (Under Review)
   
 - H. Yang#, Y. Liao#, <strong>M. Liu</strong>, J. Zhu, H. Li, F. Jia, Z. Li, M. Zhang, J. Zheng, Z. Wang, J. Zhang, Y. Chen, Y. Li, L. Luo, J. Liu, H. Lai, X. Zhou, M. Kang, Y. Song, G. Ning, Z. Li, X. Zhang, H. Qu*, and Q. Tian*. 3D fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution. <strong>Nature Biomedical Engineering (NBME)</strong>. (Under Review)
   
