@@ -1,6 +1,6 @@
 - [[Certificate]](https://ibb.co/q37WpDdg) *2026* **ISMRM Educational Stipend Award**
 - [[Certificate]](https://ibb.co/C533cPj3) *2026* **ISMRM Workshop Trainee Stipend Award**<br /> &nbsp; &nbsp; &nbsp; *ISMRM Workshop on Unlocking the Potential of Prenatal MRI, Washington, DC, USA*
-- [[Certificate]](https://ibb.co/5X5pHHb9) *2026* **2nd Place in the Oral Session of AI for Image Reconstruction and Analysis**<br /> &nbsp; &nbsp; &nbsp; *The Center for Biomedical Imaging Research (CBIR), Tsinghua University*
+- [[Certificate]](https://ibb.co/5X5pHHb9) *2026* **2nd Place in the Oral Session of AI for Image Reconstruction and Analysis**<br /> &nbsp; &nbsp; &nbsp; *Annual Retreat of the Center for Biomedical Imaging Research (CBIR), Tsinghua University*
 - [[Certificate]](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing) *2025* **Invited Student Speaker Award**<br /> &nbsp; &nbsp; &nbsp; *The 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University)*
 - [[Certificate]](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing) *2025* **BEIHAI Summit Second Prize of Oral Presentation**<br /> &nbsp; &nbsp; &nbsp; *Competition judges: Charlotte Haug, Executive Editor of NEJM AI*
 - [[Certificate]](https://ibb.co/fwkyw94) *2025* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
