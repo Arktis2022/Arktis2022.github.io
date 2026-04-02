@@ -501,7 +501,7 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - H. Li, <strong>M. Liu</strong>, J. Zheng, H. Yang, Z. Li, and Q. Tian*. FetalSurfer: Automated Fetal Cortical Surface Reconstruction. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2024. (Digital Poster) [[Paper]](https://archive.ismrm.org/2024/3635.html)
 
-- <strong>M. Liu</strong>, H. Li, H. Qu, and Q. Tian*. Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning. <strong>Singapore AI Health Summit</strong>, 2023. (Poster Competition 3rd Place Winner, Top 3%) [[Paper]](https://hal.science/hal-04961169/)
+- <strong>M. Liu</strong>, H. Li, Y. Liao, H. Qu, and Q. Tian*. Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning. <strong>Singapore AI Health Summit</strong>, 2023. (Poster Competition 3rd Place Winner, Top 3%) [[Paper]](https://hal.science/hal-04961169/)
 
 </div>
 
