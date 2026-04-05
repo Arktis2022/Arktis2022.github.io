@@ -5,7 +5,6 @@
 - [**Yunkang Cao**](https://caoyunkang.github.io/) - School of Artificial Intelligence and Robotics, Hunan University
 - [**Yiming Huang**](https://yiyihum.github.io/) - University of California San Diego
 - [**Siwei Li**](https://hplqaq.github.io/) - Department of Electronic Engineering, Tsinghua University
-- [**Jixuan He**](https://kakituken.github.io/home/) - Cornell University
 - [**Yifei Chen**](https://justlfc03.github.io/) - School of Biomedical Engineering, Tsinghua University
 - [**Yingqi Hao**](https://yingqihao2022.github.io/) - School of Biomedical Engineering, Tsinghua University
 - [**Jialan Zheng**](https://zjl21.github.io/) - School of Biomedical Engineering, Tsinghua University
