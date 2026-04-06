@@ -24,7 +24,7 @@
 - *2024.05.10*, Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](https://ibb.co/21yhPmJJ)
 - *2024.05.08*, Attended the OCSMRM 2024 as one of the organizers, held in Singapore. [Photo](https://ibb.co/Y7tF77JM)
 - *2024.05.07*, Attended the ISMRM 2024, held in Singapore. [Photo A](https://ibb.co/1Gv9GvR4) [Photo B](https://ibb.co/bgyTqXw1)
-- *2023.04.17*, Attended the ICASSP 2024, held in Seoul. [Photo](https://ibb.co/1fj4nJ2N)
+- *2024.04.17*, Attended the ICASSP 2024, held in Seoul. [Photo](https://ibb.co/1fj4nJ2N)
 - *2023.11.24*, Won the top3 Prize in AI Health Summit 2023 Poster Competition. [Photo](https://ibb.co/ZzzpLRQ0) (First row: Competition judges; Left one: Editor-in-chief of The Lancet Digital Health; Left two: Prof Catherine R Lucey; Left three: Editor-in-chief of Nature Medicine; Left four: Editor-in-chief of Nature Biomedical Engineering) [Photo](https://ibb.co/v4mVKHHy) (Rupa Sarkar was reading my poster) [Photo](https://ibb.co/7JVPps5q) (3rd Place Winner)
 - *2023.11.24*, Top 5 poster competition in AI health summit 2023. [Photo](https://ibb.co/pjZpZxVv)
 - *2023.11.22*, BIRTHLab members visited Nanyang Technological University. [Photo](https://ibb.co/J97RwJW)
