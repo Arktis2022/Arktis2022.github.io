@@ -505,6 +505,8 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 </div>
 
+<div style="display: none;">
+   
 <h4 style="margin-top: 50px;">Manuscripts Under Review</h4>
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
@@ -563,4 +565,6 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - A. Wang#, Z. Li#, L. Zhang, X. Zhang, Y. Wang, X. Yang, **M. Liu**, X. Wang, H. Liao, and G. Ning*. GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-Layer Fusion Network for Abdominal Ultrasound Standard Plane Classification. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
   
+</div>
+
 </div>
