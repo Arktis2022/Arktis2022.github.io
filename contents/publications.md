@@ -6,6 +6,8 @@
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>. (Major Revision)
+
 - <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841526000630) [[Code]](https://github.com/birthlab/OR-KAN)
 <a href="javascript:void(0)" 
    onclick="var x=document.getElementById('bib_mia2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
