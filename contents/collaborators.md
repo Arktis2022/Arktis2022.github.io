@@ -16,3 +16,4 @@
 - [**Wenjing Yu**](https://wenjing-gg.github.io/) - 3DV Lab, Hangzhou Dianzi University
 - [**Xiaotian Hu**](https://hu2274898.github.io/) - School of Biological Science and Medical Engineering, Beihang University.
 - [**Shenghao Zhu**](https://quanato607.github.io/) - School of Computer Science, Hangzhou Dianzi University
+- [**Yitong Zhang**](https://zhangyitong2021.github.io/) - National University of Singapore
