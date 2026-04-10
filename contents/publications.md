@@ -8,6 +8,14 @@
 
 - Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>. (Major Revision)
 
+- Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, <strong>M. Liu</strong>, S. Xin, L. Liu, H. Liao*, and G. Ning*. Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
+
+- M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, <strong>M. Liu</strong>, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian*. SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data. <strong>Imaging Neuroscience (IMAG)</strong>. (Major Revision)
+
+- Y. Chen#, J. Zheng#, Y. Wang#, B. Wu, L. Li, <strong>M. Liu</strong>, L. Xu, Y. Wu, C. Liu, L. Guo, H. Yang, X. Bai, F. Qin, Q. Liao, Y. Gu, G. Zhao, L. Ma, K. Pan, J. Guo, Y. Zhou, H. Sun*, and Q. Tian*. A Chinese vision-language large model for emergency 3D brain CT interpretation. <strong>npj Digital Medicine (NPJ DM)</strong>. (Major Revision)
+
+- Y. Chen#, Z. Li#, Y. Wang, Y. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, T. Cukur, Z. Li, and Q. Tian*. MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network. <strong>NeuroImage (NIMG)</strong>. (Major Revision)
+
 - <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841526000630) [[Code]](https://github.com/birthlab/OR-KAN)
 <a href="javascript:void(0)" 
    onclick="var x=document.getElementById('bib_mia2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
@@ -524,18 +532,10 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 - J. Zong#, Y. Chen#, <strong>M. Liu#</strong>, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin*. MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation. <strong>Pattern Recognition (PR)</strong>. (Under Review)
   
 - H. Yang#, Y. Liao#, <strong>M. Liu</strong>, J. Zhu, H. Li, F. Jia, Z. Li, M. Zhang, J. Zheng, Z. Wang, J. Zhang, Y. Chen, Y. Li, L. Luo, J. Liu, H. Lai, X. Zhou, M. Kang, Y. Song, G. Ning, Z. Li, X. Zhang, H. Qu*, and Q. Tian*. 3D fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution. <strong>Nature Biomedical Engineering (NBME)</strong>. (Under Review)
-  
-- Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, <strong>M. Liu</strong>, S. Xin, L. Liu, H. Liao*, and G. Ning*. Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
-
-- M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, <strong>M. Liu</strong>, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian*. SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data. <strong>Imaging Neuroscience (IMAG)</strong>. (Major Revision)
-
-- Y. Chen#, J. Zheng#, Y. Wang#, B. Wu, L. Li, <strong>M. Liu</strong>, L. Xu, Y. Wu, C. Liu, L. Guo, H. Yang, X. Bai, F. Qin, Q. Liao, Y. Gu, G. Zhao, L. Ma, K. Pan, J. Guo, Y. Zhou, H. Sun*, and Q. Tian*. A Chinese vision-language large model for emergency 3D brain CT interpretation. <strong>npj Digital Medicine (NPJ DM)</strong>. (Major Revision)
 
 - C. Wu#, Y. Chen#, Y. Du, <strong>M. Liu</strong>, J. Zong, B. Wu, J. Dong, F. Qin*, Y. Cao, and Q. Tian*. AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI. <strong>Information Fusion (IF)</strong>. (Under Review)
 
 - W. Yu#, S. Jiang#, Y. Chen#, S. Chang, Y. Wang, B. Wu, J. Dong, <strong>M. Liu</strong>, S. Zhu, F. Qin*, C. Wang, and Q. Tian*. A Large Scale Benchmark for Test Time Adaptation in Medical Image Segmentation. <strong>Pattern Recognition (PR)</strong>. (Under Review)
-
-- Y. Chen#, Z. Li#, Y. Wang, Y. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, T. Cukur, Z. Li, and Q. Tian*. MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network. <strong>NeuroImage (NIMG)</strong>. (Major Revision)
 
 - Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, B. Wu, J. Zong, F. Qin, C. Wang, and Q. Tian*. SmaRT: Style-Modulated Robust Test-Time Adaptation for Cross-Domain Brain Tumor Segmentation in MRI. <strong>Journal of Biomedical and Health Informatics (JBHI)</strong>. (Under Review)
 
