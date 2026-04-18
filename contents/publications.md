@@ -431,6 +431,14 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- **M. Liu**, Y. Hao, H. Li, H. Yang, H. Qu, and Q. Tian. Annotation-Free Deep Learning for Automated Detection and Segmentation of Fetal Germinal Matrix-Intraventricular Hemorrhage in Brain MRI. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral)
+
+- X. Bai, **M. Liu**, M. Zhang, H. Yang, Z. Wang, Y. Luo, Y. Zhou, X. Han, and Q. Tian. Preoperative CTA-based Deep Learning Model for Predicting AKI After TEVAR in Type B Aortic Dissection. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral)
+
+- Y. Li, **M. Liu**, H. Yang, and Q. Tian. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral)
+
+- H. Yang, **M. Liu**, Y. Hao, Y. Liao, H. Qu, and Q. Tian. Simple Baselines for Fetal Brain Unsupervised Anomaly Detection. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral)
+
 - Y. Zhang, Y. Xiang, and **M. Liu**. The Mask of Civility: Benchmarking Chinese Mock Politeness Comprehension in Large Language Models. **GloDAL International Conference in Applied Language Sciences (ALS)**, 2026. (Oral)
 
 - <strong>M. Liu</strong>, H. Li, H. Yang, Y. Liao, J. Zhu, J. Zheng, Y. Hao, Z. Li, Z. Li, Z. Wang, Y. Li, J. Huang, G. Ning, H. Qu, and Q. Tian*. Cortical Brain in Utero Growth Among Fetuses with Germinal Matrix and Intraventricular Hemorrhage (GMH-IVH). <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
