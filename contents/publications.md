@@ -439,6 +439,8 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - H. Yang, **M. Liu**, Y. Hao, Y. Liao, H. Qu, and Q. Tian. Simple Baselines for Fetal Brain Unsupervised Anomaly Detection. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral)
 
+- X. Hu, **M. Liu**, H. Yang, Q. Tian. INFANiTE: Implicit Neural Representation for High-resolution Fetal Brain Spatio-temporal Atlas Learning from Clinical Thick-slice MRI. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Poster)
+
 - Y. Zhang, Y. Xiang, and **M. Liu**. The Mask of Civility: Benchmarking Chinese Mock Politeness Comprehension in Large Language Models. **GloDAL International Conference in Applied Language Sciences (ALS)**, 2026. (Oral)
 
 - <strong>M. Liu</strong>, H. Li, H. Yang, Y. Liao, J. Zhu, J. Zheng, Y. Hao, Z. Li, Z. Li, Z. Wang, Y. Li, J. Huang, G. Ning, H. Qu, and Q. Tian*. Cortical Brain in Utero Growth Among Fetuses with Germinal Matrix and Intraventricular Hemorrhage (GMH-IVH). <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
