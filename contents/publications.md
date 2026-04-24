@@ -1,7 +1,7 @@
 #### JOURNAL PAPERS
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
-   
+
 - J. Zong#, Y. Chen#, <strong>M. Liu#</strong>, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin*. MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation. <strong>Pattern Recognition (PR)</strong>. (Major Revision)
 
 - Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>. (Major Revision)
@@ -115,72 +115,6 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
     eprint = {https://direct.mit.edu/imag/article-pdf/doi/10.1162/IMAG.a.1089/2571321/imag.a.1089.pdf},
 }
 </div>
-
-- <strong>M. Liu#</strong>, J. Tang#, C. Yong, H. Li, J. Qi, S. Li, K. Wang, J. Gan, Y. Wang*, and H. Chen*. Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer. <strong>Neural Networks (NN)</strong>, 2025. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025000073) [[Code]](https://github.com/Arktis2022/Spiking-PhysFormer)
-<a href="javascript:void(0)" 
-   onclick="var x=document.getElementById('bib_nn2025'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
-   style="text-decoration: underline; color: #3333ff;">
-   [BibTeX]
-</a>
-
-<!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
-<div id="bib_nn2025" 
-     style="display: none; 
-            background: #f6f8fa; 
-            padding: 10px; 
-            margin: 5px 0; 
-            border-radius: 5px; 
-            font-family: monospace; 
-            font-size: 0.85em; 
-            white-space: pre-wrap; 
-            border: 1px solid #ddd;
-            color: #333;
-            text-align: left;">
-@article{LIU2025107128,
-title = {Spiking-PhysFormer: Camera-based remote photoplethysmography with parallel spike-driven transformer},
-journal = {Neural Networks},
-volume = {185},
-pages = {107128},
-year = {2025},
-issn = {0893-6080},
-doi = {https://doi.org/10.1016/j.neunet.2025.107128},
-url = {https://www.sciencedirect.com/science/article/pii/S0893608025000073},
-author = {Mingxuan Liu and Jiankai Tang and Yongli Chen and Haoxiang Li and Jiahao Qi and Siwei Li and Kegang Wang and Jie Gan and Yuntao Wang and Hong Chen},
-keywords = {Brain-inspired neural networks, Remote photoplethysmography, Biomedical signal, Transformer}
-}
-</div>
-
-- <strong>M. Liu</strong>, Y. Jiao, J. Lu, and H. Chen*. Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency. <strong>IEEE Transactions on Instrumentation and Measurement (IEEE TIM)</strong>, 2024. [[Paper]](https://doi.org/10.1109/TIM.2024.3406792) [[Code]](https://github.com/Arktis2022/Skip-TS)
-<a href="javascript:void(0)" 
-   onclick="var x=document.getElementById('bib_tim2024'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
-   style="text-decoration: underline; color: #3333ff;">
-   [BibTeX]
-</a>
-
-   <!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
-   <div id="bib_tim2024" 
-        style="display: none; 
-               background: #f6f8fa; 
-               padding: 10px; 
-               margin: 5px 0; 
-               border-radius: 5px; 
-               font-family: monospace; 
-               font-size: 0.85em; 
-               white-space: pre-wrap; 
-               border: 1px solid #ddd;
-               color: #333;
-               text-align: left;">
-   @ARTICLE{10540605,
-     author={Liu, Mingxuan and Jiao, Yunrui and Lu, Jingqiao and Chen, Hong},
-     journal={IEEE Transactions on Instrumentation and Measurement}, 
-     title={Anomaly Detection for Medical Images Using Teacher–Student Model With Skip Connections and Multiscale Anomaly Consistency}, 
-     year={2024},
-     volume={73},
-     number={},
-     pages={1-15},
-     keywords={Feature extraction;Anomaly detection;Training;Image reconstruction;Data models;Medical diagnostic imaging;Location awareness;Anomaly detection (AD);deep learning;knowledge distillation (KD);medical image analysis;teacher-student (T-S) model},
-     doi={10.1109/TIM.2024.3406792}}
-   </div>
 
 </div>
 
