@@ -1,7 +1,3 @@
-<img width="432" height="52" alt="image" src="https://github.com/user-attachments/assets/6d36b759-413b-487b-860b-4bfb03ef633f" /><span style="color:#b02418; font-weight:bold;">#</span> co-first author &emsp;
-<span style="color:#b02418; font-weight:bold;">*</span> corresponding author
-</p>
-
 #### JOURNAL PAPERS
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
