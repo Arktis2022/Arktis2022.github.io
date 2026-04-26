@@ -116,38 +116,6 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 }
 </div>
 
-- <strong>M. Liu</strong>, Y. Jiao, J. Lu, and H. Chen*. Anomaly Detection for Medical Images Using Teacher–Student Model With Skip Connections and Multiscale Anomaly Consistency. <strong>IEEE Transactions on Instrumentation and Measurement (TIM)</strong>, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10540605) [[Code]](https://github.com/Arktis2022/Skip-TS)
-<a href="javascript:void(0)" 
-   onclick="var x=document.getElementById('bib_tim2024'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
-   style="text-decoration: underline; color: #3333ff;">
-   [BibTeX]
-</a>
-
-<div id="bib_tim2024" 
-     style="display: none; 
-            background: #f6f8fa; 
-            padding: 10px; 
-            margin: 5px 0; 
-            border-radius: 5px; 
-            font-family: monospace; 
-            font-size: 0.85em; 
-            white-space: pre-wrap; 
-            border: 1px solid #ddd;
-            color: #333;
-            text-align: left;">
-@article{10540605,
-  author = {Liu, Mingxuan and Jiao, Yunrui and Lu, Jingqiao and Chen, Hong},
-  journal = {IEEE Transactions on Instrumentation and Measurement},
-  title = {Anomaly Detection for Medical Images Using Teacher–Student Model With Skip Connections and Multiscale Anomaly Consistency},
-  year = {2024},
-  volume = {73},
-  number = {},
-  pages = {1-15},
-  keywords = {Feature extraction; Anomaly detection; Training; Image reconstruction; Data models; Medical diagnostic imaging; Location awareness; Anomaly detection (AD); deep learning; knowledge distillation (KD); medical image analysis; teacher-student (T-S) model},
-  doi = {10.1109/TIM.2024.3406792}
-}
-</div>
-
 - <strong>M. Liu</strong>, J. Tang, Y. Chen, H. Li, J. Qi, S. Li, K. Wang, J. Gan, Y. Wang, and H. Chen*. Spiking-PhysFormer: Camera-based remote photoplethysmography with parallel spike-driven transformer. <strong>Neural Networks (NN)</strong>, 2025. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025000073) [[Code]](https://github.com/Arktis2022/Spiking-PhysFormer)
 <a href="javascript:void(0)" 
    onclick="var x=document.getElementById('bib_nn2025'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
@@ -178,6 +146,38 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
   url = {https://www.sciencedirect.com/science/article/pii/S0893608025000073},
   author = {Mingxuan Liu and Jiankai Tang and Yongli Chen and Haoxiang Li and Jiahao Qi and Siwei Li and Kegang Wang and Jie Gan and Yuntao Wang and Hong Chen},
   keywords = {Brain-inspired neural networks, Remote photoplethysmography, Biomedical signal, Transformer}
+}
+</div>
+
+- <strong>M. Liu</strong>, Y. Jiao, J. Lu, and H. Chen*. Anomaly Detection for Medical Images Using Teacher–Student Model With Skip Connections and Multiscale Anomaly Consistency. <strong>IEEE Transactions on Instrumentation and Measurement (TIM)</strong>, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10540605) [[Code]](https://github.com/Arktis2022/Skip-TS)
+<a href="javascript:void(0)" 
+   onclick="var x=document.getElementById('bib_tim2024'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   style="text-decoration: underline; color: #3333ff;">
+   [BibTeX]
+</a>
+
+<div id="bib_tim2024" 
+     style="display: none; 
+            background: #f6f8fa; 
+            padding: 10px; 
+            margin: 5px 0; 
+            border-radius: 5px; 
+            font-family: monospace; 
+            font-size: 0.85em; 
+            white-space: pre-wrap; 
+            border: 1px solid #ddd;
+            color: #333;
+            text-align: left;">
+@article{10540605,
+  author = {Liu, Mingxuan and Jiao, Yunrui and Lu, Jingqiao and Chen, Hong},
+  journal = {IEEE Transactions on Instrumentation and Measurement},
+  title = {Anomaly Detection for Medical Images Using Teacher–Student Model With Skip Connections and Multiscale Anomaly Consistency},
+  year = {2024},
+  volume = {73},
+  number = {},
+  pages = {1-15},
+  keywords = {Feature extraction; Anomaly detection; Training; Image reconstruction; Data models; Medical diagnostic imaging; Location awareness; Anomaly detection (AD); deep learning; knowledge distillation (KD); medical image analysis; teacher-student (T-S) model},
+  doi = {10.1109/TIM.2024.3406792}
 }
 </div>
 
