@@ -116,7 +116,7 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 }
 </div>
 
-- <strong>M. Liu</strong>, Y. Jiao, J. Lu, and H. Chen*. Anomaly Detection for Medical Images Using Teacher–Student Model With Skip Connections and Multiscale Anomaly Consistency. <strong>IEEE Transactions on Instrumentation and Measurement (TIM)</strong>, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10540605)
+- <strong>M. Liu</strong>, Y. Jiao, J. Lu, and H. Chen*. Anomaly Detection for Medical Images Using Teacher–Student Model With Skip Connections and Multiscale Anomaly Consistency. <strong>IEEE Transactions on Instrumentation and Measurement (TIM)</strong>, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10540605) [[Code]](https://github.com/Arktis2022/Skip-TS)
 <a href="javascript:void(0)" 
    onclick="var x=document.getElementById('bib_tim2024'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
    style="text-decoration: underline; color: #3333ff;">
@@ -148,7 +148,7 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 }
 </div>
 
-- <strong>M. Liu</strong>, J. Tang, Y. Chen, H. Li, J. Qi, S. Li, K. Wang, J. Gan, Y. Wang, and H. Chen*. Spiking-PhysFormer: Camera-based remote photoplethysmography with parallel spike-driven transformer. <strong>Neural Networks (NN)</strong>, 2025. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025000073)
+- <strong>M. Liu</strong>, J. Tang, Y. Chen, H. Li, J. Qi, S. Li, K. Wang, J. Gan, Y. Wang, and H. Chen*. Spiking-PhysFormer: Camera-based remote photoplethysmography with parallel spike-driven transformer. <strong>Neural Networks (NN)</strong>, 2025. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025000073) [[Code]](https://github.com/Arktis2022/Spiking-PhysFormer)
 <a href="javascript:void(0)" 
    onclick="var x=document.getElementById('bib_nn2025'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
    style="text-decoration: underline; color: #3333ff;">
