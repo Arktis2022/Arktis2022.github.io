@@ -2,6 +2,8 @@
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- H. Yang#, Y. Liao#, <strong>M. Liu</strong>, J. Zhu, H. Li, F. Jia, Z. Li, M. Zhang, J. Zheng, Z. Wang, J. Zhang, Y. Chen, Y. Li, L. Luo, J. Liu, H. Lai, X. Zhou, M. Kang, Y. Song, G. Ning, Z. Li, X. Zhang, H. Qu*, and Q. Tian*. 3D Fetal Brain Morphometry from Single Thick-Slice MRI Stacks Using Deep Learning Super-Resolution. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
+
 - J. Zong#, Y. Chen#, <strong>M. Liu#</strong>, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin*. MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation. <strong>Pattern Recognition (PR)</strong>. (Major Revision)
 
 - Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>. (Major Revision)
