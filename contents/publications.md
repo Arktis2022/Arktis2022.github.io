@@ -189,9 +189,15 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- X. Hu#, J. Huang#, **M. Liu#**, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*. FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Early Accept, Top 9%) [[Paper]](https://arxiv.org/abs/2603.09733) [[Code]](https://github.com/huang-jw22/FetalAgents)
+
+- Y. Wang#, Y. Chen#, B. Wu, **M. Liu**, X. Hu, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*. R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Early Accept, Top 9%)
+
+- S. Jiang, Y. Hong, C. Jiang, W. Chen, H. Chen, S. Zhu, B. Wu, **M. Liu**, Z. Zhu, F. Qin*, M. Tan, and Y. Chen*. GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Early Accept, Top 9%)
+
 - Z. Gao#, C. Zhang#, <strong>M. Liu</strong>, Y. Chen, X. Hu, and Q. Tian*. View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis. <strong>IEEE International Symposium on Biomedical Imaging (ISBI)</strong>, 2026. (Challenge Paper)
 
-- G. Zhou#, Y. Chen#, G. Ying, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, Q. Tian*, and J. Lu*. WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11356448) [[code]](https://github.com/Guanyu-Zhou/WARPNet)
+- G. Zhou#, Y. Chen#, G. Ying, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, Q. Tian*, and J. Lu*. WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11356448) [[Code]](https://github.com/Guanyu-Zhou/WARPNet)
 <a href="javascript:void(0)" onclick="var x=document.getElementById('bib_warpnet'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
 <div id="bib_warpnet" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
 @INPROCEEDINGS{11356448,
@@ -206,7 +212,7 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
   doi={10.1109/BIBM66473.2025.11356448}}
 </div>
 
-- Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, S. Zhu, F. Qin, and C. Wang*. DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11356381) [[code]](https://github.com/baiyou1234/DR-TTA)
+- Y. Wang#, Y. Chen#, S. Jiang, W. Yu, <strong>M. Liu</strong>, S. Zhu, F. Qin, and C. Wang*. DR-TTA: Dynamic and Robust Test-Time Adaptation Under Low-Quality MRI Conditions for Brain Tumor Segmentation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11356381) [[Code]](https://github.com/baiyou1234/DR-TTA)
 <a href="javascript:void(0)" onclick="var x=document.getElementById('bib_drtta'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
 <div id="bib_drtta" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
 @INPROCEEDINGS{11356381,
@@ -556,8 +562,6 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - H. Li#, **M. Liu#**, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni*. XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks. **European Conference on Computer Vision (ECCV)**. (Under Review)
 
-- X. Hu#, J. Huang#, **M. Liu#**, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*. FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
-
 - X. Zhang#, **M. Liu#**, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian*. ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
 
 - X. Hu#, **M. Liu#**, H. Yang#, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*. INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
@@ -571,10 +575,6 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 - H. Yang#, **M. Liu#**, Y. Hao#, X. Hu, Y. Li, J. Zhu, J. Liu, X. Bai, Y. Chen, J. Huang, Z. Li, Y. Liao, Z. Li, H. Qu, and Q. Tian*. Simple Baselines for Fetal Brain Unsupervised Anomaly Detection. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
 
 - E. Bao#, Y. Chen#, S. Tang, B. Wu, G. Zhou, **M. Liu**, K. Anmahapong, Z. Wang, F. Qin*, L. Xiang, J. He, and Q. Tian*. Residual-Offset Diffusion for Structure-Consistent Low-Dose PET Reconstruction. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
-
-- Y. Wang#, Y. Chen#, B. Wu, **M. Liu**, X. Hu, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*. R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
-
-- S. Jiang, Y. Hong, C. Jiang, W. Chen, H. Chen, S. Zhu, B. Wu, **M. Liu**, Z. Zhu, F. Qin*, M. Tan, and Y. Chen*. GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
 
 - A. Wang#, Z. Li#, L. Zhang, X. Zhang, Y. Wang, X. Yang, **M. Liu**, X. Wang, H. Liao, and G. Ning*. GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-Layer Fusion Network for Abdominal Ultrasound Standard Plane Classification. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
   
