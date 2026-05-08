@@ -1,4 +1,6 @@
-<div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+<img width="622" height="172" alt="image" src="https://github.com/user-attachments/assets/8a3142f8-6eb4-4d9e-8e5d-ecc64a2e9be6" /><div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+
+**2026.04.18:** 🎉🎉 Three papers early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
 
 **2026.04.18:** 🎉🎉 Four abstracts accepted by [BME 2026](https://bme2026.sciconf.cn/) as Oral Presentations.
 
