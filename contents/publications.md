@@ -195,7 +195,36 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 - S. Jiang, Y. Hong, C. Jiang, W. Chen, H. Chen, S. Zhu, B. Wu, **M. Liu**, Z. Zhu, F. Qin*, M. Tan, and Y. Chen*. GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Early Accept, Top 9%)
 
-- Z. Gao#, C. Zhang#, <strong>M. Liu</strong>, Y. Chen, X. Hu, and Q. Tian*. View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis. <strong>IEEE International Symposium on Biomedical Imaging (ISBI)</strong>, 2026. (Challenge Paper)
+- Z. Gao#, C. Zhang#, <strong>M. Liu</strong>, Y. Chen, X. Hu, and Q. Tian*. View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis. <strong>IEEE International Symposium on Biomedical Imaging (ISBI)</strong>, 2026. (Challenge Paper) [[Paper]](https://doi.org/10.1109/ISBI61048.2026.11516031)
+<a href="javascript:void(0)" 
+   onclick="var x=document.getElementById('bib_isbi2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   style="text-decoration: underline; color: #3333ff;">
+   [BibTeX]
+</a>
+
+<!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
+<div id="bib_isbi2026" 
+     style="display: none; 
+            background: #f6f8fa; 
+            padding: 10px; 
+            margin: 5px 0; 
+            border-radius: 5px; 
+            font-family: monospace; 
+            font-size: 0.85em; 
+            white-space: pre-wrap; 
+            border: 1px solid #ddd;
+            color: #333;
+            text-align: left;">
+@INPROCEEDINGS{11516031,
+    author = {Gao, Zhanpei and Zhang, Chenyu and Liu, Mingxuan and Chen, Yifei and Hu, Xiaotian and Tian, Qiyuan},
+    booktitle = {2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)},
+    title = {View-Conditioned Semi-Supervised Learning for Fetal Cardiac Ultrasound Analysis},
+    year = {2026},
+    pages = {1-5},
+    keywords = {Labeling;Medical diagnosis;Anatomy;Optimization;Modeling;Printing;Ultrasonic imaging;Dies;Training;Biomedical imaging},
+    doi = {10.1109/ISBI61048.2026.11516031}
+}
+</div>
 
 - G. Zhou#, Y. Chen#, G. Ying, <strong>M. Liu</strong>, X. Bai, J. Zheng, B. Cui, Q. Tian*, and J. Lu*. WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation. <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</strong>, 2025. (Oral) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11356448) [[Code]](https://github.com/Guanyu-Zhou/WARPNet)
 <a href="javascript:void(0)" onclick="var x=document.getElementById('bib_warpnet'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
