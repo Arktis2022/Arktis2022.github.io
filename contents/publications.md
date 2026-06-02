@@ -12,9 +12,9 @@
 
 - Y. Chen#, J. Zheng#, Y. Wang#, B. Wu, L. Li, <strong>M. Liu</strong>, L. Xu, Y. Wu, C. Liu, L. Guo, H. Yang, X. Bai, F. Qin, Q. Liao, Y. Gu, G. Zhao, L. Ma, K. Pan, J. Guo, Y. Zhou, H. Sun*, and Q. Tian*. A Chinese vision-language large model for emergency 3D brain CT interpretation. <strong>npj Digital Medicine (NPJ DM)</strong>. (Major Revision)
 
-- Y. Chen#, Z. Li#, Y. Wang, Y. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, T. Cukur, Z. Li, and Q. Tian*. MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network. <strong>NeuroImage (NIMG)</strong>. (Major Revision)
-
 - J. Zong#, Y. Chen#, <strong>M. Liu#</strong>, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin*. MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation. <strong>Pattern Recognition (PR)</strong>. (Accept)
+
+- Y. Chen#, Z. Li#, Y. Wang, Y. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, T. Cukur, Z. Li, and Q. Tian*. MicroKAN: mapping human brain microstructure using diffusion MRI and convolutional Kolmogorov-Arnold Network. <strong>NeuroImage (NIMG)</strong>. (Accept)
 
 - <strong>M. Liu#</strong>, Y. Liao#, H. Li, J. Zhu, H. Yang, Y. Hao, H. Qu*, and Q. Tian*. Quality-label-free Fetal Brain MRI Quality Control Based on Image Orientation Recognition Uncertainty. <strong>Medical Image Analysis (MIA)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841526000630) [[Code]](https://github.com/birthlab/OR-KAN)
 <a href="javascript:void(0)" 
