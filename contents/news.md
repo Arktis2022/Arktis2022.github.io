@@ -1,5 +1,7 @@
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+**2026.06.02:** 🎉🎉 One paper accepted by [NeuroImage](sciencedirect.com/journal/neuroimage).
+
 **2026.05.31:** 🎉🎉 One paper accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 
 **2026.05.08:** 🎉🎉 Three papers early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
