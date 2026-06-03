@@ -1,4 +1,4 @@
-- [[Certificate]](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing) *2026* **Excellent Paper Competition Second Prize** <br /> &nbsp; &nbsp; &nbsp; *CHINA BIOMEDICAL ENGINEERING CONFERENCE & MEDICAL INNOVATION SUMMIT*
+- [[Certificate]](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing) *2026* **Excellent Paper Competition Second Prize** <br /> &nbsp; &nbsp; &nbsp; *China Biomedical Engineering Conference & Medical Innovation Summit*
 - [[Certificate]](https://ibb.co/q37WpDdg) *2026* **ISMRM Educational Stipend Award**
 - [[Certificate]](https://ibb.co/C533cPj3) *2026* **ISMRM Workshop Trainee Stipend Award**<br /> &nbsp; &nbsp; &nbsp; *ISMRM Workshop on Unlocking the Potential of Prenatal MRI, Washington, DC, USA*
 - [[Certificate]](https://ibb.co/5X5pHHb9) *2026* **2nd Place in the Oral Session of AI for Image Reconstruction and Analysis**<br /> &nbsp; &nbsp; &nbsp; *Annual Retreat of the Center for Biomedical Imaging Research (CBIR), Tsinghua University*
