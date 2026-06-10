@@ -4,7 +4,38 @@
 
 - Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>. (Accept)
 
-- J. Zong#, Y. Chen#, <strong>M. Liu#</strong>, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin*. MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation. <strong>Pattern Recognition (PR)</strong>. (Accept)
+- J. Zong#, Y. Chen#, <strong>M. Liu#</strong>, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin*. MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation. <strong>Pattern Recognition (PR)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320326011088) [[Code]](https://github.com/JustlfC03/MUIT-TTA)
+<a href="javascript:void(0)" 
+   onclick="var x=document.getElementById('bib_pr2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   style="text-decoration: underline; color: #3333ff;">
+   [BibTeX]
+</a>
+
+<!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
+<div id="bib_pr2026" 
+     style="display: none; 
+            background: #f6f8fa; 
+            padding: 10px; 
+            margin: 5px 0; 
+            border-radius: 5px; 
+            font-family: monospace; 
+            font-size: 0.85em; 
+            white-space: pre-wrap; 
+            border: 1px solid #ddd;
+            color: #333;
+            text-align: left;">
+@article{ZONG2026114143,
+title = {MUIT-TTA: Annotation-free intracranial hemorrhage segmentation via pseudo-anomaly synthesis and test-time adaptation},
+journal = {Pattern Recognition},
+pages = {114143},
+year = {2026},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2026.114143},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320326011088},
+author = {Jinying Zong and Yifei Chen and Mingxuan Liu and Yuxin Du and Changwei Wu and Beining Wu and Guanyu Zhou and Feiwei Qin},
+keywords = {Intracranial hemorrhage, Anomaly detection, Annotation-free learning, Pseudo-lesion synthesis, Test-time adaptation}
+}
+</div>
 
 - Y. Chen#, Z. Li#, Y. Wang, Y. Li, J. Zheng, H. Yang, <strong>M. Liu</strong>, T. Cukur, Q. Fan, Z. Li, J. Lu, and Q. Tian*. MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling. <strong>NeuroImage (NIMG)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1053811926003472) [[Code]](https://github.com/JustlfC03/MicroKAN)
 <a href="javascript:void(0)" 
