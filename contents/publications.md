@@ -239,11 +239,7 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 - H. Yang#, Y. Liao#, <strong>M. Liu</strong>, J. Zhu, H. Li, F. Jia, Z. Li, M. Zhang, J. Zheng, Z. Wang, J. Zhang, Y. Chen, Y. Li, L. Luo, J. Liu, H. Lai, X. Zhou, M. Kang, Y. Song, G. Ning, Z. Li, X. Zhang, H. Qu*, and Q. Tian*. 3D Fetal Brain Morphometry from Single Thick-Slice MRI Stacks Using Deep Learning Super-Resolution. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
 
-- Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, <strong>M. Liu</strong>, S. Xin, L. Liu, H. Liao*, and G. Ning*. Democratizing expert-level liver sonography through an autonomous lightweight ultrasound robot. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
-
 - M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, <strong>M. Liu</strong>, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian*. SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data. <strong>Imaging Neuroscience (IMAG)</strong>. (Major Revision)
-
-- Y. Chen#, J. Zheng#, Y. Wang#, B. Wu, L. Li, <strong>M. Liu</strong>, L. Xu, Y. Wu, C. Liu, L. Guo, H. Yang, X. Bai, F. Qin, Q. Liao, Y. Gu, G. Zhao, L. Ma, K. Pan, J. Guo, Y. Zhou, H. Sun*, and Q. Tian*. A Chinese vision-language large model for emergency 3D brain CT interpretation. <strong>npj Digital Medicine (NPJ DM)</strong>. (Major Revision)
 
 </div>
 
@@ -251,7 +247,11 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- X. Zhang#, **M. Liu#**, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian*. ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**.
+
 - X. Hu#, J. Huang#, **M. Liu#**, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*. FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Early Accept, Top 9%) [[Paper]](https://arxiv.org/abs/2603.09733) [[Code]](https://github.com/birthlab/FetalAgents/stargazers)
+
+- A. Wang#, Z. Li#, L. Zhang, X. Zhang, Y. Wang, X. Yang, **M. Liu**, X. Wang, H. Liao, and G. Ning*. GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-Layer Fusion Network for Abdominal Ultrasound Standard Plane Classification. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**.
 
 - Y. Wang#, Y. Chen#, B. Wu, **M. Liu**, X. Hu, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*. R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Early Accept, Top 9%)
 
@@ -653,8 +653,6 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 
 - H. Li#, **M. Liu#**, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni*. XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks. **European Conference on Computer Vision (ECCV)**. (Under Review)
 
-- X. Zhang#, **M. Liu#**, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian*. ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
-
 - X. Hu#, **M. Liu#**, H. Yang#, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*. INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
 
 - Y. Li#, **M. Liu#**, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
@@ -666,8 +664,6 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 - H. Yang#, **M. Liu#**, Y. Hao#, X. Hu, Y. Li, J. Zhu, J. Liu, X. Bai, Y. Chen, J. Huang, Z. Li, Y. Liao, Z. Li, H. Qu, and Q. Tian*. Simple Baselines for Fetal Brain Unsupervised Anomaly Detection. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
 
 - E. Bao#, Y. Chen#, S. Tang, B. Wu, G. Zhou, **M. Liu**, K. Anmahapong, Z. Wang, F. Qin*, L. Xiang, J. He, and Q. Tian*. Residual-Offset Diffusion for Structure-Consistent Low-Dose PET Reconstruction. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
-
-- A. Wang#, Z. Li#, L. Zhang, X. Zhang, Y. Wang, X. Yang, **M. Liu**, X. Wang, H. Liao, and G. Ning*. GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-Layer Fusion Network for Abdominal Ultrasound Standard Plane Classification. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
   
 </div>
 
