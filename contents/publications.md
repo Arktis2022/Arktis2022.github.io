@@ -251,11 +251,11 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 - X. Hu#, J. Huang#, **M. Liu#**, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*. FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Early Accept, Top 9%) [[Paper]](https://arxiv.org/abs/2603.09733) [[Code]](https://github.com/birthlab/FetalAgents/stargazers)
 
-- A. Wang#, Z. Li#, L. Zhang, X. Zhang, Y. Wang, X. Yang, **M. Liu**, X. Wang, H. Liao, and G. Ning*. GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-Layer Fusion Network for Abdominal Ultrasound Standard Plane Classification. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**.
-
 - Y. Wang#, Y. Chen#, B. Wu, **M. Liu**, X. Hu, C. Jiang, Y. Li, C. Wang, F. Qin*, and Q. Tian*. R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Early Accept, Top 9%)
 
 - S. Jiang, Y. Hong, C. Jiang, W. Chen, H. Chen, S. Zhu, B. Wu, **M. Liu**, Z. Zhu, F. Qin*, M. Tan, and Y. Chen*. GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Early Accept, Top 9%)
+
+- A. Wang#, Z. Li#, L. Zhang, X. Zhang, Y. Wang, X. Yang, **M. Liu**, X. Wang, H. Liao, and G. Ning*. GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-Layer Fusion Network for Abdominal Ultrasound Standard Plane Classification. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**.
 
 - Z. Gao#, C. Zhang#, <strong>M. Liu</strong>, Y. Chen, X. Hu, and Q. Tian*. View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis. <strong>IEEE International Symposium on Biomedical Imaging (ISBI)</strong>, 2026. (Challenge Paper) [[Paper]](https://doi.org/10.1109/ISBI61048.2026.11516031)
 <a href="javascript:void(0)" 
