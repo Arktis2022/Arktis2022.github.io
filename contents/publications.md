@@ -247,7 +247,7 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-- X. Zhang#, **M. Liu#**, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian*. ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**.
+- X. Zhang#, **M. Liu#**, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian*. ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. [[Code]](https://github.com/xinfzhang/ASTAR/)
 
 - X. Hu#, J. Huang#, **M. Liu#**, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*. FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Early Accept, Top 9%) [[Paper]](https://arxiv.org/abs/2603.09733) [[Code]](https://github.com/birthlab/FetalAgents/stargazers)
 
