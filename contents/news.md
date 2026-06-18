@@ -1,6 +1,6 @@
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-**2026.06.18** 🎉🎉 One paper accepted by [ECCV 2026](https://eccv.ecva.net/)
+**2026.06.18:** 🎉🎉 One paper accepted by [ECCV 2026](https://eccv.ecva.net/)
 
 **2026.06.13:** 🎉🎉 Two papers accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
 
