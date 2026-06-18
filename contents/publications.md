@@ -2,7 +2,38 @@
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-- Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>. (Accept)
+- Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>, 2026. [[Paper]](https://doi.org/10.1162/IMAG.a.1293) [[Code]](https://github.com/birthlab/PANDA)
+<a href="javascript:void(0)" 
+   onclick="var x=document.getElementById('bib_imag2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   style="text-decoration: underline; color: #3333ff;">
+   [BibTeX]
+</a>
+
+<!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
+<div id="bib_imag2026" 
+     style="display: none; 
+            background: #f6f8fa; 
+            padding: 10px; 
+            margin: 5px 0; 
+            border-radius: 5px; 
+            font-family: monospace; 
+            font-size: 0.85em; 
+            white-space: pre-wrap; 
+            border: 1px solid #ddd;
+            color: #333;
+            text-align: left;">
+@article{10.1162/IMAG.a.1293,
+    author = {Hao, Yingqi and Liu, Mingxuan and Zhu, Juncheng and Yang, Hongjia and Li, Haoxiang and Kang, Min and Song, Yan and Lai, Hua and Zhou, Xiaoling and Ning, Gang and Liao, Yi and Qu, Haibo and Tian, Qiyuan},
+    title = {PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI},
+    journal = {Imaging Neuroscience},
+    year = {2026},
+    month = {06},
+    issn = {2837-6056},
+    doi = {10.1162/IMAG.a.1293},
+    url = {https://doi.org/10.1162/IMAG.a.1293},
+    eprint = {https://direct.mit.edu/imag/article-pdf/doi/10.1162/IMAG.a.1293/2607082/imag.a.1293.pdf},
+}
+</div>
 
 - J. Zong#, Y. Chen#, <strong>M. Liu#</strong>, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin*. MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation. <strong>Pattern Recognition (PR)</strong>, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320326011088) [[Code]](https://github.com/JustlfC03/MUIT-TTA)
 <a href="javascript:void(0)" 
