@@ -12,7 +12,7 @@
 
 **2026.05.31:** 🎉🎉 One paper accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 
-**2026.05.08:** 🎉🎉 Three papers early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
+**2026.05.08:** 🎉🎉 Two papers early accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
 
 **2026.04.18:** 🎉🎉 Four abstracts accepted by [BME 2026](https://bme2026.sciconf.cn/) as Oral Presentations.
 
