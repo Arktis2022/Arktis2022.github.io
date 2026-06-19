@@ -280,6 +280,8 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 - H. Li#, **M. Liu#**, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni*. XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks. **European Conference on Computer Vision (ECCV)**, 2026.
 
+- Y. Li#, **M. Liu#**, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. [[Code]](https://github.com/birthlab/BioTTA)
+- 
 - X. Zhang#, **M. Liu#**, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian*. ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. [[Code]](https://github.com/birthlab/ASTAR)
 
 - X. Hu#, J. Huang#, **M. Liu#**, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian*. FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. (Early Accept, Top 9%) [[Paper]](https://arxiv.org/abs/2603.09733) [[Code]](https://github.com/birthlab/FetalAgents)
@@ -685,8 +687,6 @@ url={https://openreview.net/forum?id=iLBipDelQu}
 - H. Li#, **M. Liu#**, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni*. XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks. **European Conference on Computer Vision (ECCV)**. (Under Review)
 
 - X. Hu#, **M. Liu#**, H. Yang#, J. Zhu, Y. Li, Y. Chen, H. Li, Z. Li, Y. Hao, Z. Li, Y. Zhang, G. Ning, Y. Liao, H. Qu, and Q. Tian*. INFANiTE: Implicit Neural Representation for High-Resolution Fetal Brain Spatio-Temporal Atlas Learning from Clinical Thick-Slice MRI. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
-
-- Y. Li#, **M. Liu#**, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
   
 - G. Zhou#, **M. Liu#**, Y. Du, L. Zhu, J. Zong, C. Wu, B. Wu, S. Zhu, F. Qin*, and Y. Chen*. AnatoSyn: Controllable Anatomical Anomaly Synthesis for Intracerebral Hemorrhage. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**. (Under Review)
 
