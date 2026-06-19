@@ -2,7 +2,7 @@
 
 **2026.06.18:** 🎉🎉 One paper accepted by [ECCV 2026](https://eccv.ecva.net/).
 
-**2026.06.13:** 🎉🎉 Two papers accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
+**2026.06.13:** 🎉🎉 Three papers accepted by [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
 
 **2026.06.09:** 🎉🎉 One paper accepted by [Imaging Neuroscience](https://direct.mit.edu/imag).
 
