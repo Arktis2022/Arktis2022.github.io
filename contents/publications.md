@@ -4,13 +4,13 @@
 
 - Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>, 2026. [[Paper]](https://doi.org/10.1162/IMAG.a.1293) [[Code]](https://github.com/birthlab/PANDA)
 <a href="javascript:void(0)" 
-   onclick="var x=document.getElementById('bib_imag2026'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
+   onclick="var x=document.getElementById('bib_imag2026_2'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
    style="text-decoration: underline; color: #3333ff;">
    [BibTeX]
 </a>
 
 <!-- BibTeX 内容框：加入了 white-space: pre-wrap 解决换行问题 -->
-<div id="bib_imag2026" 
+<div id="bib_imag2026_2" 
      style="display: none; 
             background: #f6f8fa; 
             padding: 10px; 
