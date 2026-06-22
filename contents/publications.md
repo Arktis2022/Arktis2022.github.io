@@ -199,7 +199,7 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
     issn = {2837-6056},
     doi = {10.1162/IMAG.a.1089},
     url = {https://doi.org/10.1162/IMAG.a.1089},
-    eprint = {https://direct.mit.edu/imag/article-pdf/doi/10.1162/IMAG.a.1089/2571321/imag.a.1089.pdf},
+    eprint = {https://direct.mit.edu/imag/article-pdf/doi/10.1162/IMAG.a.1089/2571321/imag.a.1089.pdf}
 }
 </div>
 
