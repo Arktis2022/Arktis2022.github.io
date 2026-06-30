@@ -2,6 +2,8 @@
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- J1.	Y. Li#, <strong>M. Liu#</strong>, X. Zhang#, Y. Liao#, W. Chen, K. Anmahapong, Z. Wang, Y. Chen, H. Yang, X. Bai, D. Yue, X. Liu, N. Sun, R. Hu, M. Kang, Y. Song, H. Lai, X. Zhou, J. Zhu, F. Jia, G. Ning, H. Qu*, and Q. Tian*. Towards generalizable and expert-level fetal MRI report impression generation via adaptive fine-tuning of large language models. npj Digital Medicine (NPJ DM). (Major Revision)
+
 - Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>, 2026. [[Paper]](https://doi.org/10.1162/IMAG.a.1293) [[Code]](https://github.com/birthlab/PANDA)
 <a href="javascript:void(0)" 
    onclick="var x=document.getElementById('bib_imag2026_2'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
@@ -278,7 +280,7 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-- H. Li#, **M. Liu#**, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni. XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks. **European Conference on Computer Vision (ECCV)**, 2026.
+- H. Li#, **M. Liu#**, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni. XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks. **European Conference on Computer Vision (ECCV)**, 2026. [[Code]](https://github.com/birthlab/XSurfer)
 
 - Y. Li#, **M. Liu#**, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. [[Code]](https://github.com/birthlab/BioTTA)
 
