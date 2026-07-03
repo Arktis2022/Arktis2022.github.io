@@ -353,7 +353,7 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
   doi={10.1109/BIBM66473.2025.11356381}}
 </div>
 
-- J. Huang, Y. Hao, Y. Luo, Z. Wang, <strong>M. Liu</strong>, Y. Chen, Y. Wang, L. Xiang, and Q. Tian*. autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT. <strong>MICCAI autoPET IV challenge (MICCAI)</strong>, 2025. (1st Place Winner) [[Paper]](https://www.autopet.org/docu/autopetiv/Task1/1_BIRTH_autoPET4_BIRTH_Submission.pdf) [[Code]](https://github.com/huang-jw22/autoPET-4-submission/tree/master)
+- J. Huang, Y. Hao, Y. Luo, Z. Wang, <strong>M. Liu</strong>, Y. Chen, Y. Wang, L. Xiang, and Q. Tian*. autoPET IV challenge: Incorporating organ supervision and human guidance for lesion segmentation in PET/CT. <strong>MICCAI autoPET IV challenge (MICCAI)</strong>, 2025. (1st Place Winner) [[Paper]](https://arxiv.org/abs/2509.02402) [[Code]](https://github.com/huang-jw22/autoPET-4-submission/tree/master)
 <a href="javascript:void(0)" onclick="var x=document.getElementById('bib_autopet'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
 <div id="bib_autopet" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
 @misc{huang2025autopetivchallengeincorporating,
