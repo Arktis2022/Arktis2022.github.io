@@ -8,7 +8,7 @@
 
 **2026.06.03:** 🎉🎉 Attended the 2026 CHINA BIOMEDICAL ENGINEERING CONFERENCE & MEDICAL INNOVATION SUMMIT (BME 2026) and awarded [Excellent Paper Competition Second Prize](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing). [Photo](https://ibb.co/BHNNDLPD) [Photo](https://ibb.co/tww7fJS4)
 
-**2026.06.02:** 🎉🎉 One paper accepted by [NeuroImage](sciencedirect.com/journal/neuroimage).
+**2026.06.02:** 🎉🎉 One paper accepted by [NeuroImage](https://www.sciencedirect.com/journal/neuroimage).
 
 **2026.05.31:** 🎉🎉 One paper accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 
