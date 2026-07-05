@@ -12,7 +12,10 @@ B.E., Biomedical Engineering, Tsinghua University, 2021—2024.\
 B.E. Student, Chemical Engineering, Tsinghua University, 2019—2021.
 
 #### Research Interests
-AI for Neuroscience; Medical Image Analysis; Fetal Brain MRI; Foundation Model. 
+- **AI for Neuroscience & Neuroimaging** — bridging acquisition, analysis, and clinical translation, with a focus on fetal and perinatal brain MRI.
+- **Trustworthy Medical Foundation Models & Agentic AI** — reliable, interpretable, and privacy-preserving models for researchers and clinicians.
+- **Annotation-Efficient & Label-Free Learning** — unsupervised and quality-label-free methods for data-scarce clinical settings.
+- **Generalizable & Robust Medical Image Computing** — test-time adaptation and domain generalization for real-world deployment.
 
 #### Links
 [Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=zh-CN) / [Github](https://github.com/Arktis2022) / [Wechat](https://ibb.co/gMGVMJnN)
