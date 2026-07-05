@@ -12,9 +12,9 @@ B.E., Biomedical Engineering, Tsinghua University, 2021—2024.\
 B.E. Student, Chemical Engineering, Tsinghua University, 2019—2021.
 
 #### Research Interests
-- **AI for Neuroscience & Neuroimaging** — bridging acquisition, analysis, and clinical translation, with a focus on fetal and perinatal brain MRI.
+- **AI for Neuroscience & Neuroimaging** — bridging acquisition, analysis, and clinical translation, with a focus on fetal and perinatal imaging.
 - **Trustworthy Medical Foundation Models & Agentic AI** — reliable, interpretable, and privacy-preserving models for researchers and clinicians.
-- **Annotation-Efficient & Label-Free Learning** — unsupervised and quality-label-free methods for data-scarce clinical settings.
+- **Annotation-Efficient & Label-Free Learning** — unsupervised and label-free methods for data-scarce clinical settings.
 - **Generalizable & Robust Medical Image Computing** — test-time adaptation and domain generalization for real-world deployment.
 
 #### Links
