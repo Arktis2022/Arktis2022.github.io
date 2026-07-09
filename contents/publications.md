@@ -280,7 +280,7 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-- H. Li#, **M. Liu#**, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni. XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks. **European Conference on Computer Vision (ECCV)**, 2026. [[Code]](https://github.com/birthlab/XSurfer)
+- H. Li#, **M. Liu#**, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni. XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks. **European Conference on Computer Vision (ECCV)**, 2026. (Poster, ISMRM 2026 Annual Meeting Planning Committee Selection Award) [[Code]](https://github.com/birthlab/XSurfer)
 
 - Y. Li#, **M. Liu#**, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. [[Code]](https://github.com/birthlab/BioTTA)
 
@@ -531,11 +531,11 @@ url       = {https://papers.bmvc2024.org/0493.pdf}
 
 - <strong>M. Liu</strong>, H. Li, H. Yang, Y. Liao, J. Zhu, J. Zheng, Y. Hao, Z. Li, Z. Li, Z. Wang, Y. Li, J. Huang, G. Ning, H. Qu, and Q. Tian*. Cortical Brain in Utero Growth Among Fetuses with Germinal Matrix and Intraventricular Hemorrhage (GMH-IVH). <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
 
-- H. Li, <strong>M. Liu</strong>, D. Varadarajan, Z. Hu, Q. Tian, and J. Polimeni*. Test-time optimization for cortical surface reconstruction across image resolutions/contrasts using untrained neural networks. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Oral)
+- H. Li, <strong>M. Liu</strong>, D. Varadarajan, Z. Hu, Q. Tian, and J. Polimeni*. Test-time optimization for cortical surface reconstruction across image resolutions/contrasts using untrained neural networks. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Oral, Annual Meeting Planning Committee Selection Award)
 
 - H. Yang, <strong>M. Liu</strong>, Y. Liao, M. Zhang, J. Zhu, H. Li, F. Jia, Z. Li, Y. Li, J. Huang, Z. Wang, Z. Li, H. Qu, and Q. Tian*. Improving the Accuracy of Fetal Brain Age Prediction Using Neural Network Attribution Maps. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
 
-- Y. Li, <strong>M. Liu</strong>, H. Yang, X. Hu, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Oral)
+- Y. Li, <strong>M. Liu</strong>, H. Yang, X. Hu, Y. Liao, K. Anmahapong, Z. Wang, J. Zhu, Y. Hao, Y. Chen, H. Li, Z. Li, F. Jia, H. Qu, and Q. Tian*. BioTTA: Maximizing Domain Generalization in Automatic Fetal Brain Biometry with Test-Time Adaptation. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Oral, ISMRM Summa Cum Laude Merit Award, Top 5%)
 
 - Y. Hao, <strong>M. Liu</strong>, J. Zhu, H. Yang, H. Li, J. Huang, Y. Liao, H. Qu, and Q. Tian*. Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI. <strong>ISMRM & ISMRT Annual Meeting & Exhibition (ISMRM)</strong>, 2026. (Digital Poster)
 
