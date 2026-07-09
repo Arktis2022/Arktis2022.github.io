@@ -282,7 +282,7 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
 
 - H. Li#, **M. Liu#**, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni. XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks. **European Conference on Computer Vision (ECCV)**, 2026. (Poster, ISMRM 2026 Annual Meeting Planning Committee Selection Award) [[Code]](https://github.com/birthlab/XSurfer)
 
-- Y. Li#, **M. Liu#**, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. [[Code]](https://github.com/birthlab/BioTTA)
+- Y. Li#, **M. Liu#**, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian*. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. (Poster, ISMRM 2026 Summa Cum Laude Merit Award) [[Code]](https://github.com/birthlab/BioTTA)
 
 - X. Zhang#, **M. Liu#**, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian*. ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora. **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2026. [[Code]](https://github.com/birthlab/ASTAR)
 
@@ -392,7 +392,7 @@ isbn="978-3-032-05997-0"
 }
 </div>
 
-- X. Bai#, <strong>M. Liu#</strong>, Y. Chen, H. Yang, and Q. Tian*. Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report. <strong>Medical Imaging with Deep Learning (MIDL)</strong>, 2025. (Poster, MICCAI VLM3D Challenge 2nd Place Winner) [[Paper]](https://openreview.net/forum?id=ns6nq592HX) [[Code]](https://github.com/JasonW375/Chest-OMDL)
+- X. Bai#, <strong>M. Liu#</strong>, Y. Chen, H. Yang, and Q. Tian*. Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report. <strong>Medical Imaging with Deep Learning (MIDL)</strong>, 2025. (Poster, MICCAI 2025 VLM3D Challenge 2nd Place Winner) [[Paper]](https://openreview.net/forum?id=ns6nq592HX) [[Code]](https://github.com/JasonW375/Chest-OMDL)
 <a href="javascript:void(0)" onclick="var x=document.getElementById('bib_chestomdl'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" style="text-decoration: underline; color: #3333ff;">[BibTeX]</a>
 <div id="bib_chestomdl" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
 @inproceedings{
