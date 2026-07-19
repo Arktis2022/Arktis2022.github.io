@@ -519,13 +519,13 @@ url       = {https://papers.bmvc2024.org/0493.pdf}
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
-- **M. Liu**, Y. Hao, H. Li, H. Yang, H. Qu, and Q. Tian. Annotation-Free Deep Learning for Automated Detection and Segmentation of Fetal Germinal Matrix-Intraventricular Hemorrhage in Brain MRI. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral)
+- **M. Liu**, Y. Hao, H. Li, H. Yang, H. Qu, and Q. Tian. Annotation-Free Deep Learning for Automated Detection and Segmentation of Fetal Germinal Matrix-Intraventricular Hemorrhage in Brain MRI. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral, Excellent Paper Competition Second Prize)
 
-- X. Bai, **M. Liu**, M. Zhang, H. Yang, Z. Wang, Y. Luo, Y. Zhou, X. Han, and Q. Tian. Preoperative CTA-based Deep Learning Model for Predicting AKI After TEVAR in Type B Aortic Dissection. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral)
+- X. Bai, **M. Liu**, M. Zhang, H. Yang, Z. Wang, Y. Luo, Y. Zhou, X. Han, and Q. Tian. Preoperative CTA-based Deep Learning Model for Predicting AKI After TEVAR in Type B Aortic Dissection. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral, Excellent Paper Competition Third Prize)
 
-- Y. Li, **M. Liu**, H. Yang, and Q. Tian. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral)
+- Y. Li, **M. Liu**, H. Yang, and Q. Tian. Maximizing Domain Generalization in Automated Fetal Brain Biometry. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral, Excellent Paper Competition Third Prize)
 
-- H. Yang, **M. Liu**, Y. Hao, Y. Liao, H. Qu, and Q. Tian. Simple Baselines for Fetal Brain Unsupervised Anomaly Detection. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral)
+- H. Yang, **M. Liu**, Y. Hao, Y. Liao, H. Qu, and Q. Tian. Simple Baselines for Fetal Brain Unsupervised Anomaly Detection. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Oral, Excellent Paper Competition Second Prize)
 
 - X. Hu, **M. Liu**, H. Yang, Q. Tian. INFANiTE: Implicit Neural Representation for High-resolution Fetal Brain Spatio-temporal Atlas Learning from Clinical Thick-slice MRI. **China Biomedical Engineering Conference & Medical Innovation Summit (BME)**, 2026. (Poster)
 
