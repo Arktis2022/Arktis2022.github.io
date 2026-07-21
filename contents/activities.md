@@ -1,5 +1,6 @@
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
   
+- *2026.07.10*, Attended the Medical Image Computing Seminar (MICS) 2026. [Photo](https://ibb.co/TDr6hj4v)
 - *2026.06.03*, Attended the 2026 CHINA BIOMEDICAL ENGINEERING CONFERENCE & MEDICAL INNOVATION SUMMIT (BME 2026) and awarded [Excellent Paper Competition Second Prize](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing). [Photo](https://ibb.co/BHNNDLPD) [Photo](https://ibb.co/tww7fJS4)
 - *2026.03.04*, Attended the ISMRM Workshop on Unlocking the Potential of Prenatal MRI in Washington, D.C., USA. [Photo](https://ibb.co/hFTYj3MW)
 - *2026.01.09*, Attended the 2026 Annual Retreat of the Center for Biomedical Imaging Research (CBIR) and awarded [2nd Place in the Oral Session of AI for Image Reconstruction and Analysis](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/CBIR2026.png). [Photo](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/CBIR2026_photo.jpg)
