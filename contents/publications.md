@@ -2,6 +2,8 @@
 
 <div style="max-height: 600px; overflow-y: auto; border: none; background-color: transparent; padding-right: 15px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
 
+- Z. Li#, Z. Li#, M. Liu#, W.-C. Lo, F. Jia, Y. Luo, B. Bilgic, J. R. Polimeni, H. Qu*, Q. Tian*, and S. Y. Huang. Improving the accessibility of deep learning-based denoising for accelerated brain MRI using self-supervised learning and/or transfer learning. NeuroImage (NIMG). (Major Revision)
+
 - X. Hu#, <strong>M. Liu#</strong>, J. Huang#, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu*, and Q. Tian*. Towards Reliable Fetal Ultrasound Interpretation with Multi-Agent Collaboration. <strong>Medical Image Analysis (MIA)</strong>. (Major Revision)
 
 - Y. Li#, <strong>M. Liu#</strong>, X. Zhang#, Y. Liao#, W. Chen, K. Anmahapong, Z. Wang, Y. Chen, H. Yang, X. Bai, D. Yue, X. Liu, N. Sun, R. Hu, M. Kang, Y. Song, H. Lai, X. Zhou, J. Zhu, F. Jia, G. Ning, H. Qu*, and Q. Tian*. Towards generalizable and expert-level fetal MRI report impression generation via adaptive fine-tuning of large language models. <strong>npj Digital Medicine (NPJ DM)</strong>. (Major Revision)
