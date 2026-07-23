@@ -8,6 +8,10 @@
 
 - Y. Li#, <strong>M. Liu#</strong>, X. Zhang#, Y. Liao#, W. Chen, K. Anmahapong, Z. Wang, Y. Chen, H. Yang, X. Bai, D. Yue, X. Liu, N. Sun, R. Hu, M. Kang, Y. Song, H. Lai, X. Zhou, J. Zhu, F. Jia, G. Ning, H. Qu*, and Q. Tian*. Towards generalizable and expert-level fetal MRI report impression generation via adaptive fine-tuning of large language models. <strong>npj Digital Medicine (NPJ DM)</strong>. (Major Revision)
 
+- H. Yang#, Y. Liao#, <strong>M. Liu</strong>, J. Zhu, H. Li, F. Jia, Z. Li, M. Zhang, J. Zheng, Z. Wang, J. Zhang, Y. Chen, Y. Li, L. Luo, J. Liu, H. Lai, X. Zhou, M. Kang, Y. Song, G. Ning, Z. Li, X. Zhang, H. Qu*, and Q. Tian*. 3D Fetal Brain Morphometry from Single Thick-Slice MRI Stacks Using Deep Learning Super-Resolution. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
+
+- M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, <strong>M. Liu</strong>, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian*. SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data. <strong>Imaging Neuroscience (IMAG)</strong>. (Major Revision)
+
 - Y. Hao#, <strong>M. Liu#</strong>, J. Zhu#, H. Yang, H. Li, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, Y. Liao, H. Qu*, and Q. Tian*. PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI. <strong>Imaging Neuroscience (IMAG)</strong>, 2026. [[Paper]](https://doi.org/10.1162/IMAG.a.1293) [[Code]](https://github.com/birthlab/PANDA)
 <a href="javascript:void(0)" 
    onclick="var x=document.getElementById('bib_imag2026_2'); x.style.display = (x.style.display === 'none' ? 'block' : 'none')" 
@@ -273,10 +277,6 @@ keywords = {Domain generalization, Bagging model, Kolmogorov-Arnold Network, Sli
   doi = {10.1109/TIM.2024.3406792}
 }
 </div>
-
-- H. Yang#, Y. Liao#, <strong>M. Liu</strong>, J. Zhu, H. Li, F. Jia, Z. Li, M. Zhang, J. Zheng, Z. Wang, J. Zhang, Y. Chen, Y. Li, L. Luo, J. Liu, H. Lai, X. Zhou, M. Kang, Y. Song, G. Ning, Z. Li, X. Zhang, H. Qu*, and Q. Tian*. 3D Fetal Brain Morphometry from Single Thick-Slice MRI Stacks Using Deep Learning Super-Resolution. <strong>Nature Biomedical Engineering (NBME)</strong>. (Major Revision)
-
-- M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, <strong>M. Liu</strong>, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian*. SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data. <strong>Imaging Neuroscience (IMAG)</strong>. (Major Revision)
 
 </div>
 
