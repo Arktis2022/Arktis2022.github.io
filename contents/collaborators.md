@@ -1,20 +1,20 @@
-- [**BIRTHLab**](https://birthlab.github.io/) - Brain Imaging Research at Tsinghua
-- [**Haoxiang Li**](https://lihaoxiang-20.github.io/) - School of Biomedical Engineering, Tsinghua University
-- [**Zixuan Deng**](https://mobidy.github.io/) - School of Artificial Intelligence, Beijing University of Posts and Telecommunications
-- [**Jack Tang**](https://mcjacktang.github.io/) - Pervasive HCI Group, Tsinghua University
-- [**Yunkang Cao**](https://caoyunkang.github.io/) - School of Artificial Intelligence and Robotics, Hunan University
-- [**Yiming Huang**](https://yiyihum.github.io/) - University of California San Diego
-- [**Siwei Li**](https://hplqaq.github.io/) - Department of Electronic Engineering, Tsinghua University
-- [**Yifei Chen**](https://justlfc03.github.io/) - School of Biomedical Engineering, Tsinghua University
-- [**Yingqi Hao**](https://yingqihao2022.github.io/) - School of Biomedical Engineering, Tsinghua University
-- [**Jialan Zheng**](https://zjl21.github.io/) - School of Biomedical Engineering, Tsinghua University
-- [**Xuguang Bai**](https://jasonw375.github.io/) - School of Biomedical Engineering, Tsinghua University
-- [**Yijin Li**](https://liyijin6815.github.io/) - School of Biomedical Engineering, Tsinghua University
-- [**Jayce Xu**](https://iayce.github.io/) - Software Engineering, Huazhong University of Science and Technology
-- [**Xingyue Wei**](https://weixy17.github.io/) - School of Biomedical Engineering, Tsinghua University
-- [**Xin Wu**](https://xinwu1897.github.io/XinWu.github.io/) - Institute of Physics Chinese Academy of Sciences
-- [**Wenjing Yu**](https://wenjing-gg.github.io/) - 3DV Lab, Hangzhou Dianzi University
-- [**Xiaotian Hu**](https://hu2274898.github.io/) - School of Biological Science and Medical Engineering, Beihang University.
-- [**Shenghao Zhu**](https://quanato607.github.io/) - School of Computer Science, Hangzhou Dianzi University
-- [**Yitong Zhang**](https://zhangyitong2021.github.io/) - National University of Singapore
-- [**Junwei Huang**](https://huang-jw22.github.io/) - School of Biomedical Engineering, Tsinghua University
+- [**BIRTHLab**](https://birthlab.github.io/)<br />Brain Imaging Research at Tsinghua
+- [**Haoxiang Li**](https://lihaoxiang-20.github.io/)<br />School of Biomedical Engineering, Tsinghua University
+- [**Zixuan Deng**](https://mobidy.github.io/)<br />School of Artificial Intelligence, Beijing University of Posts and Telecommunications
+- [**Jack Tang**](https://mcjacktang.github.io/)<br />Pervasive HCI Group, Tsinghua University
+- [**Yunkang Cao**](https://caoyunkang.github.io/)<br />School of Artificial Intelligence and Robotics, Hunan University
+- [**Yiming Huang**](https://yiyihum.github.io/)<br />University of California San Diego
+- [**Siwei Li**](https://hplqaq.github.io/)<br />Department of Electronic Engineering, Tsinghua University
+- [**Yifei Chen**](https://justlfc03.github.io/)<br />School of Biomedical Engineering, Tsinghua University
+- [**Yingqi Hao**](https://yingqihao2022.github.io/)<br />School of Biomedical Engineering, Tsinghua University
+- [**Jialan Zheng**](https://zjl21.github.io/)<br />School of Biomedical Engineering, Tsinghua University
+- [**Xuguang Bai**](https://jasonw375.github.io/)<br />School of Biomedical Engineering, Tsinghua University
+- [**Yijin Li**](https://liyijin6815.github.io/)<br />School of Biomedical Engineering, Tsinghua University
+- [**Jayce Xu**](https://iayce.github.io/)<br />Software Engineering, Huazhong University of Science and Technology
+- [**Xingyue Wei**](https://weixy17.github.io/)<br />School of Biomedical Engineering, Tsinghua University
+- [**Xin Wu**](https://xinwu1897.github.io/XinWu.github.io/)<br />Institute of Physics Chinese Academy of Sciences
+- [**Wenjing Yu**](https://wenjing-gg.github.io/)<br />3DV Lab, Hangzhou Dianzi University
+- [**Xiaotian Hu**](https://hu2274898.github.io/)<br />School of Biological Science and Medical Engineering, Beihang University
+- [**Shenghao Zhu**](https://quanato607.github.io/)<br />School of Computer Science, Hangzhou Dianzi University
+- [**Yitong Zhang**](https://zhangyitong2021.github.io/)<br />National University of Singapore
+- [**Junwei Huang**](https://huang-jw22.github.io/)<br />School of Biomedical Engineering, Tsinghua University

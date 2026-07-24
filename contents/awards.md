@@ -1,25 +1,24 @@
-- [[Certificate]](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing) *2026* **Excellent Paper Competition Second Prize** <br /> &nbsp; &nbsp; &nbsp; *China Biomedical Engineering Conference & Medical Innovation Summit*
+- [[Certificate]](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing) *2026* **Excellent Paper Competition Second Prize**<br />*China Biomedical Engineering Conference & Medical Innovation Summit*
 - [[Certificate]](https://ibb.co/q37WpDdg) *2026* **ISMRM Educational Stipend Award**
-- [[Certificate]](https://ibb.co/C533cPj3) *2026* **ISMRM Workshop Trainee Stipend Award**<br /> &nbsp; &nbsp; &nbsp; *ISMRM Workshop on Unlocking the Potential of Prenatal MRI, Washington, DC, USA*
-- [[Certificate]](https://ibb.co/5X5pHHb9) *2026* **2nd Place in the Oral Session of AI for Image Reconstruction and Analysis**<br /> &nbsp; &nbsp; &nbsp; *Annual Retreat of the Center for Biomedical Imaging Research (CBIR), Tsinghua University*
-- [[Certificate]](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing) *2025* **Invited Student Speaker Award**<br /> &nbsp; &nbsp; &nbsp; *The 2nd Graduate Academic Forum (School of Biomedical Engineering & School of Clinical Medicine, Tsinghua University)*
-- [[Certificate]](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing) *2025* **BEIHAI Summit Second Prize of Oral Presentation**<br /> &nbsp; &nbsp; &nbsp; *Competition judges: Charlotte Haug, Executive Editor of NEJM AI*
-- [[Certificate]](https://ibb.co/fwkyw94) *2025* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
-- [[Certificate]](https://ibb.co/bthJn0R) *2025* **MICCAI [autoPET IV Challenge](https://www.autopet.org/autopetiv.html) 1st Place Winner**
-- [[Certificate]](https://ibb.co/XxzjWdNw) *2025* **MICCAI [VLM3D Challenge](https://zenodo.org/records/15052708) 2nd Place Winner**
+- [[Certificate]](https://ibb.co/C533cPj3) *2026* **ISMRM Workshop Trainee Stipend Award**<br />*ISMRM Workshop on Unlocking the Potential of Prenatal MRI, Washington, DC, USA*
+- [[Certificate]](https://ibb.co/5X5pHHb9) *2026* **2nd Place, Oral Session on AI for Image Reconstruction and Analysis**<br />*Annual Retreat of the Center for Biomedical Imaging Research (CBIR), Tsinghua University*
+- [[Certificate]](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing) *2025* **Invited Student Speaker Award**<br />*The 2nd Graduate Academic Forum, Tsinghua University (School of Biomedical Engineering & School of Clinical Medicine)*
+- [[Certificate]](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing) *2025* **BEIHAI Summit Second Prize of Oral Presentation**<br />*Competition judge: Charlotte Haug, Executive Editor of NEJM AI*
+- [[Certificate]](https://ibb.co/fwkyw94) *2025* **National Scholarship, Ministry of Education**, P.R. China<br />*Top scholarship in China — 0.2% nationally*
+- [[Certificate]](https://ibb.co/bthJn0R) *2025* **MICCAI [autoPET IV Challenge](https://www.autopet.org/autopetiv.html) — 1st Place Winner**
+- [[Certificate]](https://ibb.co/XxzjWdNw) *2025* **MICCAI [VLM3D Challenge](https://zenodo.org/records/15052708) — 2nd Place Winner**
 - [[Certificate]](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing) *2025* **OHBM Merit Award (Top 1.6%)**
 - [[Certificate]](https://ibb.co/ymv28Vqs) *2025* **ISMRM Educational Stipend Award**
-- [[Certificate]](https://ibb.co/XxRZYRxB) *2024* **National Scholarship, Ministry of Education**, P.R. China <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
-- [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing) *2024* **First Prize at 9th National Biomedical Engineering Innovation Design Competition for College Students** <br /> &nbsp; &nbsp; &nbsp; *A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI (Top 5%)*
+- [[Certificate]](https://ibb.co/XxRZYRxB) *2024* **National Scholarship, Ministry of Education**, P.R. China<br />*Top scholarship in China — 0.2% nationally*
+- [[Certificate]](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing) *2024* **First Prize, 9th National Biomedical Engineering Innovation Design Competition**<br />*A Deep Learning-Enabled Framework for Anomaly Detection in Fetal Brain MRI (Top 5%)*
 - [[Certificate]](https://ibb.co/rRL0J4Dw) *2024* **Outstanding Graduate of Beijing**
 - [[Certificate]](https://ibb.co/BHD3Y6bp) *2024* **Outstanding Graduate Award (Top 2%)**, Tsinghua University
 - [[Certificate]](https://ibb.co/gMPvQ0wW) *2024* **ISMRM Magna Cum Laude Merit Award (Top 15%)**
 - [[Certificate]](https://ibb.co/TxcwGDfS) *2024* **ISMRM Educational Stipend Award**
 - [[Certificate]](https://ibb.co/S7Dm7pWf) *2024* **IEEE ICCBD+AI Best Paper Award**
-- [[Certificate]](https://ibb.co/PvLPYmFW) *2023* **[Singapore AI Health Summit Poster Competition](https://healthsummit.ai/main/abstracts/) 3rd Place Winner** <br /> &nbsp; &nbsp; &nbsp; *Competition judges: Rupa Sarkar, Editor-in-chief of The Lancet Digital Health; Prof Catherine R Lucey; João Monteiro, Editor-in-chief of Nature Medicine; Pep Pàmies, Editor-in-chief of Nature Biomedical Engineering*.
-- [[Certificate]](https://ibb.co/xtq9f5Sj) *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department) <br /> &nbsp; &nbsp; &nbsp; *Top scholarship in China. 0.2% domestically*.
-- [[Certificate]](https://ibb.co/HDc5CRL2) *2022* **Scholarship for Academic Excellence**, Tsinghua University 
-- [[Certificate]](https://ibb.co/pBnbcKgF) *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University 
-- [[Certificate]](https://ibb.co/G4WP9N2H) *2022* **Second Prize for Outstanding Projects of the Students Research Training Program**, Tsinghua University <br /> &nbsp; &nbsp; &nbsp; *Supported by a National College Student Innovation and Entrepreneurship Project*
-- [[Certificate]](https://ibb.co/SDt923S5) *2020* **Scholarship for Academic Excellence**, Tsinghua University 
-
+- [[Certificate]](https://ibb.co/PvLPYmFW) *2023* **[Singapore AI Health Summit Poster Competition](https://healthsummit.ai/main/abstracts/) — 3rd Place Winner**<br />*Judges: Rupa Sarkar (The Lancet Digital Health); Prof. Catherine R. Lucey; João Monteiro (Nature Medicine); Pep Pàmies (Nature Biomedical Engineering)*
+- [[Certificate]](https://ibb.co/xtq9f5Sj) *2023* **National Scholarship, Ministry of Education**, P.R. China (Top 1 in department)<br />*Top scholarship in China — 0.2% nationally*
+- [[Certificate]](https://ibb.co/HDc5CRL2) *2022* **Scholarship for Academic Excellence**, Tsinghua University
+- [[Certificate]](https://ibb.co/pBnbcKgF) *2022* **Scholarship for Science and Technology Innovation Excellence**, Tsinghua University
+- [[Certificate]](https://ibb.co/G4WP9N2H) *2022* **Second Prize, Students Research Training Program**, Tsinghua University<br />*Supported by a National College Student Innovation and Entrepreneurship Project*
+- [[Certificate]](https://ibb.co/SDt923S5) *2020* **Scholarship for Academic Excellence**, Tsinghua University

@@ -4,302 +4,358 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="Academic Webpage" />
-    <meta name="author" content="senli1073" />
+    <meta name="description" content="Mingxuan Liu (刘铭轩) — PhD student at Tsinghua University building generalizable AI for neuroscience and neuroimaging." />
+    <meta name="author" content="Mingxuan Liu" />
     <title id="title"></title>
 
-    <!-- Icon -->
-    <link rel="icon" type="image/x-icon" href="https://github.com/Arktis2022/Arktis2022.github.io/blob/main/static/assets/favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="static/assets/favicon.svg?v=5" />
+    <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico?v=5" />
+    <link rel="shortcut icon" href="static/assets/favicon.ico?v=5" />
 
-    <!-- Favicon - 多种格式支持 -->
-    <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico?v=2" />
-    <link rel="icon" type="image/png" sizes="32x32" href="static/assets/favicon.png?v=2" />
-    <link rel="apple-touch-icon" href="static/assets/favicon.png?v=2" />
-    <link rel="shortcut icon" href="static/assets/favicon.ico?v=2" />
-    
-    <!-- Bootstrap icons-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-
-    <!-- Google fonts-->
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&amp;display=swap"
-        rel="stylesheet" />
+    <!-- Fonts: Geist (display + body) + Geist Mono (dates / indices / code). -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-        href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap"
-        rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap"
+        href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&display=swap"
         rel="stylesheet" />
 
-    <!-- Core theme CSS (includes Bootstrap)-->
-    <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
     <link type="text/css" href="static/css/main.css" rel="stylesheet" />
 
-    <!-- Bootstrap core JS-->
-    <script type="text/javascript" src="static/js/bootstrap.bundle.min.js"></script>
+    <!-- Apply saved prefs before paint (no flash). -->
+    <script>
+        (function () {
+            try {
+                var t = localStorage.getItem('theme') || 'light';
+                document.documentElement.setAttribute('data-theme', t);
+                var a = localStorage.getItem('accent');
+                if (a) document.documentElement.style.setProperty('--accent', a);
+                var d = localStorage.getItem('density');
+                if (d) document.documentElement.setAttribute('data-density', d);
+                var w = localStorage.getItem('pagewidth');
+                if (w) document.documentElement.setAttribute('data-width', w);
+                var g = localStorage.getItem('ground') || 'oat';   /* oat is the default ground */
+                if (g !== 'ivory') document.documentElement.setAttribute('data-bg', g);
+            } catch (e) { }
+        })();
+    </script>
 
-    <!-- Markdown -->
     <script type="text/javascript" src="static/js/marked.min.js"></script>
 
-    <!-- Mathematics -->
+    <!-- MathJax -->
     <script>
-        // See https://docs.mathjax.org/en/latest/index.html for more details.
         MathJax = {
             tex: {
-                packages: {},              // extensions to use
-                inlineMath: [              // start/end delimiter pairs for in-line math
-                    ['$', '$'],
-                    ['\\(', '\\)']
-                ],
-                displayMath: [             // start/end delimiter pairs for display math
-                    ['$$', '$$'],
-                    ['\\[', '\\]']
-                ],
-                processEscapes: false,      // use \$ to produce a literal dollar sign
-                processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
-                processRefs: true,         // process \ref{...} outside of math mode
-                digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/,    // pattern for recognizing numbers
-                tags: 'all',              // or 'ams' or 'all'
-                tagSide: 'right',          // side for \tag macros
-                tagIndent: '0.8em',        // amount to indent tags
-                useLabelIds: true,         // use label name rather than tag for ids
-                maxMacros: 10000,          // maximum number of macro substitutions per expression
-                maxBuffer: 5 * 1024,       // maximum size for the internal TeX string (5K)
-                // baseURL:                   // URL for use with links to tags (when there is a <base> tag in effect)
-                // (document.getElementsByTagName('base').length === 0) ? '' : String(document.location).replace(/#.*$/, ''),
-                formatError:               // function called when TeX syntax errors occur
-                    (jax, err) => jax.formatError(err)
+                packages: {}, inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']],
+                processEscapes: false, processEnvironments: true, processRefs: true,
+                tags: 'all', tagSide: 'right', tagIndent: '0.8em', useLabelIds: true
             }
         };
     </script>
-    <script type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
     <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    
-    <!-- Core JS-->
+
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
-
 </head>
 
 <body id="page-top">
-    <!-- Navigation-->
-    <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
-        <div class="container px-5">
-            <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top"></a>
-            <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
-                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                MENU
-                <i class="bi-list"></i>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#page-top">HOME</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#news">NEWS</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#talks">TALKS</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#funding">FUNDING</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#service">SERVICE</a>  <!-- 新增 -->
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#activities">ACTIVITIES</a>  <!-- 新增 -->
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#books">BOOKS</a>  <!-- 新增 -->
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#collaborators">COLLABORATORS</a>  <!-- 新增 -->
-                    </li>
-                </ul>
+
+    <!-- ============================ Masthead ============================ -->
+    <nav class="topbar" id="topbar">
+        <div class="topbar-inner">
+            <a class="brand" href="#page-top">
+                <span class="brand-name" id="page-top-title"></span>
+            </a>
+            <div class="topnav" id="topnav">
+                <a class="topnav-link" href="#news">News</a>
+                <a class="topnav-link" href="#publications">Publications</a>
+                <a class="topnav-link" href="#awards">Awards</a>
+                <a class="topnav-link" href="#talks">Talks</a>
+                <a class="topnav-link" href="#funding">Funding</a>
+                <a class="topnav-link" href="#service">Service</a>
+                <a class="topnav-link" href="#activities">Activities</a>
+                <a class="topnav-link" href="#books">Reading</a>
+                <a class="topnav-link" href="#collaborators">People</a>
+                <a class="topnav-link" href="#visitor">Visitors</a>
+            </div>
+            <div class="topbar-actions">
+                <a class="btn-cv" href="https://github.com/Arktis2022/CV-Mingxuan-Liu/blob/main/CV-Mingxuan%20Liu.pdf" target="_blank" rel="noopener">
+                    <span>CV</span><kbd>PDF</kbd>
+                </a>
+                <button class="icon-btn" id="menu-btn" aria-label="Menu"><span></span><span></span></button>
             </div>
         </div>
     </nav>
 
-    <!-- Top Section -->
-    <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');">
-        <div class="top-section-content">
-            <div class="container px-5">
-                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt"></h2>
+    <!-- ============================ Header / intro ============================ -->
+    <header class="hero" id="home">
+        <div class="wrap">
+
+            <h1 class="hero-title">
+                <span class="hero-title-en">Mingxuan Liu</span>
+                <span class="hero-title-zh">刘铭轩</span>
+            </h1>
+            <div class="hero-eyebrow" id="hero-status">PhD student, Biomedical Engineering, Tsinghua University — Birth Lab.</div>
+
+            <div class="front-grid">
+                <article class="lead">
+                    <aside class="front-side">
+                        <figure class="portrait">
+                            <img src="static/assets/img/photo.png" alt="Mingxuan Liu" />
+                        </figure>
+                    </aside>
+
+                    <div class="hero-lede main-body" id="home-md"></div>
+                    <div class="hero-links" id="hero-links"></div>
+
+                    <!-- front rail hidden by CSS in this recipe, kept for JS compatibility -->
+                    <div class="frontrail" id="front-rail" hidden>
+                        <div class="frontrail-head">Latest</div>
+                        <div class="frontrail-body" id="front-rail-body"></div>
+                        <a class="frontrail-more" href="#news">All news →</a>
+                    </div>
+                </article>
+            </div>
+
+            <!-- By-the-numbers -->
+            <div class="metrics" id="metrics">
+                <div class="metric">
+                    <span class="metric-num" id="stat-pubs">0</span>
+                    <span class="metric-cap">publications</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-num" id="stat-first">0</span>
+                    <span class="metric-cap">first-author</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-num" id="stat-awards">0</span>
+                    <span class="metric-cap">honors</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-num" id="stat-talks">0</span>
+                    <span class="metric-cap">invited talks</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- ============================ News ============================ -->
+    <section class="section section-line" id="news">
+        <div class="wrap">
+            <div class="section-head">
+                <div class="section-kicker">
+                    <span class="kicker-idx">01</span>
+                    <h2 class="section-h">News</h2>
+                </div>
+                <p class="section-sub">Acceptances, awards, talks, and travel — in reverse chronological order.</p>
+            </div>
+            <div class="scrollbox">
+                <div class="main-body feed" id="news-md"></div>
+            </div>
+            <p class="scrollbox-note">Scroll within the box · complete history</p>
+        </div>
+    </section>
+
+    <!-- ============================ Publications ============================ -->
+    <section class="section section-line" id="publications">
+        <div class="wrap">
+            <div class="section-head">
+                <div class="section-kicker">
+                    <span class="kicker-idx">02</span>
+                    <h2 class="section-h">Publications</h2>
+                </div>
+                <p class="section-sub" id="publications-note"><strong>#</strong> denotes equal contribution (co-first author); <strong>*</strong> denotes corresponding author.</p>
+            </div>
+            <div class="filters" id="pub-filters" role="tablist" aria-label="Filter publications"></div>
+            <div class="scrollbox">
+                <div class="main-body pubs" id="publications-md"></div>
+            </div>
+            <p class="scrollbox-note">Scroll within the box · complete list</p>
+        </div>
+    </section>
+
+    <!-- ============================ Awards ============================ -->
+    <section class="section section-line" id="awards">
+        <div class="wrap">
+            <div class="section-head">
+                <div class="section-kicker">
+                    <span class="kicker-idx">03</span>
+                    <h2 class="section-h">Honors &amp; Awards</h2>
+                </div>
+            </div>
+            <div class="scrollbox">
+                <div class="main-body award-list" id="awards-md"></div>
+            </div>
+            <p class="scrollbox-note">Scroll within the box · complete list</p>
+        </div>
+    </section>
+
+    <!-- ============================ Talks ============================ -->
+    <section class="section section-line" id="talks">
+        <div class="wrap">
+            <div class="section-head">
+                <div class="section-kicker">
+                    <span class="kicker-idx">04</span>
+                    <h2 class="section-h">Invited Talks</h2>
+                </div>
+            </div>
+            <div class="main-body talk-list" id="talks-md"></div>
+        </div>
+    </section>
+
+    <!-- ============================ Funding ============================ -->
+    <section class="section section-line" id="funding">
+        <div class="wrap">
+            <div class="section-head">
+                <div class="section-kicker">
+                    <span class="kicker-idx">05</span>
+                    <h2 class="section-h">Funding</h2>
+                </div>
+            </div>
+            <div class="main-body plain-list" id="funding-md"></div>
+        </div>
+    </section>
+
+    <!-- ============================ Service ============================ -->
+    <section class="section section-line" id="service">
+        <div class="wrap">
+            <div class="section-head">
+                <div class="section-kicker">
+                    <span class="kicker-idx">06</span>
+                    <h2 class="section-h">Academic Service</h2>
+                </div>
+            </div>
+            <div class="main-body service-body" id="service-md"></div>
+        </div>
+    </section>
+
+    <!-- ============================ Activities ============================ -->
+    <section class="section section-line" id="activities">
+        <div class="wrap">
+            <div class="section-head">
+                <div class="section-kicker">
+                    <span class="kicker-idx">07</span>
+                    <h2 class="section-h">Activities</h2>
+                </div>
+            </div>
+            <div class="scrollbox">
+                <div class="main-body feed" id="activities-md"></div>
+            </div>
+            <p class="scrollbox-note">Scroll within the box · complete history</p>
+        </div>
+    </section>
+
+    <!-- ============================ Books ============================ -->
+    <section class="section section-line" id="books">
+        <div class="wrap">
+            <div class="section-head">
+                <div class="section-kicker">
+                    <span class="kicker-idx">08</span>
+                    <h2 class="section-h">Reading</h2>
+                </div>
+                <p class="section-sub">A log of books away from the lab.</p>
+            </div>
+            <div class="main-body book-list" id="books-md"></div>
+        </div>
+    </section>
+
+    <!-- ============================ Collaborators ============================ -->
+    <section class="section section-line" id="collaborators">
+        <div class="wrap">
+            <div class="section-head">
+                <div class="section-kicker">
+                    <span class="kicker-idx">09</span>
+                    <h2 class="section-h">People &amp; Collaborators</h2>
+                </div>
+            </div>
+            <div class="main-body people-grid" id="collaborators-md"></div>
+        </div>
+    </section>
+
+    <!-- ============================ Visitors ============================ -->
+    <section class="section section-line" id="visitor">
+        <div class="wrap">
+            <div class="section-head">
+                <div class="section-kicker">
+                    <span class="kicker-idx">10</span>
+                    <h2 class="section-h">Visitors</h2>
+                </div>
+            </div>
+            <div class="visitor-wrap">
+                <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=9ca3af&w=341&t=tt&d=205wPHv6VMPy-G6P7yhvoJ_-xD30nn9Szu9dx2vgpm8'></script>
             </div>
         </div>
     </section>
-    <!-- Top Section -->
 
-    <!-- Photo -->
-    <div class="container px-5">
-        <div id="avatar">
-            <img class="shadow" src="static/assets/img/photo.png">
-        </div>
-    </div>
-    <!-- Photo -->
-    
-    <!-- Home -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
-        <div class="container px-5">
-            <header>
-                <h2 id="home-subtitle"> </h2>
-                <!-- <span class="bi bi-list"></span> -->
-            </header>
-            <div class="main-body" id="home-md"></div>
-        </div>
-    </section>
-    <!-- Home -->
-
-    <!-- News -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="news">
-        <div class="container px-5">
-            <header>
-                <h2 id="news-subtitle"><i class="bi bi-megaphone-fill"></i>&nbsp;NEWS</h2>
-            </header>
-            <div class="main-body" id="news-md"></div>
-        </div>
-    </section>
-    <!-- News -->
-    
-    <!-- Publications -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="publications">
-        <div class="container px-5">
-            <header>
-                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
-            </header>
-            <div class="main-body" id="publications-md"></div>
-
-        </div>
-    </section>
-    <!-- Publications  -->
-
-    <!-- Awards -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="awards">
-        <div class="container px-5">
-            <header>
-                <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>AWARDS </h2>
-            </header>
-            <div class="main-body" id="awards-md"></div>
-
-        </div>
-    </section>
-    <!-- Awards -->
-
-    <!-- Talks (新增) -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="talks">
-        <div class="container px-5">
-            <header>
-                <h2 id="talks-subtitle"><i class="bi bi-mic-fill"></i>&nbsp;INVITED TALKS</h2>
-            </header>
-            <div class="main-body" id="talks-md"></div>
-        </div>
-    </section>
-    <!-- Talks -->
-
-    <!-- Funding (新增) -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="funding">
-        <div class="container px-5">
-            <header>
-                <h2 id="funding-subtitle"><i class="bi bi-cash-stack"></i>&nbsp;FUNDING</h2>
-            </header>
-            <div class="main-body" id="funding-md"></div>
-        </div>
-    </section>
-    <!-- Funding -->
-
-    <!-- Service (新增) -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="service">
-        <div class="container px-5">
-            <header>
-                <h2 id="service-subtitle"><i class="bi bi-people-fill"></i>&nbsp;ACADEMIC SERVICE</h2>
-            </header>
-            <div class="main-body" id="service-md"></div>
-        </div>
-    </section>
-    <!-- Service -->
-
-    <!-- Activities (新增) -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="activities">
-        <div class="container px-5">
-            <header>
-                <h2 id="activities-subtitle"><i class="bi bi-calendar-event-fill"></i>&nbsp;ACTIVITIES</h2>
-            </header>
-            <div class="main-body" id="activities-md"></div>
-        </div>
-    </section>
-    <!-- Activities -->
-
-    <!-- Books (新增) -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="books">
-        <div class="container px-5">
-            <header>
-                <h2 id="books-subtitle"><i class="bi bi-book-fill"></i>&nbsp;BOOK READING</h2>
-            </header>
-            <div class="main-body" id="books-md"></div>
-        </div>
-    </section>
-    <!-- Books -->
-
-    <!-- Collaborators (新增) -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="collaborators">
-        <div class="container px-5">
-            <header>
-                <h2 id="collaborators-subtitle"><i class="bi bi-people-fill"></i>&nbsp;COLLABORATORS</h2>
-            </header>
-            <div class="main-body" id="collaborators-md"></div>
-        </div>
-    </section>
-    <!-- Collaborators -->
-
-    <!-- Visitor Map (新增) -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="visitor">
-        <div class="container px-5">
-            <header>
-                <h2><i class="bi bi-globe"></i>&nbsp;VISITORS</h2>
-            </header>
-            <div style="text-align: center; padding: 20px 0;">
-                <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=341&t=tt&d=205wPHv6VMPy-G6P7yhvoJ_-xD30nn9Szu9dx2vgpm8'></script>
+    <!-- ============================ Footer ============================ -->
+    <footer class="footer">
+        <div class="wrap footer-inner">
+            <div class="footer-left">
+                <div id="copyright-text" class="footer-copy"></div>
             </div>
-        </div>
-    </section>
-    <!-- Visitor Map -->
-    
-    <!-- Footer-->
-    <footer class="bg-bottom text-center py-5">
-        <div class="container px-5">
-            <div class="text-white-50 small">
-                <div id="copyright-text" class="mb-2"></div>
-                <a id="github-link" href="https://github.com/senli1073">Github</a>
-                <span class="mx-1">&middot;</span>
-                <a id="license-link" href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a>
+            <div class="footer-right">
+                <a href="https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=en" target="_blank" rel="noopener">Scholar</a>
+                <a href="https://github.com/Arktis2022" target="_blank" rel="noopener">GitHub</a>
+                <a href="mailto:arktisx@foxmail.com">Email</a>
+                <a href="https://github.com/Arktis2022/Arktis2022.github.io/blob/main/LICENSE" target="_blank" rel="noopener">License</a>
             </div>
         </div>
     </footer>
 
-<script>
-// 页面加载完成后，给所有外部链接添加 target="_blank"
-document.addEventListener('DOMContentLoaded', function() {
-    // 延迟执行，等 Markdown 解析完成
-    setTimeout(function() {
-        // 选择 main-body 区域中的所有链接
-        document.querySelectorAll('.main-body a').forEach(function(link) {
-            // 只处理外部链接（http 或 https 开头）
-            if (link.href.startsWith('http')) {
-                link.setAttribute('target', '_blank');
-                link.setAttribute('rel', 'noopener noreferrer'); // 安全性
-            }
-        });
-    }, 1000); // 等待 1 秒让 Markdown 解析完成
-});
-</script>
+    <!-- Back to top -->
+    <button id="back-to-top" class="fab" aria-label="Back to top">↑</button>
+
+    <!-- ============================ Tweaks ============================ -->
+    <div class="tweaks" id="tweaks">
+        <button class="tweaks-toggle" id="tweaks-toggle" aria-label="Open tweaks">
+            <span class="gear"></span>
+        </button>
+        <div class="tweaks-panel" id="tweaks-panel" hidden>
+            <div class="tweaks-head">Tweaks</div>
+            <div class="tweaks-row">
+                <span class="tweaks-label">Theme</span>
+                <div class="seg" id="seg-theme">
+                    <button data-theme-val="light" class="seg-btn">Light</button>
+                    <button data-theme-val="dark" class="seg-btn">Dark</button>
+                </div>
+            </div>
+            <div class="tweaks-row">
+                <span class="tweaks-label">Width</span>
+                <div class="seg" id="seg-width">
+                    <button data-width-val="narrow" class="seg-btn">Narrow</button>
+                    <button data-width-val="medium" class="seg-btn">Medium</button>
+                    <button data-width-val="wide" class="seg-btn">Wide</button>
+                </div>
+            </div>
+            <div class="tweaks-row">
+                <span class="tweaks-label">Ground</span>
+                <div class="swatches" id="grounds">
+                    <button class="swatch" data-ground="ivory" style="--s:#FAF9F5" aria-label="Ivory (Anthropic)"></button>
+                    <button class="swatch" data-ground="white" style="--s:#FFFFFF" aria-label="Pure White"></button>
+                    <button class="swatch" data-ground="oat" style="--s:#F4EFE6" aria-label="Oat"></button>
+                    <button class="swatch" data-ground="porcelain" style="--s:#F3F5F4" aria-label="Porcelain"></button>
+                </div>
+            </div>
+            <div class="tweaks-row">
+                <span class="tweaks-label">Accent</span>
+                <div class="swatches" id="swatches">
+                    <button class="swatch" data-accent="#D97757" style="--s:#D97757" aria-label="Clay (Anthropic)"></button>
+                    <button class="swatch" data-accent="#788C5D" style="--s:#788C5D" aria-label="Olive"></button>
+                    <button class="swatch" data-accent="#6A9BCC" style="--s:#6A9BCC" aria-label="Sky"></button>
+                    <button class="swatch" data-accent="#C46686" style="--s:#C46686" aria-label="Fig"></button>
+                    <button class="swatch" data-accent="#660874" style="--s:#660874" aria-label="Tsinghua Purple"></button>
+                </div>
+            </div>
+            <div class="tweaks-row">
+                <span class="tweaks-label">Density</span>
+                <div class="seg" id="seg-density">
+                    <button data-density-val="cozy" class="seg-btn">Cozy</button>
+                    <button data-density-val="compact" class="seg-btn">Compact</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
 </body>
 
 </html>
