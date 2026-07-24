@@ -399,18 +399,21 @@ function pubRow(entry, cat, bibMap) {
         a.innerHTML = renderAuthors(authors);
         body.appendChild(a);
     }
-    // line 3: venue, year, honor + links
+    // line 3: venue + year only
     const venueLine = document.createElement('div');
     venueLine.className = 'pub-venue-line';
     let vhtml = '';
     if (venue) vhtml += `<span class="pub-venue">${esc(venue)}</span>`;
     if (year) vhtml += `<span class="pub-vyear">, ${esc(year)}</span>`;
-    if (honors) vhtml += `<span class="pill-honor"> ${esc(honors)}</span>`;
     venueLine.innerHTML = vhtml;
+    body.appendChild(venueLine);
 
-    // links + bibtex
+    // line 4: honors + links + BibTeX (quiet row, OpenReview meta style)
     const links = renderLinks(linksStr);
-    if (links.length || bibKey) {
+    if (honors || links.length || bibKey) {
+        const extra = document.createElement('div');
+        extra.className = 'pub-extra';
+        if (honors) extra.innerHTML += `<span class="pill-honor">${esc(honors)}</span>`;
         const lc = document.createElement('span');
         lc.className = 'pub-links';
         links.forEach(l => {
@@ -419,20 +422,18 @@ function pubRow(entry, cat, bibMap) {
         if (bibKey && bibMap[bibKey]) {
             const id = 'bibx_' + Math.abs(hashStr(bibKey)).toString(36);
             lc.innerHTML += `<button class="lnk lnk-bib" data-target="${id}">BibTeX</button>`;
-            venueLine.appendChild(lc);
+            extra.appendChild(lc);
+            body.appendChild(extra);
             const box = document.createElement('pre');
             box.className = 'bib-box';
             box.id = id;
             box.hidden = true;
             box.textContent = bibMap[bibKey];
-            body.appendChild(venueLine);
             body.appendChild(box);
         } else {
-            venueLine.appendChild(lc);
-            body.appendChild(venueLine);
+            extra.appendChild(lc);
+            body.appendChild(extra);
         }
-    } else {
-        body.appendChild(venueLine);
     }
 
     row.appendChild(meta);

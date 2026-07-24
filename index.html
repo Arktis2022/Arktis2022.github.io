@@ -8,37 +8,18 @@
     <meta name="author" content="Mingxuan Liu" />
     <title id="title"></title>
 
-    <link rel="icon" type="image/svg+xml" href="static/assets/favicon.svg?v=5" />
-    <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico?v=5" />
-    <link rel="shortcut icon" href="static/assets/favicon.ico?v=5" />
+    <link rel="icon" type="image/svg+xml" href="static/assets/favicon.svg?v=7" />
+    <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico?v=7" />
+    <link rel="shortcut icon" href="static/assets/favicon.ico?v=7" />
 
-    <!-- Fonts: Anthropic-style stack — Archivo (≈Anthropic Sans/Styrene) for display+UI,
-         Source Serif 4 (≈Tiempos) for prose, IBM Plex Mono for dates/indices. -->
+    <!-- Fonts: Noto Sans — OpenReview's face (verified from their live CSS). -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-        href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
         rel="stylesheet" />
 
     <link type="text/css" href="static/css/main.css" rel="stylesheet" />
-
-    <!-- Apply saved prefs before paint (no flash). -->
-    <script>
-        (function () {
-            try {
-                var t = localStorage.getItem('theme') || 'light';
-                document.documentElement.setAttribute('data-theme', t);
-                var a = localStorage.getItem('accent');
-                if (a) document.documentElement.style.setProperty('--accent', a);
-                var d = localStorage.getItem('density');
-                if (d) document.documentElement.setAttribute('data-density', d);
-                var w = localStorage.getItem('pagewidth');
-                if (w) document.documentElement.setAttribute('data-width', w);
-                var g = localStorage.getItem('ground') || 'oat';   /* oat is the default ground */
-                if (g !== 'ivory') document.documentElement.setAttribute('data-bg', g);
-            } catch (e) { }
-        })();
-    </script>
 
     <script type="text/javascript" src="static/js/marked.min.js"></script>
 
@@ -72,17 +53,12 @@
                 <a class="topnav-link" href="#publications">Publications</a>
                 <a class="topnav-link" href="#awards">Awards</a>
                 <a class="topnav-link" href="#talks">Talks</a>
-                <a class="topnav-link" href="#funding">Funding</a>
                 <a class="topnav-link" href="#service">Service</a>
                 <a class="topnav-link" href="#activities">Activities</a>
                 <a class="topnav-link" href="#books">Reading</a>
                 <a class="topnav-link" href="#collaborators">People</a>
-                <a class="topnav-link" href="#visitor">Visitors</a>
             </div>
             <div class="topbar-actions">
-                <a class="btn-cv" href="https://github.com/Arktis2022/CV-Mingxuan-Liu/blob/main/CV-Mingxuan%20Liu.pdf" target="_blank" rel="noopener">
-                    <span>CV</span><kbd>PDF</kbd>
-                </a>
                 <button class="icon-btn" id="menu-btn" aria-label="Menu"><span></span><span></span></button>
             </div>
         </div>

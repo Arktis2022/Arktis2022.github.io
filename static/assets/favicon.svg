@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" fill="#D97757"/>
-  <text x="32" y="44" text-anchor="middle"
-        font-family="Geist, Helvetica, Arial, sans-serif"
-        font-size="30" font-weight="700" fill="#FAF9F5"
-        letter-spacing="-1">ML</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Replica of openreview.net's favicon: pure-black page outline with a folded top-right corner -->
+  <path d="M2.5 1 H10 L13.5 4.5 V15 H2.5 Z" fill="none" stroke="#000" stroke-width="1.6"/>
+  <path d="M10 1 L13.5 4.5 H10 Z" fill="#000"/>
 </svg>
