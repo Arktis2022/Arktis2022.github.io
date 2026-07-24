@@ -317,7 +317,7 @@ kbd {
 .portrait {
     float: right;
     width: 150px;
-    margin: 4px 0 12px 20px;
+    margin: 4px 0 12px 2em;   /* ~three characters of air between text and photo */
 }
 
 .portrait img {
@@ -340,7 +340,8 @@ kbd {
     font-size: 1.08rem;
     line-height: 1.65;
     color: var(--tx);
-    max-width: var(--measure);
+    /* no max-width: the paragraph flows with the page width and wraps
+       around the floated portrait, whose margin sets the gap */
     text-align: justify;          /* word-processor style justification */
     hyphens: auto;
 }
