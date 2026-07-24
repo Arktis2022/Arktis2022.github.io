@@ -439,8 +439,6 @@ kbd {
     display: flex;
     flex-wrap: wrap;
     gap: 0 28px;
-    border-top: 1px solid var(--line);
-    padding-top: 12px;
 }
 
 .metric {
