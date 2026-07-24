@@ -26,13 +26,13 @@
     --tx-2: #3D3D3A;              /* slate-medium */
     --tx-3: #5E5D59;              /* slate-light */
 
-    /* Unified typography: Geist everywhere (weight + size carry hierarchy),
-       Geist Mono for dates / indices / code. --font-serif kept as an alias
-       (now Geist) so existing heading rules need no churn. */
-    --font-display: Geist, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    --font-serif: Geist, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    --font-sans: Geist, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    --font-mono: "Geist Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    /* Anthropic-style typography (verified from their CSS: Anthropic Sans for
+       display/UI, Anthropic Serif ≈ Tiempos for paragraph prose, quiet mono for
+       detail). Closest Google Fonts: Archivo / Source Serif 4 / IBM Plex Mono. */
+    --font-display: Archivo, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --font-serif: "Source Serif 4", Georgia, serif;      /* prose paragraphs only */
+    --font-sans: Archivo, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
 
     --wrap: 1010px;
     --measure: 68ch;             /* comfortable reading width for prose blocks */
@@ -336,8 +336,9 @@ kbd {
 }
 
 .lead .hero-lede {
-    font-size: 1.05rem;
-    line-height: 1.6;
+    font-family: var(--font-serif);   /* prose reads in serif, like anthropic.com paragraphs */
+    font-size: 1.08rem;
+    line-height: 1.65;
     color: var(--tx);
     max-width: var(--measure);
     text-align: justify;          /* word-processor style justification */
@@ -499,9 +500,10 @@ kbd {
 }
 
 .section-sub {
+    font-family: var(--font-serif);
     margin: 6px 0 0;
     color: var(--tx-2);
-    font-size: 0.92rem;
+    font-size: 0.95rem;
     font-style: italic;
     max-width: var(--measure);
 }
@@ -632,20 +634,20 @@ kbd {
 
 /* line 1 — title (the emphasis line) */
 .pub-title-line {
-    font-family: var(--font-display);
+    font-family: var(--font-serif);
     color: var(--tx);
-    font-size: 1.02rem;
+    font-size: 1.04rem;
     font-weight: 600;
-    letter-spacing: -0.01em;
-    line-height: 1.4;
+    line-height: 1.45;
     text-align: justify;
     hyphens: auto;
 }
 
 /* line 2 — authors */
 .pub-authors {
+    font-family: var(--font-serif);
     color: var(--tx-2);
-    font-size: 0.9rem;
+    font-size: 0.93rem;
     line-height: 1.5;
     margin-top: 2px;
     text-align: justify;
@@ -666,8 +668,9 @@ kbd {
 
 /* line 3 — venue, year, honor, links */
 .pub-venue-line {
+    font-family: var(--font-serif);
     margin-top: 4px;
-    font-size: 0.9rem;
+    font-size: 0.93rem;
     line-height: 1.5;
     color: var(--tx-2);
 }
@@ -763,8 +766,9 @@ kbd {
 }
 
 .feed-body {
+    font-family: var(--font-serif);
     color: var(--tx);
-    font-size: 0.96rem;
+    font-size: 0.98rem;
     line-height: 1.55;
     max-width: 80ch;
     text-align: justify;
@@ -818,8 +822,9 @@ kbd {
 }
 
 .award-title {
+    font-family: var(--font-serif);
     color: var(--tx-2);
-    font-size: 0.94rem;
+    font-size: 0.96rem;
     line-height: 1.45;
     text-align: justify;
     hyphens: auto;
@@ -872,8 +877,9 @@ kbd {
 
 .talk-row .ttl,
 .plain-row .ttl {
+    font-family: var(--font-serif);
     color: var(--tx);
-    font-size: 0.94rem;
+    font-size: 0.96rem;
     line-height: 1.45;
     text-align: justify;
     hyphens: auto;
@@ -933,8 +939,9 @@ kbd {
 }
 
 .svc-card li {
+    font-family: var(--font-serif);
     color: var(--tx-2);
-    font-size: 0.92rem;
+    font-size: 0.94rem;
     padding: 2px 0;
     text-align: justify;
     hyphens: auto;
@@ -962,8 +969,9 @@ kbd {
 }
 
 .book-row .bk {
+    font-family: var(--font-serif);
     color: var(--tx);
-    font-size: 0.94rem;
+    font-size: 0.96rem;
 }
 
 .book-row .bk em {
@@ -995,7 +1003,8 @@ kbd {
     border: 1px solid var(--line);
     border-radius: 0;
     padding: 10px 12px;
-    font-size: 0.8rem;
+    font-family: var(--font-serif);
+    font-size: 0.82rem;
     line-height: 1.45;
     color: var(--tx-3);   /* affiliation line (plain text after the name) */
     transition: border-color 0.12s ease, background 0.12s ease;
