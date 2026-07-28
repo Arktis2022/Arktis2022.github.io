@@ -18,3 +18,4 @@
 - [**Shenghao Zhu**](https://quanato607.github.io/)<br />School of Computer Science, Hangzhou Dianzi University
 - [**Yitong Zhang**](https://zhangyitong2021.github.io/)<br />National University of Singapore
 - [**Junwei Huang**](https://huang-jw22.github.io/)<br />School of Biomedical Engineering, Tsinghua University
+- [**Zihan Li**](https://scholar.google.com/citations?user=HUPJftsAAAAJ&hl=zh-CN&oi=sra)<br />School of Biomedical Engineering, Tsinghua University
