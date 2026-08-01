@@ -1,3 +1,7 @@
+**2026.08.01:** One paper accepted by [PIPPI 2026](https://pippiworkshop.github.io/).
+
+**2026.07.23:** One paper accepted by [RSNA 2026](https://www.rsna.org/annual-meeting).
+
 **2026.07.10:** Attended the Medical Image Computing Seminar (MICS) 2026. [Photo](https://ibb.co/TDr6hj4v)
 
 **2026.06.18:** One paper accepted by [ECCV 2026](https://eccv.ecva.net/).
