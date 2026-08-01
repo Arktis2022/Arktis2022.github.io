@@ -8,3 +8,4 @@
 - *2025.08.21 – 2025.09.11*, [**Before I Go to Sleep**](https://en.wikipedia.org/wiki/Before_I_Go_to_Sleep) by S.J.Watson. [Book](https://web.archive.org/web/20251221022706if_/https://img.erpweb.eu.org/imgs/2025/09/7413e3991d17211d.jpg)
 - *2025.11.25 – 2025.11.30*, [**The Man in the Mirror**](https://www.baen.com/Chapters/9781614752677/9781614752677___2.htm) by Geoffrey A. Landis. [Book](https://en.wikipedia.org/wiki/The_Men_and_the_Mirror)
 - *2025.12.01 – 2025.12.03*, [**The Builders**](https://share.google/C65U1oOUfDWEeIgil) by Daniel Polansky. [Book](https://web.archive.org/web/20251221021849if_/https://img.erpweb.eu.org/imgs/2025/12/81f79062555c9793.jpg)
+- *2026.07.01 – 2026.08.01*, [**Dogra Magra**](https://en.wikipedia.org/wiki/Dogra_Magra) by Yumeno Kyusaku. [Book](https://i.ibb.co/ZR4dBvgV/75d2b05c44ebf01445d199121aa492b5.jpg)
