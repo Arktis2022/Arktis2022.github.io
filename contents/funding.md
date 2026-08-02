@@ -1,2 +1,2 @@
-- *2024* **Beijing Natural Science Foundation Undergraduate “Qiyan” Program**
-- *2023* **National College Student Innovation and Entrepreneurship Project**
+- *2024* Beijing Natural Science Foundation Undergraduate “Qiyan” Program
+- *2023* National College Student Innovation and Entrepreneurship Project
