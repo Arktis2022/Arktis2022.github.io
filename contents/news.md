@@ -1,3 +1,5 @@
+**2026.08.08** One paper accepted by [BMVC 2026](https://bmvc2026.bmva.org/).
+
 **2026.08.01:** One paper accepted by [PIPPI 2026](https://pippiworkshop.github.io/).
 
 **2026.07.23:** One paper accepted by [RSNA 2026](https://www.rsna.org/annual-meeting).
