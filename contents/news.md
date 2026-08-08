@@ -1,4 +1,6 @@
-**2026.08.08** One paper accepted by [BMVC 2026](https://bmvc2026.bmva.org/).
+**2026.08.08:** Attended the [2026 International Conference on Smart Health and Intelligent Medicine: Innovation and Development](https://mm.sciconf.cn/cn/minisite/index/36331). [Photo](https://ibb.co/sdR7pcYs)
+
+**2026.08.08:** One paper accepted by [BMVC 2026](https://bmvc2026.bmva.org/).
 
 **2026.08.01:** One paper accepted by [PIPPI 2026](https://pippiworkshop.github.io/).
 
