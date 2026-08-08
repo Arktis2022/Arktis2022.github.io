@@ -1,3 +1,4 @@
+- *2026.08.08*, Attended the [2026 International Conference on Smart Health and Intelligent Medicine: Innovation and Development](https://mm.sciconf.cn/cn/minisite/index/36331). [Photo](https://ibb.co/sdR7pcYs)
 - *2026.07.10*, Attended the Medical Image Computing Seminar (MICS) 2026. [Photo](https://ibb.co/TDr6hj4v)
 - *2026.06.03*, Attended BME 2026 (China Biomedical Engineering Conference & Medical Innovation Summit) and received the [Excellent Paper Competition Second Prize](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing). [Photo](https://ibb.co/BHNNDLPD) [Photo](https://ibb.co/tww7fJS4)
 - *2026.03.04*, Attended the ISMRM Workshop on Unlocking the Potential of Prenatal MRI in Washington, D.C. [Photo](https://ibb.co/hFTYj3MW)
