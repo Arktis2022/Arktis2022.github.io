@@ -396,13 +396,19 @@ isbn="978-3-032-05997-0"
 }
 </div>
 <div id="bib_chestomdl" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
-@inproceedings{
-bai2025chestomdl,
-title={Chest-{OMDL}: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report},
-author={Xuguang Bai and Mingxuan Liu and Yifei Chen and Hongjia Yang and Qiyuan Tian},
-booktitle={Medical Imaging with Deep Learning},
-year={2025},
-url={https://openreview.net/forum?id=ns6nq592HX}
+@InProceedings{pmlr-v301-bai26a,
+title={Chest-OMDL: Organ-specific Multidisease Detection and Localization in Chest Computed Tomography using Weakly Supervised Deep Learning from Free-text Radiology Report},
+author={Bai, Xuguang and Liu, Mingxuan and Chen, Yifei and Yang, Hongjia and Tian, Qiyuan},
+booktitle={Proceedings of The 8th International Conference on Medical Imaging with Deep Learning},
+pages={59--81},
+year={2026},
+editor={Tasdizen, Tolga and Elhabian, Shireen and Summers, Ronald and Chen, Chen and Koch, Lisa and Zhuang, Yan},
+volume={301},
+series={Proceedings of Machine Learning Research},
+month={09--11 Jul},
+publisher={PMLR},
+pdf={https://raw.githubusercontent.com/mlresearch/v301/main/assets/bai26a/bai26a.pdf},
+url={https://proceedings.mlr.press/v301/bai26a.html}
 }
 </div>
 <div id="bib_fetalcsr" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
