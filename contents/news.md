@@ -94,7 +94,7 @@
 
 **2025.04.24:** Attended ICLR 2025 in Singapore. [Photo](https://ibb.co/TMZMKQhF)
 
-**2025.03.28:** Our paper on [fetal cortical surface reconstruction](https://openreview.net/forum?id=ns6nq592HX#discussion) was accepted by [MIDL 2025](https://2025.midl.io/).
+**2025.03.28:** Our paper on [Chest CT Foundation Model](https://openreview.net/forum?id=ns6nq592HX#discussion) was accepted by [MIDL 2025](https://2025.midl.io/).
 
 **2025.03.06:** Our paper on [fetal cortical surface reconstruction](https://openreview.net/forum?id=Ra0xioC3He) was accepted by [ICLR 2025 Workshop AI4CHL](https://pediamedai.com//ai4chl/) as an oral presentation.
 
