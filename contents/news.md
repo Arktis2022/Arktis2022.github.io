@@ -1,6 +1,6 @@
 **2026.08.16:** One paper accepted by [LISA 2026](https://www.synapse.org/Synapse:syn72118611/wiki/637239).
 
-**2026.08.08:** Attended the [2026 International Conference on Smart Health and Intelligent Medicine: Innovation and Development](https://mm.sciconf.cn/cn/minisite/index/36331). [Photo](https://ibb.co/sdR7pcYs)
+**2026.08.08:** Attended the [2026 International Conference on Smart Health and Intelligent Medicine: Innovation and Development](https://mm.sciconf.cn/cn/minisite/index/36331). [Photo](contents/image/ibb_sdR7pcYs.jpg)
 
 **2026.08.08:** One paper accepted by [BMVC 2026](https://bmvc2026.bmva.org/).
 
@@ -8,7 +8,7 @@
 
 **2026.07.23:** One paper accepted by [RSNA 2026](https://www.rsna.org/annual-meeting).
 
-**2026.07.10:** Attended the Medical Image Computing Seminar (MICS) 2026. [Photo](https://ibb.co/TDr6hj4v)
+**2026.07.10:** Attended the Medical Image Computing Seminar (MICS) 2026. [Photo](contents/image/ibb_TDr6hj4v.jpg)
 
 **2026.06.18:** One paper accepted by [ECCV 2026](https://eccv.ecva.net/).
 
@@ -16,7 +16,7 @@
 
 **2026.06.09:** One paper accepted by [Imaging Neuroscience](https://direct.mit.edu/imag).
 
-**2026.06.03:** Attended BME 2026 (China Biomedical Engineering Conference & Medical Innovation Summit) and received the [Excellent Paper Competition Second Prize](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing). [Photo](https://ibb.co/BHNNDLPD) [Photo](https://ibb.co/tww7fJS4)
+**2026.06.03:** Attended BME 2026 (China Biomedical Engineering Conference & Medical Innovation Summit) and received the [Excellent Paper Competition Second Prize](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing). [Photo](contents/image/ibb_BHNNDLPD.jpg) [Photo](contents/image/ibb_tww7fJS4.jpg)
 
 **2026.06.02:** One paper accepted by [NeuroImage](https://www.sciencedirect.com/journal/neuroimage).
 
@@ -28,17 +28,17 @@
 
 **2026.03.15:** One paper accepted by [ISBI 2026](https://biomedicalimaging.org/2026/).
 
-**2026.03.04:** Attended the ISMRM Workshop on Unlocking the Potential of Prenatal MRI in Washington, D.C. [Photo](https://ibb.co/hFTYj3MW)
+**2026.03.04:** Attended the ISMRM Workshop on Unlocking the Potential of Prenatal MRI in Washington, D.C. [Photo](contents/image/ibb_hFTYj3MW.jpg)
 
 **2026.02.13:** Five abstracts accepted by [OHBM 2026](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4317).
 
 **2026.02.09:** [OR-KAN](https://github.com/birthlab/OR-KAN) accepted by [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis).
 
-**2026.02.04:** Seven abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/); received the [Educational Stipend Award](https://ibb.co/q37WpDdg).
+**2026.02.04:** Seven abstracts accepted by [ISMRM 2026](https://www.ismrm.org/26m/); received the [Educational Stipend Award](contents/image/ibb_q37WpDdg.png).
 
-**2026.01.27:** Two abstracts accepted by the [ISMRM Workshop on Prenatal MRI](https://www.ismrm.org/workshops/2026/PrenatalMRI/reg.htm); received the [Trainee Stipend Award](https://ibb.co/C533cPj3).
+**2026.01.27:** Two abstracts accepted by the [ISMRM Workshop on Prenatal MRI](https://www.ismrm.org/workshops/2026/PrenatalMRI/reg.htm); received the [Trainee Stipend Award](contents/image/ibb_C533cPj3.png).
 
-**2026.01.09:** Attended the 2026 Annual Retreat of the Center for Biomedical Imaging Research (CBIR) and won [2nd place in the Oral Session on AI for Image Reconstruction and Analysis](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/CBIR2026.png). [Photo](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/CBIR2026_photo.jpg)
+**2026.01.09:** Attended the 2026 Annual Retreat of the Center for Biomedical Imaging Research (CBIR) and won [2nd place in the Oral Session on AI for Image Reconstruction and Analysis](contents/image/CBIR2026.png). [Photo](contents/image/CBIR2026_photo.jpg)
 
 **2026.01.09:** One [paper](https://arxiv.org/abs/2506.09695) accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control).
 
@@ -46,19 +46,19 @@
 
 **2025.12.06:** One [paper](https://doi.org/10.1101/2025.06.04.657810) accepted by [Imaging Neuroscience](https://direct.mit.edu/imag).
 
-**2025.11.22:** Attended the 2nd Graduate Academic Forum (Schools of Biomedical Engineering & Clinical Medicine, Tsinghua University) and received the [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing). [Photo](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/bolun_2025_11.jpg) [Photo](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/bolun_2025_11_2.jpg)
+**2025.11.22:** Attended the 2nd Graduate Academic Forum (Schools of Biomedical Engineering & Clinical Medicine, Tsinghua University) and received the [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing). [Photo](contents/image/bolun_2025_11.jpg) [Photo](contents/image/bolun_2025_11_2.jpg)
 
 **2025.11.20:** One abstract accepted by [APAO 2026](https://2026.apaophth.org/).
 
-**2025.11.15:** Attended the Chinese Congress of Radiology (CCR) 2025 in Changsha. [Photo](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/contents/image/CCR.jpg)
+**2025.11.15:** Attended the Chinese Congress of Radiology (CCR) 2025 in Changsha. [Photo](contents/image/CCR.jpg)
 
 **2025.11.08:** Attended Tsinghua Academic Path Series #724 — a sharing session with 2025 National Scholarship awardees from the School of Biomedical Engineering. [Link](https://mp.weixin.qq.com/s/Nqc9D1m3tXEAAhT0WqoRqA)
 
-**2025.11.04:** Attended the symposium on AI-Driven Magnetic Resonance Technology (CASFIS) in Hong Kong. [Photo](https://web.archive.org/web/20251221022743/https://img.erpweb.eu.org/imgs/2025/11/f9e94181835f1b08.jpg) [Photo](https://web.archive.org/web/20251221022612/https://img.erpweb.eu.org/imgs/2025/11/5e1287d760fafd4c.jpg)
+**2025.11.04:** Attended the symposium on AI-Driven Magnetic Resonance Technology (CASFIS) in Hong Kong. [Photo](contents/image/casfis_2025_1.jpg) [Photo](contents/image/casfis_2025_2.jpg)
 
-**2025.10.24:** Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs), received the [Second Prize of Oral Presentation](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing), and was featured by Tsinghua Medicine. [Photo](https://ibb.co/jPr3C0Ft) [Link](https://bme.tsinghua.edu.cn/info/1010/1530.htm) [Report](https://x.com/MedTsinghua/status/1986685733630087315)
+**2025.10.24:** Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs), received the [Second Prize of Oral Presentation](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing), and was featured by Tsinghua Medicine. [Photo](contents/image/ibb_jPr3C0Ft.jpg) [Link](https://bme.tsinghua.edu.cn/info/1010/1530.htm) [Report](https://x.com/MedTsinghua/status/1986685733630087315)
 
-**2025.10.22:** Presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](https://ibb.co/Gvj2HCJ6)
+**2025.10.22:** Presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](contents/image/ibb_Gvj2HCJ6.jpg)
 
 **2025.10.11:** Attended [ISICDM 2025](https://www.imagecomputing.org/isicdm2025/#/) in Beijing. [Photo](https://ibb.co/BV5Lf644)
 
@@ -66,23 +66,23 @@
 
 **2025.10.05:** Two papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/).
 
-**2025.09.27:** Attended MICCAI 2025 in Daejeon, South Korea — won 2nd place in the [VLM3D Challenge](https://zenodo.org/records/15052708) and 1st place in the [autoPET IV Challenge](https://www.autopet.org/autopetiv.html), delivered an oral presentation at the [PIPPI Workshop](https://pippiworkshop.github.io/), and was featured by Tsinghua University. [Photo](https://pippiworkshop.github.io/images/SK_group.jpg) [Photo](https://drive.google.com/file/d/1A1G9QYDK2-QOE9CVkQEUfxiugFdHOoDg/view?usp=sharing) [Photo](https://ibb.co/XxzjWdNw) [Photo](https://ibb.co/bthJn0R) [Report X](https://x.com/Tsinghua_Uni/status/1987188546470367513?s=20) [Report Facebook](https://www.facebook.com/Tsinghua/photos/congrats-to-our-nextgen-from-the-school-of-biomedical-engineering-for-winning-th/1160940282903631/)
+**2025.09.27:** Attended MICCAI 2025 in Daejeon, South Korea — won 2nd place in the [VLM3D Challenge](https://zenodo.org/records/15052708) and 1st place in the [autoPET IV Challenge](https://www.autopet.org/autopetiv.html), delivered an oral presentation at the [PIPPI Workshop](https://pippiworkshop.github.io/), and was featured by Tsinghua University. [Photo](contents/image/pippi_2025_group.jpg) [Photo](https://drive.google.com/file/d/1A1G9QYDK2-QOE9CVkQEUfxiugFdHOoDg/view?usp=sharing) [Photo](contents/image/ibb_XxzjWdNw.png) [Photo](contents/image/ibb_bthJn0R.jpg) [Report X](https://x.com/Tsinghua_Uni/status/1987188546470367513?s=20) [Report Facebook](https://www.facebook.com/Tsinghua/photos/congrats-to-our-nextgen-from-the-school-of-biomedical-engineering-for-winning-th/1160940282903631/)
 
 **2025.09.07:** Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
 
-**2025.08.08:** Google Scholar citations passed 100. [Link](https://ibb.co/rR2JTMG2)
+**2025.08.08:** Google Scholar citations passed 100. [Link](contents/image/ibb_rR2JTMG2.png)
 
 **2025.07.27:** Birth Lab's participation in ISMRM 2025 was featured by Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1949137797907915107) [Facebook](https://www.facebook.com/Tsinghua/posts/pfbid02FXwp87qfKYeHorVF1XKWCn9GqNQo9bKGsKbMqYifKzsstA9NdytEapmAhHQxJGJel)
 
 **2025.07.23:** One [abstract](https://github.com/Arktis2022/Arktis2022.github.io/blob/main/_data/RSNA2025_HeYuhang_Final.pdf) accepted by [RSNA 2025](https://www.rsna.org/annual-meeting).
 
-**2025.07.22:** Our [Chest CT foundation model](https://openreview.net/forum?id=ns6nq592HX#discussion) won [1st prize](https://ibb.co/cSWpXg3d) at the 10th National Biomedical Engineering Innovation Design Competition (Top 5%).
+**2025.07.22:** Our [Chest CT foundation model](https://openreview.net/forum?id=ns6nq592HX#discussion) won [1st prize](contents/image/ibb_cSWpXg3d.jpg) at the 10th National Biomedical Engineering Innovation Design Competition (Top 5%).
 
 **2025.07.20:** Attended [MICS 2025](http://mics2025.com/) in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
 
 **2025.07.17:** Our work on [structured information extraction](https://arktis2022.github.io/) was accepted by [PIPPI 2025](https://pippiworkshop.github.io/).
 
-**2025.07.12:** Attended MIDL 2025 in Salt Lake City. [Photo](https://ibb.co/NdcGBw3b)
+**2025.07.12:** Attended MIDL 2025 in Salt Lake City. [Photo](contents/image/ibb_NdcGBw3b.jpg)
 
 **2025.06.27:** Attended OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing)
 
@@ -94,7 +94,7 @@
 
 **2025.05.02:** Several short papers accepted by [MIDL 2025](https://2025.midl.io/).
 
-**2025.04.24:** Attended ICLR 2025 in Singapore. [Photo](https://ibb.co/TMZMKQhF)
+**2025.04.24:** Attended ICLR 2025 in Singapore. [Photo](contents/image/ibb_TMZMKQhF.jpg)
 
 **2025.03.28:** Our paper on [Chest CT Foundation Model](https://openreview.net/forum?id=ns6nq592HX#discussion) was accepted by [MIDL 2025](https://2025.midl.io/).
 
@@ -110,9 +110,9 @@
 
 **2024.12.25:** Several papers accepted by the [ISMRM 2025 Workshop on 40 Years of Diffusion](https://www.ismrm.org/workshops/2025/Diffusion40/).
 
-**2024.11.24:** Attended BMVC 2024 in Glasgow, UK. [Photo](https://ibb.co/p6M5rGX1)
+**2024.11.24:** Attended BMVC 2024 in Glasgow, UK. [Photo](contents/image/ibb_p6M5rGX1.jpg)
 
-**2024.09.22:** Attended the 2024 Annual Meeting of the Neuroimaging Committee of the Chinese Psychological Society in Nanjing. [Photo](https://ibb.co/zHnxJSDY)
+**2024.09.22:** Attended the 2024 Annual Meeting of the Neuroimaging Committee of the Chinese Psychological Society in Nanjing. [Photo](contents/image/ibb_zHnxJSDY.jpg)
 
 **2024.07.25:** Won [1st prize](https://drive.google.com/file/d/1VYlwtxd4h-leijUuAW2cbnBj9PjgIWrQ/view?usp=sharing) at the 9th National Biomedical Engineering Innovation Design Competition (Top 5%).
 
@@ -124,11 +124,11 @@
 
 **2024.07.02:** Named **Outstanding Graduate of Beijing** and **Outstanding Graduate of Tsinghua University** (Top 2%).
 
-**2024.05.10:** Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](https://ibb.co/21yhPmJJ)
+**2024.05.10:** Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](contents/image/ibb_21yhPmJJ.jpg)
 
-**2024.05.07:** Attended ISMRM 2024 in Singapore and gave a [presentation](https://ibb.co/1Gv9GvR4).
+**2024.05.07:** Attended ISMRM 2024 in Singapore and gave a [presentation](contents/image/ibb_1Gv9GvR4.jpg).
 
-**2024.04.20:** Received the 2024 ISMRM Magna Cum Laude Merit [Award](https://ibb.co/gMPvQ0wW) (Top 15%).
+**2024.04.20:** Received the 2024 ISMRM Magna Cum Laude Merit [Award](contents/image/ibb_gMPvQ0wW.jpg) (Top 15%).
 
 **2024.04.18:** Our paper on [unsupervised medical image anomaly detection](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24330880.v1) was accepted by [IEEE TIM](https://ieee-ims.org/publication/ieee-tim).
 

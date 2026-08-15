@@ -4,4 +4,4 @@ His current work centers on **fetal and perinatal brain MRI** — one of the mos
 
 **Research interests:** AI for Neuroscience · Trustworthy Medical Foundation Models & Agentic AI · Annotation-Efficient Adaptation
 
-[Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=en) / [Github](https://github.com/Arktis2022) / [Wechat](https://ibb.co/gMGVMJnN)
+[Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=en) / [Github](https://github.com/Arktis2022) / [Wechat](contents/image/ibb_gMGVMJnN.jpg)
