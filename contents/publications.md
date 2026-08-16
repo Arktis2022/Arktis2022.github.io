@@ -24,6 +24,7 @@
 
 #### CONFERENCE PAPERS  <!--SHOW-->
 
+- Quality Assessment, Enhancement, and Subcortical Segmentation of Ultra-Low-Field Pediatric Brain MRI: The LISA 2026 Challenge ||| . Hao#, P. Sui#, M. Liu, X. Zhao, and Q. Tian* ||| MICCAI Workshop on Low-field Pediatric Brain Magnetic Resonance Image Segmentation and Quality Assurance ||| 2026 ||| Poster
 - FetAngle: Toward Generalizable Automated Fetal Brain Angle Biometry via Test-Time Adaptation ||| Y. Luo#, Y. Li#, M. Liu#, Y. Liao, K. Anmahapong, H. Yang, Y. Chen, X. Hu, H. Qu, and Q. Tian* ||| British Machine Vision Conference ||| 2026 ||| Poster ||| [Code](https://github.com/birthlab/FetAngle) ||| 
 - XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks ||| H. Li#, M. Liu#, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni ||| European Conference on Computer Vision ||| 2026 ||| Poster, ISMRM 2026 Annual Meeting Planning Committee Selection Award ||| [Code](https://github.com/birthlab/XSurfer) ||| 
 - Maximizing Domain Generalization in Automated Fetal Brain Biometry ||| Y. Li#, M. Liu#, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 ||| Poster, ISMRM 2026 Summa Cum Laude Merit Award ||| [Code](https://github.com/birthlab/BioTTA) ||| 
