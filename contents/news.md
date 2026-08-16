@@ -60,7 +60,7 @@
 
 **2025.10.22:** Presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](contents/image/ibb_Gvj2HCJ6.jpg)
 
-**2025.10.11:** Attended [ISICDM 2025](https://www.imagecomputing.org/isicdm2025/#/) in Beijing. [Photo](https://ibb.co/BV5Lf644)
+**2025.10.11:** Attended [ISICDM 2025](https://www.imagecomputing.org/isicdm2025/#/) in Beijing. [Photo](contents/image/ibb_BV5Lf644.png)
 
 **2025.10.10:** Two abstracts accepted by the [BEIHAI Summit 2025](https://www.medcircle.cn/meeting/index/2025bs).
 
@@ -90,7 +90,7 @@
 
 **2025.05.19:** Our [Chest-OMDL](https://openreview.net/forum?id=ns6nq592HX#discussion) project was featured by Tsinghua University. [X](https://x.com/Tsinghua_Uni/status/1916809961021100041) [Facebook](https://www.facebook.com/share/p/1BmmJHNuxG)
 
-**2025.05.14:** Attended ISMRM 2025 in Honolulu. [Photo](https://ibb.co/v4rby7Pn)
+**2025.05.14:** Attended ISMRM 2025 in Honolulu. [Photo](contents/image/ibb_v4rby7Pn.jpg)
 
 **2025.05.02:** Several short papers accepted by [MIDL 2025](https://2025.midl.io/).
 
