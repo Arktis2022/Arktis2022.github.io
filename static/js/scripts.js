@@ -52,8 +52,11 @@ window.addEventListener('DOMContentLoaded', () => {
     );
 
     Promise.allSettled(jobs).then(() => {
-        // external links open in new tab (skip ones we already built as buttons)
-        document.querySelectorAll('.main-body a[href^="http"]').forEach(a => {
+        // external links + local image/asset links open in a new tab
+        // (skip in-page "#" anchors like the topnav / back-to-top)
+        document.querySelectorAll('.main-body a[href]').forEach(a => {
+            const href = a.getAttribute('href') || '';
+            if (href.startsWith('#')) return;
             a.setAttribute('target', '_blank');
             a.setAttribute('rel', 'noopener noreferrer');
         });
