@@ -12,3 +12,4 @@
 - *2026.07.01 – 2026.08.13*, [**The Wall**](https://en.wikipedia.org/wiki/The_Wall_(Haushofer_novel)) by Marlen
   Haushofer. [Book](contents/image/ibb_tMgpSYMX.png)
 - *2026.08.13 - 2026.08.22*, [**Some of Your Blood**](https://en.wikipedia.org/wiki/Some_of_Your_Blood) by Theodore Sturgeon. [Book](contents/image/s33712191.jpg)
+- *2026.08.22 - 2026.08.24*, [**Solaris**](https://en.wikipedia.org/wiki/Solaris_(novel)) by Stanisław Lem. [Book](https://img1.od-cdn.com/ImageType-100/8010-1/%7BA70F4E1C-1EC2-4A7F-B580-AECEA9708ED9%7DImg100.jpg)
