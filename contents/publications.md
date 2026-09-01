@@ -21,7 +21,7 @@
 - A multimodal foundation model for emergency head CT interpretation ||| J. Zheng#, Y. Chen#, B. Wu#, Y. Wang#, M. Liu#, L. Li, S. Jiang, W. Chen, L. Xu, Y. Wu, C. Liu, L. Guo, Z. Li, H. Yang, F. Qin, J. Liu, H. Qu, Q. Liao, G. Zhao, K. Pan, J. Guo, L. Chen, Y. Zhou, H. Sun*, and Q. Tian* ||| Science Bulletin |||  ||| Major Revision |||  |||  
 - Annotation-free deep learning for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI ||| M. Liu#, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian* ||| Medical Image Analysis |||  ||| Under Review |||  ||| 
 - Anatomy-preserving enhancement of fetal brain MRI without clean references ||| Y. Hao#, M. Liu#, Y. Luo#, Y. Li#, H. Yang, X. Hu, J. Zhu, K. Anmahapong, Z. Li, Y. Chen, N. Sun, R. Hu, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, Y. Liao, H. Qu*, and Q. Tian* ||| Communications Biology |||  ||| Under Review |||  ||| 
-- Grade-dependent alterations in prenatal cortical development among fetuses with germinal matrix-intraventricular hemorrhage ||| M. Liu#, H. Li#, J. Zhu#, Y. Liao#, H. Yang#, J. Zheng, Y. Hao, Z. Li, Z. Wang, Y. Li, X. Hu, G. Ning, X. Zhang, H. Qu*, and Q. Tian* ||| Annals of Neurology |||  ||| Under Review |||  ||| 
+- Grade-dependent alterations in prenatal cortical development among fetuses with germinal matrix-intraventricular hemorrhage ||| M. Liu#, H. Li#, J. Zhu#, Y. Liao#, H. Yang#, J. Zheng, Y. Hao, Z. Li, Z. Wang, Y. Li, X. Hu, G. Ning, X. Zhang, H. Qu*, and Q. Tian* ||| Science Bulletin Brain |||  ||| Submitted |||  ||| 
 
 #### CONFERENCE PAPERS  <!--SHOW-->
 
