@@ -1,3 +1,5 @@
+**2026.09.02:** One paper has been nominated for the MICCAI 2026 Best Paper Award and the Young Scientist Award (Top 0.5%).
+
 **2026.08.16:** One paper accepted by [LISA 2026](https://www.synapse.org/Synapse:syn72118611/wiki/637239).
 
 **2026.08.08:** Attended the [2026 International Conference on Smart Health and Intelligent Medicine: Innovation and Development](https://mm.sciconf.cn/cn/minisite/index/36331). [Photo](contents/image/ibb_sdR7pcYs.jpg)
