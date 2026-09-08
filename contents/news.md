@@ -1,3 +1,5 @@
+**2026.09.08:** One paper accepted by [NeuroImage](https://www.sciencedirect.com/journal/neuroimage).
+
 **2026.09.02:** One paper has been nominated for the [MICCAI 2026 Best Paper Award and the Young Scientist Award (Top 0.5%)](https://miccai.org/conference-awards/best-paper-award-and-young-scientist-award/).
 
 **2026.08.16:** One paper accepted by [LISA 2026](https://www.synapse.org/Synapse:syn72118611/wiki/637239).
