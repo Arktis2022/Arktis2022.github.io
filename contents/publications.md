@@ -1,7 +1,7 @@
 
 #### JOURNAL PAPERS  <!--SHOW-->
 
-- Improving the accessibility of deep learning-based denoising for accelerated brain MRI using self-supervised learning and/or transfer learning ||| Z. Li#, Z. Li#, M. Liu#, W.-C. Lo, F. Jia, Y. Luo, B. Bilgic, J. R. Polimeni, H. Qu*, Q. Tian*, and S. Y. Huang ||| NeuroImage |||  ||| Accept |||  |||
+- Improving the accessibility of deep learning-based denoising for accelerated brain MRI using self-supervised learning and/or transfer learning ||| Z. Li#, Z. Li#, M. Liu#, W.-C. Lo, F. Jia, Y. Luo, H. Lee, B. Bilgic, J. R. Polimeni, H. Qu*, Q. Tian*, and S. Y. Huang ||| NeuroImage |||  ||| [Paper](https://www.sciencedirect.com/science/article/pii/S1053811926005252) [Code](https://github.com/birthlab/Self2Self-AM) |||  ||| bib_S2SAM
 - PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI ||| Y. Hao#, M. Liu#, J. Zhu#, H. Yang, H. Li, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, Y. Liao, H. Qu*, and Q. Tian* ||| Imaging Neuroscience ||| 2026 |||  ||| [Paper](https://doi.org/10.1162/IMAG.a.1293) [Code](https://github.com/birthlab/PANDA) ||| bib_imag2026_2
 - MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation ||| J. Zong#, Y. Chen#, M. Liu#, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin* ||| Pattern Recognition ||| 2026 |||  ||| [Paper](https://www.sciencedirect.com/science/article/pii/S0031320326011088) [Code](https://github.com/JustlfC03/MUIT-TTA) ||| bib_pr2026
 - MicroKAN: Mapping Human Brain Microstructure Using Diffusion MRI and Adaptive Nonlinear Modeling ||| Y. Chen#, Z. Li#, Y. Wang, Y. Li, J. Zheng, H. Yang, M. Liu, T. Cukur, Q. Fan, Z. Li, J. Lu, and Q. Tian* ||| NeuroImage ||| 2026 |||  ||| [Paper](https://www.sciencedirect.com/science/article/pii/S1053811926003472) [Code](https://github.com/JustlfC03/MicroKAN) ||| bib_nimg2026
@@ -529,5 +529,18 @@ url={https://openreview.net/forum?id=iLBipDelQu}
    year={2025},
    url={https://openreview.net/forum?id=fn8aDbnylG}
    }
+</div>
+<div id="bib_S2SAM" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+   @article{LI2026122210,
+     title = {Improving the accessibility of deep learning-based denoising for accelerated brain MRI using self-supervised learning and/or transfer learning},
+     journal = {NeuroImage},
+     pages = {122210},
+     year = {2026},
+     issn = {1053-8119},
+     doi = {https://doi.org/10.1016/j.neuroimage.2026.122210},
+     url = {https://www.sciencedirect.com/science/article/pii/S1053811926005252},
+     author = {Zihan Li and Ziyu Li and Mingxuan Liu and Wei-Ching Lo and Fenglin Jia and Yitong Luo and Hong-Hsi Lee and Berkin Bilgic and Jonathan R. Polimeni and Haibo Qu and Qiyuan Tian and Susie Y. Huang},
+     keywords = {T-weighted MPRAGE, Wave-CAIPI, convolutional neural network, brain morphometry, brain segmentation}
+     }
    </div>
 </div>
