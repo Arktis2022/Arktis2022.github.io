@@ -1,4 +1,4 @@
-**2026.09.15:** One paper accept by [Advanced Intelligent Discovery](https://advanced.onlinelibrary.wiley.com/journal/29439981).
+**2026.09.15:** One paper accepted by [Advanced Intelligent Discovery](https://advanced.onlinelibrary.wiley.com/journal/29439981).
 
 **2026.09.11:** Attended the European Conference on Computer Vision (ECCV 2026) in Malmö, Sweden. [Photo](contents/image/eccv.jpg)
 
