@@ -1,3 +1,4 @@
+- *2026.09.11*, Attended the European Conference on Computer Vision (ECCV 2026) in Malmö, Sweden. [Photo](contents/image/eccv.jpg)
 - *2026.08.08*, Attended the [2026 International Conference on Smart Health and Intelligent Medicine: Innovation and Development](https://mm.sciconf.cn/cn/minisite/index/36331). [Photo](contents/image/ibb_sdR7pcYs.jpg)
 - *2026.07.10*, Attended the Medical Image Computing Seminar (MICS) 2026. [Photo](contents/image/ibb_TDr6hj4v.jpg)
 - *2026.06.03*, Attended BME 2026 (China Biomedical Engineering Conference & Medical Innovation Summit) and received the [Excellent Paper Competition Second Prize](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing). [Photo](contents/image/ibb_BHNNDLPD.jpg) [Photo](contents/image/ibb_tww7fJS4.jpg)
