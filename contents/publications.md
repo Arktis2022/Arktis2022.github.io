@@ -27,7 +27,7 @@
 
 - Quality Assessment, Enhancement, and Subcortical Segmentation of Ultra-Low-Field Pediatric Brain MRI: The LISA 2026 Challenge ||| Y. Hao#, P. Sui#, M. Liu, X. Zhao, and Q. Tian* ||| MICCAI Workshop on Low-field Pediatric Brain Magnetic Resonance Image Segmentation and Quality Assurance ||| 2026 ||| Poster
 - FetAngle: Toward Generalizable Automated Fetal Brain Angle Biometry via Test-Time Adaptation ||| Y. Luo#, Y. Li#, M. Liu#, Y. Liao, K. Anmahapong, H. Yang, Y. Chen, X. Hu, H. Qu, and Q. Tian* ||| British Machine Vision Conference ||| 2026 ||| Poster ||| [Code](https://github.com/birthlab/FetAngle) ||| 
-- XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks ||| H. Li#, M. Liu#, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni ||| European Conference on Computer Vision ||| 2026 ||| Poster, ISMRM 2026 Annual Meeting Planning Committee Selection Award ||| [Code](https://github.com/birthlab/XSurfer) ||| 
+- XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks ||| H. Li#, M. Liu#, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni ||| European Conference on Computer Vision ||| 2026 ||| Poster, ISMRM 2026 Annual Meeting Planning Committee Selection Award ||| [Paper](https://link.springer.com/chapter/10.1007/978-3-032-37092-1_27) [Code](https://github.com/birthlab/XSurfer) ||| bib_eccv2026
 - Maximizing Domain Generalization in Automated Fetal Brain Biometry ||| Y. Li#, M. Liu#, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 ||| Poster, ISMRM 2026 Summa Cum Laude Merit Award ||| [Code](https://github.com/birthlab/BioTTA) ||| 
 - ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora ||| X. Zhang#, M. Liu#, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 |||  ||| [Paper](https://www.medrxiv.org/content/10.64898/2026.07.11.26357801v1.full.pdf+html) [Code](https://github.com/birthlab/ASTAR) ||| 
 - FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis ||| X. Hu#, J. Huang#, M. Liu#, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 ||| Early Accept, Top 9% ||| [Paper](https://arxiv.org/abs/2603.09733) [Code](https://github.com/birthlab/FetalAgents) ||| 
@@ -529,6 +529,28 @@ url={https://openreview.net/forum?id=iLBipDelQu}
    year={2025},
    url={https://openreview.net/forum?id=fn8aDbnylG}
    }
+</div>
+<div id="bib_eccv2026" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+   @InProceedings{10.1007/978-3-032-37092-1_27,
+author="Li, Haoxiang
+and Liu, Mingxuan
+and Varadarajan, Divya
+and Hu, Zhangxuan
+and Tian, Qiyuan
+and Polimeni, Jonathan",
+editor="Favaro, Paolo
+and Kukelova, Zuzana
+and Maki, Atsuto
+and Rohrbach, Anna
+and Schindler, Konrad
+and Tombari, Federico",
+title="XSurfer: Reconstructing Surface Meshes of Cerebral and Cerebellar Cortex from Diverse MRI Data Using Untrained Neural Networks",
+booktitle="Computer Vision -- ECCV 2026",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="478--495"
+}
 </div>
 <div id="bib_S2SAM" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
    @article{LI2026122210,
