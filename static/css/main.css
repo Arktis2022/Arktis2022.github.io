@@ -448,7 +448,8 @@ kbd {
     z-index: 2;
 }
 
-.pub-group-title:first-child {
+.pub-group-title:first-child,
+.pub-group-title.pub-group-first {
     margin-top: 4px;
 }
 

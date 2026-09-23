@@ -323,11 +323,15 @@ function applyPubView(filter) {
         r.classList.toggle('hidden', !show);
     });
 
-    // hide group titles with no visible rows
+    // hide group titles with no visible rows; flag the first visible one
+    // so it hugs the top of the box (DOM :first-child may be hidden by a filter)
+    let firstShown = true;
     titles.forEach(t => {
         const cat = t.dataset.cat;
         const any = rows.some(r => r.dataset.cat === cat && !r.classList.contains('hidden'));
         t.style.display = any ? '' : 'none';
+        if (any && firstShown) { t.classList.add('pub-group-first'); firstShown = false; }
+        else { t.classList.remove('pub-group-first'); }
     });
 }
 
