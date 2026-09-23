@@ -336,6 +336,7 @@ function catOf(text) {
     if (t.includes('JOURNAL')) return 'journal';
     if (t.includes('CONFERENCE PAPER') || t.includes('PROCEEDING')) return 'conference';
     if (t.includes('ABSTRACT')) return 'abstract';
+    if (t.includes('PATENT')) return 'patent';
     if (t.includes('REVIEW') || t.includes('MANUSCRIPT')) return 'review';
     return 'other';
 }
@@ -698,7 +699,7 @@ function buildBooks() {
 /* ---------------- Stats ---------------- */
 function countStats() {
     const rows = Array.from(document.querySelectorAll('.pub-row'))
-        .filter(r => r.dataset.cat !== 'review');
+        .filter(r => r.dataset.cat !== 'review' && r.dataset.cat !== 'patent');
     const pubs = rows.length;
     const first = rows.filter(r => r.dataset.first === '1').length;
     const awards = document.querySelectorAll('#awards-md .award-row').length;

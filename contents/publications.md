@@ -103,6 +103,14 @@
 - FetalSurfer: Automated Fetal Cortical Surface Reconstruction ||| H. Li, M. Liu, J. Zheng, H. Yang, Z. Li, and Q. Tian* ||| ISMRM & ISMRT Annual Meeting & Exhibition ||| 2024 ||| Digital Poster ||| [Paper](https://archive.ismrm.org/2024/3635.html) ||| 
 - Label-free Image Quality Assessment of Fetal Brain MRI with Unsupervised Deep Learning ||| M. Liu, H. Li, Y. Liao, H. Qu, and Q. Tian* ||| Singapore AI Health Summit ||| 2023 ||| Poster Competition 3rd Place Winner, Top 3% ||| [Paper](https://hal.science/hal-04961169/) ||| 
 
+#### PATENTS  <!--SHOW-->
+
+- Microstructure model optimization methods, devices, and electronic equipment based on diffusion priors ||| Q. Tian, Z. Li, J. Zheng, H. Yang, M. Liu, and H. Liao ||| CN120471881B ||| 2026 |||  ||| [Google Patents](https://patents.google.com/patent/CN120471881B/en?inventor=%E5%88%98%E9%93%AD%E8%BD%A9&assignee=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6) ||| 
+- Method, device and equipment for constructing large image-text model of breast computer tomography ||| Q. Tian, X. Bai, and M. Liu ||| CN120932853A ||| 2025 |||  ||| [Google Patents](https://patents.google.com/patent/CN120932853A/en?inventor=%E5%88%98%E9%93%AD%E8%BD%A9&assignee=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6) ||| 
+- Method, device and equipment for three-dimensional reconstruction of single-thickness magnetic resonance scan of fetal brain ||| Q. Tian, H. Yang, H. Qu, M. Liu, H. Li, Y. Liao, J. Zhu, and F. Jia ||| CN120563720A ||| 2025 |||  ||| [Google Patents](https://patents.google.com/patent/CN120563720A/en?inventor=%E5%88%98%E9%93%AD%E8%BD%A9&assignee=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6) ||| 
+- Unsupervised fetal cerebral hemorrhage detection and focus segmentation method and device and electronic equipment ||| Q. Tian, M. Liu, H. Qu, Y. Liao, J. Zhu, H. Li, H. Yang, and X. Yuan ||| CN120495664A ||| 2025 |||  ||| [Google Patents](https://patents.google.com/patent/CN120495664A/en?inventor=%E5%88%98%E9%93%AD%E8%BD%A9&assignee=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6) ||| 
+- Diffusion magnetic resonance imaging microstructure parameter estimation method, device and electronic equipment ||| Q. Tian, Y. Chen, Z. Li, J. Zheng, H. Yang, and M. Liu ||| CN120471882A ||| 2025 |||  ||| [Google Patents](https://patents.google.com/patent/CN120471882A/en?inventor=%E5%88%98%E9%93%AD%E8%BD%A9&assignee=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6) ||| 
+
 #### Manuscripts Under Review  <!--HIDDEN-->
 
 - Preoperative CTA-based deep learning model for predicting AKI after TEVAR in type B aortic dissection ||| M. Liu#, X. Bai#, M. Zhang, Y. Chen, H. Yang, Z. Wang, Y. Luo, Y. Zhou, X. Han*, and Q. Tian ||| Radiology: Artificial Intelligence |||  ||| Under Review |||  ||| 
