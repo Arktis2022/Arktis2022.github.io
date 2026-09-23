@@ -464,7 +464,8 @@ function buildFilters(groups) {
         { key: 'all', label: 'All' },
         { key: 'journal', label: 'Journal' },
         { key: 'conference', label: 'Conference' },
-        { key: 'abstract', label: 'Abstracts' }
+        { key: 'abstract', label: 'Abstracts' },
+        { key: 'patent', label: 'Patents' }
     ];
     const rows = () => Array.from(document.querySelectorAll('.pub-row'));
     const titles = () => Array.from(document.querySelectorAll('.pub-group-title'));
