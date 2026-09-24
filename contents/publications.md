@@ -25,6 +25,8 @@
 
 #### CONFERENCE PAPERS  <!--SHOW-->
 
+- Simple Baselines for Fetal Brain Unsupervised Anomaly Detection ||| H. Yang#, M. Liu#, Y. Hao#, X. Hu, Y. Li, J. Zhu, J. Liu, X. Bai, Y. Chen, J. Huang, Z. Li, Y. Liao, Z. Li, H. Qu, and Q. Tian* ||| IEEE International Conference on Bioinformatics and Biomedicine ||| 2026 ||| Oral
+- Residual-Offset Diffusion for Structure-Consistent Low-Dose PET Reconstruction ||| Y. Wang#, E. Bao#, Y. Chen#, S. Tang, B. Wu, G. Zhou, M. Liu, F. Qin*, L. Xiang, J. He, and Q. Tian* ||| IEEE International Conference on Bioinformatics and Biomedicine ||| 2026 ||| Oral
 - Quality Assessment, Enhancement, and Subcortical Segmentation of Ultra-Low-Field Pediatric Brain MRI: The LISA 2026 Challenge ||| Y. Hao#, P. Sui#, M. Liu, X. Zhao, and Q. Tian* ||| MICCAI Workshop on Low-field Pediatric Brain Magnetic Resonance Image Segmentation and Quality Assurance ||| 2026 ||| Poster
 - FetAngle: Toward Generalizable Automated Fetal Brain Angle Biometry via Test-Time Adaptation ||| Y. Luo#, Y. Li#, M. Liu#, Y. Liao, K. Anmahapong, H. Yang, Y. Chen, X. Hu, H. Qu, and Q. Tian* ||| British Machine Vision Conference ||| 2026 ||| Poster ||| [Code](https://github.com/birthlab/FetAngle) ||| 
 - XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks ||| H. Li#, M. Liu#, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni ||| European Conference on Computer Vision ||| 2026 ||| Poster, ISMRM 2026 Annual Meeting Planning Committee Selection Award ||| [Paper](https://link.springer.com/chapter/10.1007/978-3-032-37092-1_27) [Code](https://github.com/birthlab/XSurfer) ||| bib_eccv2026
