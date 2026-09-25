@@ -30,11 +30,11 @@
 - Quality Assessment, Enhancement, and Subcortical Segmentation of Ultra-Low-Field Pediatric Brain MRI: The LISA 2026 Challenge ||| Y. Hao#, P. Sui#, M. Liu, X. Zhao, and Q. Tian* ||| MICCAI Workshop on Low-field Pediatric Brain Magnetic Resonance Image Segmentation and Quality Assurance ||| 2026 ||| Poster
 - FetAngle: Toward Generalizable Automated Fetal Brain Angle Biometry via Test-Time Adaptation ||| Y. Luo#, Y. Li#, M. Liu#, Y. Liao, K. Anmahapong, H. Yang, Y. Chen, X. Hu, H. Qu, and Q. Tian* ||| British Machine Vision Conference ||| 2026 ||| Poster ||| [Code](https://github.com/birthlab/FetAngle) ||| 
 - XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks ||| H. Li#, M. Liu#, D. Varadarajan, Z. Hu, Q. Tian*, and J. R. Polimeni ||| European Conference on Computer Vision ||| 2026 ||| Poster, ISMRM 2026 Annual Meeting Planning Committee Selection Award ||| [Paper](https://link.springer.com/chapter/10.1007/978-3-032-37092-1_27) [Code](https://github.com/birthlab/XSurfer) ||| bib_eccv2026
-- Maximizing Domain Generalization in Automated Fetal Brain Biometry ||| Y. Li#, M. Liu#, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 ||| Poster, ISMRM 2026 Summa Cum Laude Merit Award ||| [Code](https://github.com/birthlab/BioTTA) ||| 
-- ASTAR: Automated Induction of Standardized Medical Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora ||| X. Zhang#, M. Liu#, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 |||  ||| [Paper](https://www.medrxiv.org/content/10.64898/2026.07.11.26357801v1.full.pdf+html) [Code](https://github.com/birthlab/ASTAR) ||| 
-- FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis ||| X. Hu#, J. Huang#, M. Liu#, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 ||| Early Accept, Top 9% ||| [Paper](https://arxiv.org/abs/2603.09733) [Code](https://github.com/birthlab/FetalAgents) ||| 
-- GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT ||| S. Jiang, Y. Hong, C. Jiang, W. Chen, H. Chen, S. Zhu, B. Wu, M. Liu, Z. Zhu, F. Qin*, M. Tan, and Y. Chen* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 ||| Best Paper and Young Scientist Award Shortlist, Top 0.5% ||| [Paper](https://arxiv.org/abs/2605.22619) [Code](https://github.com/JSLiam94/GLeVE/) ||| 
-- GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-Layer Fusion Network for Abdominal Ultrasound Standard Plane Classification ||| A. Wang#, Z. Li#, L. Zhang, X. Zhang, Y. Wang, X. Yang, M. Liu, X. Wang, H. Liao, and G. Ning* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 |||  |||  ||| 
+- Maximizing Domain Generalization in Automated Fetal Brain Biometry ||| Y. Li#, M. Liu#, L. Chang#, H. Yang, K. Anmahapong, Z. Wang, X. Hu, Y. Hao, H. Li, Y. Chen, X. Li, F. Jia, Y. Liao, H. Qu, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 ||| Poster, ISMRM 2026 Summa Cum Laude Merit Award ||| [Paper](https://papers.miccai.org/miccai-2026/paper/0246_paper.pdf) [Code](https://github.com/birthlab/BioTTA) ||| bib_miccai2026_lyj
+- ASTAR: Automated Induction of STAndardized Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora ||| X. Zhang#, M. Liu#, Y. Chen, J. Zhu, K. Anmahapong, Y. Huang, Y. Zhang, H. Yang, Y. Liao, G. Ning, H. Qu, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 ||| Poster ||| [Paper](https://papers.miccai.org/miccai-2026/paper/0020_paper.pdf) [Code](https://github.com/birthlab/ASTAR) ||| bib_miccai2026_zxf
+- FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis ||| X. Hu#, J. Huang#, M. Liu#, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 ||| Early Accept, Top 9% ||| [Paper](https://papers.miccai.org/miccai-2026/paper/0018_paper.pdf) [Code](https://github.com/birthlab/FetalAgents) ||| bib_miccai2026_hxt
+- GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT ||| S. Jiang, Y. Hong, C. Jiang, W. Chen, H. Chen, S. Zhu, B. Wu, M. Liu, Z. Zhu, F. Qin*, M. Tan, and Y. Chen* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 ||| Best Paper and Young Scientist Award Shortlist, Top 0.5% ||| [Paper](https://papers.miccai.org/miccai-2026/paper/2407_paper.pdf) [Code](https://github.com/JSLiam94/GLeVE/) ||| bib_miccai2026_cyf
+- GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-Layer Fusion Network for Abdominal Ultrasound Standard Plane Classification ||| A. Wang#, Z. Li#, L. Zhang, X. Zhang, Y. Wang, X. Yang, M. Liu, X. Wang, H. Liao, and G. Ning* ||| International Conference on Medical Image Computing and Computer Assisted Intervention ||| 2026 ||| Poster ||| [Paper](https://papers.miccai.org/miccai-2026/paper/3367_paper.pdf) [Code](https://github.com/diligentwaq-spec/GCM-Net) ||| bib_miccai2026_lzh
 - View-Conditioned Collaborative Learning for Semi-Supervised Fetal Cardiac Ultrasound Analysis ||| Z. Gao#, C. Zhang#, M. Liu, Y. Chen, X. Hu, and Q. Tian* ||| IEEE International Symposium on Biomedical Imaging ||| 2026 ||| Challenge Paper ||| [Paper](https://doi.org/10.1109/ISBI61048.2026.11516031) ||| bib_isbi2026
 - R2AoP: Reliable and Robust Angle of Progression Estimation from Intrapartum Ultrasound ||| Y. Wang#, Y. Chen#, B. Wu, M. Liu, X. Hu, C. Jiang, Y. Li, C. Wang, F. Qin, and Q. Tian* ||| MICCAI Workshop on Perinatal, Preterm and Paediatric Image Analysis ||| 2026 ||| Oral ||| [Paper](https://arxiv.org/abs/2605.21099) [Code](https://github.com/baiyou1234/R2AoP) ||| 
 - WARPNet: Scale-wise Autoregressive Cross-modal Synthesis for Accurate and Detail-preserving MRI-to-PET Generation ||| G. Zhou#, Y. Chen#, G. Ying, M. Liu, X. Bai, J. Zheng, B. Cui, Q. Tian*, and J. Lu* ||| IEEE International Conference on Bioinformatics and Biomedicine ||| 2025 ||| Oral ||| [Paper](https://ieeexplore.ieee.org/abstract/document/11356448) [Code](https://github.com/Guanyu-Zhou/WARPNet) ||| bib_warpnet
@@ -574,5 +574,66 @@ pages="478--495"
      author = {Zihan Li and Ziyu Li and Mingxuan Liu and Wei-Ching Lo and Fenglin Jia and Yitong Luo and Hong-Hsi Lee and Berkin Bilgic and Jonathan R. Polimeni and Haibo Qu and Qiyuan Tian and Susie Y. Huang},
      keywords = {T-weighted MPRAGE, Wave-CAIPI, convolutional neural network, brain morphometry, brain segmentation}
      }
+   </div>
+</div>
+<div id="bib_miccai2026_lyj" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+   @InProceedings{ LiYij_Maximizing_MICCAI2026,
+                 author = { Li, Yijin AND Liu, Mingxuan AND Chang, Le AND Yang, Hongjia AND Anmahapong, Kasidit AND Hu, Xiaotian AND Wang, Ziang AND Hao, Yingqi AND Li, Haoxiang AND Chen, Yifei AND Li, Xuesheng AND Jia, Fenglin AND Liao, Yi AND Qu, Haibo AND Tian, Qiyuan },
+                 title = { { Maximizing Domain Generalization in Automated Fetal Brain Biometry } }, 
+                 booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
+                 year = {2026},
+                 publisher = {Springer Nature Switzerland},
+                 volume = { LNCS 16881 },
+                 month = {September},
+                 pages = { pending },
+              }
+   </div>
+<div id="bib_miccai2026_zxf" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+     @InProceedings{ ZhaXin_ASTAR_MICCAI2026,
+                 author = { Zhang, Xinfeng AND Liu, Mingxuan AND Chen, Yifei AND Zhu, Juncheng AND Anmahapong, Kasidit AND Huang, Yiming AND Zhang, Yuan AND Yang, Hongjia AND Liao, Yi AND Ning, Gang AND Qu, Haibo AND Tian, Qiyuan },
+                 title = { { ASTAR: Automated Induction of STAndardized Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora } }, 
+                 booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
+                 year = {2026},
+                 publisher = {Springer Nature Switzerland},
+                 volume = { LNCS 16878 },
+                 month = {September},
+                 pages = { pending },
+              }
+   </div>
+   <div id="bib_miccai2026_hxt" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+     @InProceedings{ HuXia_FetalAgents_MICCAI2026,
+                 author = { Hu, Xiaotian AND Huang, Junwei AND Liu, Mingxuan AND Anmahapong, Kasidit AND Chen, Yifei AND Luo, Yitong AND Huang, Yiming AND Bai, Xuguang AND Li, Zihan AND Liao, Yi AND Qu, Haibo AND Tian, Qiyuan },
+                 title = { { FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis } }, 
+                 booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
+                 year = {2026},
+                 publisher = {Springer Nature Switzerland},
+                 volume = { LNCS 16879 },
+                 month = {September},
+                 pages = { pending },
+              }
+   </div>
+   <div id="bib_miccai2026_lzh" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+     @InProceedings{ WanAnq_GCMNet_MICCAI2026,
+                      author = { Wang, Anqi AND Li, Zihan AND Zhang, Lei AND Zhang, Xinye AND Wang, Yingni AND Yang, Xinshan AND Liu, Mingxuan AND Wang, Xiuming AND Liao, Hongen AND Ning, Guochen },
+                      title = { { GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-layer Fusion Network for Abdominal Ultrasound Standard Plane Classification } }, 
+                      booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
+                      year = {2026},
+                      publisher = {Springer Nature Switzerland},
+                      volume = { LNCS 16893 },
+                      month = {September},
+                      pages = { pending },
+                   }
+   </div>
+   <div id="bib_miccai2026_cyf" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
+     @InProceedings{ JiaShu_GLeVE_MICCAI2026,
+                 author = { Jiang, Shuo AND Hong, Yuhao AND Jiang, Chunbo AND Chen, Weihong AND Chen, Huangwei AND Zhu, Shenghao AND Wu, Beining AND Liu, Mingxuan AND Zhu, Zhu AND Qin, Feiwei AND Tan, Min AND Chen, Yifei },
+                 title = { { GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT } }, 
+                 booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
+                 year = {2026},
+                 publisher = {Springer Nature Switzerland},
+                 volume = { LNCS 16878 },
+                 month = {September},
+                 pages = { pending },
+              }
    </div>
 </div>
