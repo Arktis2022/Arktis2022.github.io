@@ -577,63 +577,169 @@ pages="478--495"
    </div>
 </div>
 <div id="bib_miccai2026_lyj" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
-   @InProceedings{ LiYij_Maximizing_MICCAI2026,
-                 author = { Li, Yijin AND Liu, Mingxuan AND Chang, Le AND Yang, Hongjia AND Anmahapong, Kasidit AND Hu, Xiaotian AND Wang, Ziang AND Hao, Yingqi AND Li, Haoxiang AND Chen, Yifei AND Li, Xuesheng AND Jia, Fenglin AND Liao, Yi AND Qu, Haibo AND Tian, Qiyuan },
-                 title = { { Maximizing Domain Generalization in Automated Fetal Brain Biometry } }, 
-                 booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
-                 year = {2026},
-                 publisher = {Springer Nature Switzerland},
-                 volume = { LNCS 16881 },
-                 month = {September},
-                 pages = { pending },
-              }
-   </div>
+@InProceedings{10.1007/978-3-032-38072-2_33,
+author="Li, Yijin
+and Liu, Mingxuan
+and Chang, Le
+and Yang, Hongjia
+and Anmahapong, Kasidit
+and Hu, Xiaotian
+and Wang, Ziang
+and Hao, Yingqi
+and Li, Haoxiang
+and Chen, Yifei
+and Li, Xuesheng
+and Jia, Fenglin
+and Liao, Yi
+and Qu, Haibo
+and Tian, Qiyuan",
+editor="Yang, Guang
+and Adeli, Ehsan
+and de Bruijne, Marleen
+and Papie{\.{z}}, Bart{\l}omiej W.
+and Speidel, Stefanie
+and Tiwari, Pallavi
+and Yaqub, Mohammad
+and Zheng, Guoyan
+and Dou, Qi
+and Rekik, Islem",
+title="Maximizing Domain Generalization in Automated Fetal Brain Biometry",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026",
+year="2027",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="337--347",
+isbn="978-3-032-38072-2"
+}
+</div>
 <div id="bib_miccai2026_zxf" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
-     @InProceedings{ ZhaXin_ASTAR_MICCAI2026,
-                 author = { Zhang, Xinfeng AND Liu, Mingxuan AND Chen, Yifei AND Zhu, Juncheng AND Anmahapong, Kasidit AND Huang, Yiming AND Zhang, Yuan AND Yang, Hongjia AND Liao, Yi AND Ning, Gang AND Qu, Haibo AND Tian, Qiyuan },
-                 title = { { ASTAR: Automated Induction of STAndardized Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora } }, 
-                 booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
-                 year = {2026},
-                 publisher = {Springer Nature Switzerland},
-                 volume = { LNCS 16878 },
-                 month = {September},
-                 pages = { pending },
-              }
-   </div>
+@InProceedings{10.1007/978-3-032-38059-3_4,
+author="Zhang, Xinfeng
+and Liu, Mingxuan
+and Chen, Yifei
+and Zhu, Juncheng
+and Anmahapong, Kasidit
+and Huang, Yiming
+and Zhang, Yuan
+and Yang, Hongjia
+and Liao, Yi
+and Ning, Gang
+and Qu, Haibo
+and Tian, Qiyuan",
+editor="Yang, Guang
+and Adeli, Ehsan
+and de Bruijne, Marleen
+and Papie{\.{z}}, Bart{\l}omiej W.
+and Speidel, Stefanie
+and Tiwari, Pallavi
+and Zheng, Guoyan
+and Yaqub, Mohammad
+and Dou, Qi
+and Rekik, Islem",
+title="ASTAR: Automated Induction of STAndardized Radiology Reporting Templates from Large-Scale Clinical Free-Text Corpora",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026",
+year="2027",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="34--44",
+isbn="978-3-032-38059-3"
+}
+</div>
    <div id="bib_miccai2026_hxt" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
-     @InProceedings{ HuXia_FetalAgents_MICCAI2026,
-                 author = { Hu, Xiaotian AND Huang, Junwei AND Liu, Mingxuan AND Anmahapong, Kasidit AND Chen, Yifei AND Luo, Yitong AND Huang, Yiming AND Bai, Xuguang AND Li, Zihan AND Liao, Yi AND Qu, Haibo AND Tian, Qiyuan },
-                 title = { { FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis } }, 
-                 booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
-                 year = {2026},
-                 publisher = {Springer Nature Switzerland},
-                 volume = { LNCS 16879 },
-                 month = {September},
-                 pages = { pending },
-              }
-   </div>
+@InProceedings{10.1007/978-3-032-38062-3_23,
+author="Hu, Xiaotian
+and Huang, Junwei
+and Liu, Mingxuan
+and Anmahapong, Kasidit
+and Chen, Yifei
+and Luo, Yitong
+and Huang, Yiming
+and Bai, Xuguang
+and Li, Zihan
+and Liao, Yi
+and Qu, Haibo
+and Tian, Qiyuan",
+editor="Yang, Guang
+and Adeli, Ehsan
+and de Bruijne, Marleen
+and Papie{\.{z}}, Bart{\l}omiej W.
+and Speidel, Stefanie
+and Tiwari, Pallavi
+and Zheng, Guoyan
+and Yaqub, Mohammad
+and Dou, Qi
+and Rekik, Islem",
+title="FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026",
+year="2027",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="240--250",
+isbn="978-3-032-38062-3"
+}
+</div>
    <div id="bib_miccai2026_lzh" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
-     @InProceedings{ WanAnq_GCMNet_MICCAI2026,
-                      author = { Wang, Anqi AND Li, Zihan AND Zhang, Lei AND Zhang, Xinye AND Wang, Yingni AND Yang, Xinshan AND Liu, Mingxuan AND Wang, Xiuming AND Liao, Hongen AND Ning, Guochen },
-                      title = { { GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-layer Fusion Network for Abdominal Ultrasound Standard Plane Classification } }, 
-                      booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
-                      year = {2026},
-                      publisher = {Springer Nature Switzerland},
-                      volume = { LNCS 16893 },
-                      month = {September},
-                      pages = { pending },
-                   }
-   </div>
+@InProceedings{10.1007/978-3-032-38236-8_22,
+author="Wang, Anqi
+and Li, Zihan
+and Zhang, Lei
+and Zhang, Xinye
+and Wang, Yingni
+and Yang, Xinshan
+and Liu, Mingxuan
+and Wang, Xiuming
+and Liao, Hongen
+and Ning, Guochen",
+editor="Yang, Guang
+and Adeli, Ehsan
+and de Bruijne, Marleen
+and Papie{\.{z}}, Bart{\l}omiej W.
+and Speidel, Stefanie
+and Tiwari, Pallavi
+and Zheng, Guoyan
+and Yaqub, Mohammad
+and Dou, Qi
+and Rekik, Islem",
+title="GCM-Net: Anatomy-Aware Gaussian-Contrastive Multi-layer Fusion Network for Abdominal Ultrasound Standard Plane Classification",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026",
+year="2027",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="221--231",
+isbn="978-3-032-38236-8"
+}
+</div>
    <div id="bib_miccai2026_cyf" style="display: none; background: #f6f8fa; padding: 10px; margin: 5px 0; border-radius: 5px; font-family: monospace; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #ddd; color: #333; text-align: left;">
-     @InProceedings{ JiaShu_GLeVE_MICCAI2026,
-                 author = { Jiang, Shuo AND Hong, Yuhao AND Jiang, Chunbo AND Chen, Weihong AND Chen, Huangwei AND Zhu, Shenghao AND Wu, Beining AND Liu, Mingxuan AND Zhu, Zhu AND Qin, Feiwei AND Tan, Min AND Chen, Yifei },
-                 title = { { GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT } }, 
-                 booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
-                 year = {2026},
-                 publisher = {Springer Nature Switzerland},
-                 volume = { LNCS 16878 },
-                 month = {September},
-                 pages = { pending },
-              }
-   </div>
+@InProceedings{10.1007/978-3-032-38059-3_17,
+author="Jiang, Shuo
+and Hong, Yuhao
+and Jiang, Chunbo
+and Chen, Weihong
+and Chen, Huangwei
+and Zhu, Shenghao
+and Wu, Beining
+and Liu, Mingxuan
+and Zhu, Zhu
+and Qin, Feiwei
+and Tan, Min
+and Chen, Yifei",
+editor="Yang, Guang
+and Adeli, Ehsan
+and de Bruijne, Marleen
+and Papie{\.{z}}, Bart{\l}omiej W.
+and Speidel, Stefanie
+and Tiwari, Pallavi
+and Zheng, Guoyan
+and Yaqub, Mohammad
+and Dou, Qi
+and Rekik, Islem",
+title="GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026",
+year="2027",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="173--183",
+isbn="978-3-032-38059-3"
+}
+</div>
 </div>
