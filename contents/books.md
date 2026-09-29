@@ -13,3 +13,4 @@
   Haushofer. [Book](contents/image/ibb_tMgpSYMX.png)
 - *2026.08.13 - 2026.08.22*, [**Some of Your Blood**](https://en.wikipedia.org/wiki/Some_of_Your_Blood) by Theodore Sturgeon. [Book](contents/image/s33712191.jpg)
 - *2026.08.22 - 2026.08.24*, [**Solaris**](https://en.wikipedia.org/wiki/Solaris_(novel)) by Stanisław Lem. [Book](https://img1.od-cdn.com/ImageType-100/8010-1/%7BA70F4E1C-1EC2-4A7F-B580-AECEA9708ED9%7DImg100.jpg)
+- *2026.08.24 - 2026.09.29*, [**The Human Chair: Edogawa Rampo’s Tales of the Bizarre**](https://baike.baidu.com/item/%E4%BA%BA%E9%97%B4%E6%A4%85%E5%AD%90%EF%BC%9A%E6%B1%9F%E6%88%B7%E5%B7%9D%E4%B9%B1%E6%AD%A5%E7%8C%8E%E5%A5%87%E7%AF%87/61832265) by Edogawa Rampo. [Book](contents/image/9787559468703.jpg)
