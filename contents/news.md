@@ -1,3 +1,5 @@
+**2026.10.08:** One paper accepted by [Imaging Neuroscience](https://direct.mit.edu/imag).
+
 **2026.10.05:** One paper accepted by [Nature Communications](https://www.nature.com/ncomms/).
 
 **2026.09.24:** Two papers accepted by [BIBM 2026](https://www3.cs.stonybrook.edu/~bibm2026/).
