@@ -1,6 +1,6 @@
 **Conference Organization**
 - Co-organizer, [OCSMRM 2024](http://www.ocsmrm.org/)
-- Co-organizer, [BEIHAI Summit 2025](https://www.medcircle.cn/meeting/index/2025bs)
+- Co-organizer, [BEIHAI Summit 2025](https://www.med.tsinghua.edu.cn/en/info/1200/2802.htm)
 - Co-organizer, [MICS 2026](https://www.mics-ai.com/MICS2026/index.html)
 
 **Journal Reviewer**
