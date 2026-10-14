@@ -2,7 +2,7 @@
 #### JOURNAL PAPERS  <!--SHOW-->
 - SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data ||| M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, M. Liu, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian* ||| Imaging Neuroscience |||  ||| Accepted |||  |||
 - A lightweight portable ultrasound robot for autonomous liver sonography ||| Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, M. Liu, S. Xin, L. Liu, H. Liao*, and G. Ning* ||| Nature Communications |||  ||| Accepted |||  |||
-- Multi-center validation of machine learning models for predicting myopia progression across school-based screening and optical intervention settings in Chinese children and adolescents ||| Y. Zhang#, M. Liu#, Y. Chen#, Y. Wu*, L. Zhang, M. Guo, Y. Yan, R. Wei, Z. Cui, P. Luo, F. Chen, B. Yang, Y. Han, X. Liu, and Q. Tian* ||| Advanced Intelligent Discovery |||  ||| Accepted |||  |||
+- Multicenter Validation of Machine Learning Models for Predicting Myopia Progression Across School-Based Screening and Optical Intervention Settings in Chinese Children and Adolescents ||| Y. Zhang#, M. Liu#, Y. Chen#, Y. Wu*, L. Zhang, M. Guo, Y. Yan, R. Wei, Z. Cui, P. Luo, F. Chen, B. Yang, Y. Han, X. Liu, and Q. Tian* ||| Advanced Intelligent Discovery ||| 2026 ||| ||| [Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aidi.70165) [Code](https://github.com/sirichen2/MyoAI) ||| bib_aidi2026
 - Improving the accessibility of deep learning-based denoising for accelerated brain MRI using self-supervised learning and/or transfer learning ||| Z. Li#, Z. Li#, M. Liu#, W.-C. Lo, F. Jia, Y. Luo, H. Lee, B. Bilgic, J. R. Polimeni, H. Qu*, Q. Tian*, and S. Y. Huang ||| NeuroImage ||| 2026 ||| ||| [Paper](https://www.sciencedirect.com/science/article/pii/S1053811926005252) [Code](https://github.com/birthlab/Self2Self-AM) ||| bib_S2SAM
 - PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI ||| Y. Hao#, M. Liu#, J. Zhu#, H. Yang, H. Li, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, Y. Liao, H. Qu*, and Q. Tian* ||| Imaging Neuroscience ||| 2026 |||  ||| [Paper](https://doi.org/10.1162/IMAG.a.1293) [Code](https://github.com/birthlab/PANDA) ||| bib_imag2026_2
 - MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation ||| J. Zong#, Y. Chen#, M. Liu#, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin* ||| Pattern Recognition ||| 2026 |||  ||| [Paper](https://www.sciencedirect.com/science/article/pii/S0031320326011088) [Code](https://github.com/JustlfC03/MUIT-TTA) ||| bib_pr2026
@@ -119,7 +119,6 @@
 - Preoperative CTA-based deep learning model for predicting AKI after TEVAR in type B aortic dissection ||| M. Liu#, X. Bai#, M. Zhang, Y. Chen, H. Yang, Z. Wang, Y. Luo, Y. Zhou, X. Han*, and Q. Tian ||| Radiology: Artificial Intelligence |||  ||| Under Review |||  ||| 
 - Annotation-free deep learning for automated detection and segmentation of fetal germinal matrix-intraventricular hemorrhage in brain MRI ||| M. Liu#, Y. Hao#, Y. Liao#, J. Zhu, H. Li, H. Yang, Y. Chen, Y. Li, K. Anmahapong, Z. Li, J. Zheng, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, H. Qu*, and Q. Tian* ||| The Lancet Medical Imaging & Theranostics |||  ||| Under Review |||  ||| 
 - PANDA: Patch-based unsupervised deep learning for brain anomaly detection via age prediction in fetal MRI ||| Y. Hao#, M. Liu#, J. Zhu#, H. Yang, H. Li, G. Ning, Y. Liao, H. Qu*, and Q. Tian* ||| Imaging Neuroscience |||  ||| Under Review |||  ||| 
-- Multi-center validation of machine learning models for predicting myopia progression across school-based screening and optical intervention settings in Chinese children and adolescents ||| Y. Zhang#, M. Liu#, Y. Chen#, Y. Wu*, L. Zhang, M. Guo, Y. Yan, R. Wei, Z. Cui, P. Luo, F. Chen, B. Yang, Y. Han, X. Liu, and Q. Tian* ||| Advanced Intelligent Discovery |||  ||| Under Review |||  ||| 
 - MUIT-TTA: Annotation-Free Intracranial Hemorrhage Segmentation via Pseudo-Anomaly Synthesis and Test-Time Adaptation ||| J. Zong#, Y. Chen#, M. Liu#, Y. Du, C. Wu, B. Wu, G. Zhou, and F. Qin* ||| Pattern Recognition |||  ||| Under Review |||  ||| 
 - 3D fetal brain morphometry from single thick-slice MRI stacks using deep learning super-resolution ||| H. Yang#, Y. Liao#, M. Liu, J. Zhu, H. Li, F. Jia, Z. Li, M. Zhang, J. Zheng, Z. Wang, J. Zhang, Y. Chen, Y. Li, L. Luo, J. Liu, H. Lai, X. Zhou, M. Kang, Y. Song, G. Ning, Z. Li, X. Zhang, H. Qu*, and Q. Tian* ||| Nature Biomedical Engineering |||  ||| Under Review |||  ||| 
 - AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI ||| C. Wu#, Y. Chen#, Y. Du, M. Liu, J. Zong, B. Wu, J. Dong, F. Qin*, Y. Cao, and Q. Tian* ||| Information Fusion |||  ||| Under Review |||  ||| 
@@ -135,6 +134,21 @@
 - Residual-Offset Diffusion for Structure-Consistent Low-Dose PET Reconstruction ||| E. Bao#, Y. Chen#, S. Tang, B. Wu, G. Zhou, M. Liu, K. Anmahapong, Z. Wang, F. Qin*, L. Xiang, J. He, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention |||  ||| Under Review |||  ||| 
 
 <div style="display:none" id="bib-store">
+
+<div id="bib_aidi2026" style="display: none;">
+@article{zhang2026myoai,
+  author = {Zhang, Yitong and Liu, Mingxuan and Chen, Yifei and Wu, Ying and Zhang, Lijun and Guo, Mengyao and Yan, Yulan and Wei, Runmei and Cui, Zihan and Luo, Peng and Chen, Fang and Yang, Bo and Han, Youcang and Liu, Xiaoyang and Tian, Qiyuan},
+  title = {Multicenter Validation of Machine Learning Models for Predicting Myopia Progression Across School-Based Screening and Optical Intervention Settings in Chinese Children and Adolescents},
+  journal = {Advanced Intelligent Discovery},
+  year = {2026},
+  pages = {e70165},
+  keywords = {interpretable prediction, myopia, optical intervention, prevention, school-based screening},
+  doi = {10.1002/aidi.70165},
+  url = {https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aidi.70165},
+  eprint = {https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/aidi.70165}
+}
+</div>
+
 <div id="bib_imag2026_2" 
      style="display: none; 
             background: #f6f8fa; 
