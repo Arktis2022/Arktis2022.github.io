@@ -1,5 +1,3 @@
-**2026.10.13:** Our paper on predicting myopia progression is now published online in [Advanced Intelligent Discovery](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aidi.70165). [Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aidi.70165) [Code](https://github.com/sirichen2/MyoAI)
-
 **2026.10.08:** One paper accepted by [Imaging Neuroscience](https://direct.mit.edu/imag).
 
 **2026.10.05:** One paper accepted by [Nature Communications](https://www.nature.com/ncomms/).
