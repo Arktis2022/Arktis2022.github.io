@@ -137,7 +137,7 @@
 <div id="bib_srnr2026" style="display: none;">
 @article{zhang2026srnr,
   author = {Zhang, Muye and Yang, Hongjia and Li, Zihan and Xiao, Jiaxin and Liu, Wanqing and He, Yuhang and Yin, Ting and Zheng, Jialan and Liu, Mingxuan and Liu, Wei and Liao, Congyu and Bilgic, Berkin and Polimeni, Jonathan R. and Huang, Susie Y. and Liao, Yi and Li, Ziyu and Qu, Haibo and Tian, Qiyuan},
-  title = {{SRNR}: Deep learning-based {MRI} {Super-Resolution} using {Noisy} high-resolution {Reference} data},
+  title = {SRNR: Deep learning-based {MRI} {Super-Resolution} using {Noisy} high-resolution {Reference} data},
   journal = {Imaging Neuroscience},
   year = {2026},
   month = {10},
