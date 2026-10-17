@@ -1,6 +1,6 @@
 
 #### JOURNAL PAPERS  <!--SHOW-->
-- SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data ||| M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, M. Liu, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian* ||| Imaging Neuroscience |||  ||| Accepted |||  |||
+- SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data ||| M. Zhang#, H. Yang#, Z. Li, J. Xiao, W. Liu, Y. He, T. Yin, J. Zheng, M. Liu, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian* ||| Imaging Neuroscience ||| 2026 |||  ||| [Paper](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1433/139398/SRNR-Deep-learning-based-MRI-Super-Resolution) [Code](https://github.com/birthlab/SRNR) ||| bib_srnr2026
 - A lightweight portable ultrasound robot for autonomous liver sonography ||| Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, M. Liu, S. Xin, L. Liu, H. Liao*, and G. Ning* ||| Nature Communications |||  ||| Accepted |||  |||
 - Multicenter Validation of Machine Learning Models for Predicting Myopia Progression Across School-Based Screening and Optical Intervention Settings in Chinese Children and Adolescents ||| Y. Zhang#, M. Liu#, Y. Chen#, Y. Wu*, L. Zhang, M. Guo, Y. Yan, R. Wei, Z. Cui, P. Luo, F. Chen, B. Yang, Y. Han, X. Liu, and Q. Tian* ||| Advanced Intelligent Discovery ||| 2026 ||| ||| [Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aidi.70165) [Code](https://github.com/sirichen2/MyoAI) ||| bib_aidi2026
 - Improving the accessibility of deep learning-based denoising for accelerated brain MRI using self-supervised learning and/or transfer learning ||| Z. Li#, Z. Li#, M. Liu#, W.-C. Lo, F. Jia, Y. Luo, H. Lee, B. Bilgic, J. R. Polimeni, H. Qu*, Q. Tian*, and S. Y. Huang ||| NeuroImage ||| 2026 ||| ||| [Paper](https://www.sciencedirect.com/science/article/pii/S1053811926005252) [Code](https://github.com/birthlab/Self2Self-AM) ||| bib_S2SAM
@@ -16,7 +16,6 @@
 - Towards Reliable Fetal Ultrasound Interpretation with Multi-Agent Collaboration ||| X. Hu#, M. Liu#, J. Huang#, K. Anmahapong, Y. Chen, Y. Luo, Y. Huang, X. Bai, Z. Li, Y. Liao, H. Qu*, and Q. Tian* ||| Medical Image Analysis |||  ||| Major Revision |||  ||| 
 - Towards generalizable and expert-level fetal MRI report impression generation via adaptive fine-tuning of large language models ||| Y. Li#, M. Liu#, X. Zhang#, Y. Liao#, W. Chen, K. Anmahapong, Z. Wang, Y. Chen, H. Yang, X. Bai, D. Yue, X. Liu, N. Sun, R. Hu, M. Kang, Y. Song, H. Lai, X. Zhou, J. Zhu, F. Jia, G. Ning, H. Qu*, and Q. Tian* ||| npj Digital Medicine |||  ||| Major Revision |||  ||| 
 - 3D Fetal Brain Morphometry from Single Thick-Slice MRI Stacks Using Deep Learning Super-Resolution ||| H. Yang#, Y. Liao#, M. Liu, J. Zhu, H. Li, F. Jia, Z. Li, M. Zhang, J. Zheng, Z. Wang, J. Zhang, Y. Chen, Y. Li, L. Luo, J. Liu, H. Lai, X. Zhou, M. Kang, Y. Song, G. Ning, Z. Li, X. Zhang, H. Qu*, and Q. Tian* ||| Nature Biomedical Engineering |||  ||| Major Revision |||  ||| 
-- SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data ||| M. Zhang#, H. Yang#, J. Xiao, W. Liu, T. Yin, Y. He, J. Zheng, Z. Li, M. Liu, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian* ||| Imaging Neuroscience |||  ||| Major Revision |||  |||
 - Style Shifts, Anatomy Stays: Pseudo-Twin Test-Time Adaptation for Robust Aortic Dissection Segmentation ||| W. Yu#, Y. Chen#, M. Liu#, S. Jiang, C. Wang, Y. Wang, J. Dai, F. Qin, X. Han*, and Q. Tian* ||| Biomedical Signal Processing and Control |||  ||| Major Revision |||  |||
 - AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI ||| C. Wu#, Y. Chen#, Y. Du, M. Liu, J. Zong, B. Wu, J. Dong, F. Qin*, Y. Cao, and Q. Tian* ||| Neural Networks |||  ||| Major Revision |||  |||
 - A multimodal foundation model for emergency head CT interpretation ||| J. Zheng#, Y. Chen#, B. Wu#, Y. Wang#, M. Liu#, L. Li, S. Jiang, W. Chen, L. Xu, Y. Wu, C. Liu, L. Guo, Z. Li, H. Yang, F. Qin, J. Liu, H. Qu, Q. Liao, G. Zhao, K. Pan, J. Guo, L. Chen, Y. Zhou, H. Sun*, and Q. Tian* ||| Science Bulletin |||  ||| Major Revision |||  |||  
@@ -134,6 +133,19 @@
 - Residual-Offset Diffusion for Structure-Consistent Low-Dose PET Reconstruction ||| E. Bao#, Y. Chen#, S. Tang, B. Wu, G. Zhou, M. Liu, K. Anmahapong, Z. Wang, F. Qin*, L. Xiang, J. He, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention |||  ||| Under Review |||  ||| 
 
 <div style="display:none" id="bib-store">
+
+<div id="bib_srnr2026" style="display: none;">
+@article{zhang2026srnr,
+  author = {Zhang, Muye and Yang, Hongjia and Li, Zihan and Xiao, Jiaxin and Liu, Wanqing and He, Yuhang and Yin, Ting and Zheng, Jialan and Liu, Mingxuan and Liu, Wei and Liao, Congyu and Bilgic, Berkin and Polimeni, Jonathan R. and Huang, Susie Y. and Liao, Yi and Li, Ziyu and Qu, Haibo and Tian, Qiyuan},
+  title = {{SRNR}: Deep learning-based {MRI} {Super-Resolution} using {Noisy} high-resolution {Reference} data},
+  journal = {Imaging Neuroscience},
+  year = {2026},
+  month = {10},
+  issn = {2837-6056},
+  doi = {10.1162/IMAG.a.1433},
+  url = {https://doi.org/10.1162/IMAG.a.1433}
+}
+</div>
 
 <div id="bib_aidi2026" style="display: none;">
 @article{zhang2026myoai,
