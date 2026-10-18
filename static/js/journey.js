@@ -91,6 +91,7 @@
             return;
         }
         let events = [], year = 'all', index = 0, playing = false, timer;
+        const home = PLACES.find(p => p.id === 'beijing');
         let transform = d3.zoomIdentity;
         const width = 760, height = 390;
         const projection = d3.geoNaturalEarth1().rotate([-85, 0]).fitExtent([[16, 8], [width - 16, height - 6]], { type: 'Sphere' });
@@ -98,14 +99,14 @@
         const years = [...new Set(allEvents.map(e => e.year))].sort().reverse();
         root.innerHTML = `
             <div class="journey-heading">
-                <div><span class="journey-eyebrow">FIELD NOTES · ${years.at(-1)}—${years[0]}</span><h3>A journey in research.</h3><p>Places, people, and ideas along the way.</p></div>
+                <div><span class="journey-eyebrow">FIELD NOTES · ${years.at(-1)}—${years[0]}</span><h3>A journey in research.</h3><p>From Beijing, to the world.</p></div>
                 <div class="journey-years" role="group" aria-label="Filter activities by year">${['all', ...years].map(y => `<button type="button" data-year="${y}" aria-pressed="${y === 'all'}">${y === 'all' ? 'All years' : y}</button>`).join('')}</div>
             </div>
             <div class="journey-body">
                 <div class="journey-map-wrap">
                     <div class="journey-map-toolbar"><div role="group" aria-label="Map region"><button type="button" class="is-active" data-region="world">World</button><button type="button" data-region="asia">East Asia</button></div><span class="journey-map-hint">Select a place to explore</span><select class="journey-place-select" aria-label="Select an activity place"></select></div>
                     <svg class="journey-map" viewBox="0 0 ${width} ${height}" role="group" aria-label="Interactive map of research activities"><title>Research activities around the world</title></svg>
-                    <div class="journey-map-bottom"><span><i></i> Activity locations <em>—</em> Chronological connections</span><div class="journey-zoom" role="group" aria-label="Zoom map"><button type="button" data-zoom="in" aria-label="Zoom in">+</button><button type="button" data-zoom="out" aria-label="Zoom out">−</button></div></div>
+                    <div class="journey-map-bottom"><span><i class="journey-home-key"></i> Beijing · home base <em>—</em> Routes from Beijing</span><div class="journey-zoom" role="group" aria-label="Zoom map"><button type="button" data-zoom="in" aria-label="Zoom in">+</button><button type="button" data-zoom="out" aria-label="Zoom out">−</button></div></div>
                 </div>
                 <aside class="journey-detail" aria-label="Selected activity" aria-live="polite" aria-atomic="true"></aside>
             </div>
@@ -188,7 +189,7 @@
             $('.journey-scrubber input', root).style.setProperty('--progress', `${events.length > 1 ? index / (events.length - 1) * 100 : 0}%`);
             $('.journey-step span', root).textContent = events.length ? `${String(index + 1).padStart(2, '0')} / ${String(events.length).padStart(2, '0')}` : '0 / 0';
             root.querySelectorAll('[data-step]').forEach(b => b.disabled = !events.length || (b.dataset.step === '-1' ? index === 0 : index === events.length - 1));
-            if (!event) { $('.journey-detail', root).innerHTML = '<p>No activity with a confirmed location in this year.</p>'; routes.selectAll('*').remove(); markers.selectAll('*').remove(); labels.selectAll('*').remove(); return; }
+            if (!event) { $('.journey-detail', root).innerHTML = '<p>No activity with a confirmed location in this year.</p>'; renderMap(); return; }
             $('.journey-place-select', root).value = event.place.id;
             const [sx, sy] = transform.apply(projection(event.place.coords));
             if (sx < 24 || sx > width - 24 || sy < 24 || sy > height - 24) {
@@ -196,16 +197,22 @@
                 root.querySelectorAll('[data-region]').forEach(b => b.classList.toggle('is-active', b.dataset.region === 'world'));
             }
             const detail = $('.journey-detail', root);
-            detail.innerHTML = `${event.photo ? `<a class="journey-photo" href="${escape(event.photo)}" target="_blank" rel="noopener"><img src="${escape(event.photo)}" alt="${escape(event.title)} activity photo" loading="lazy"><span>View photo ↗</span></a>` : '<div class="journey-photo-placeholder" aria-hidden="true">FIELD NOTES</div>'}<div class="journey-detail-copy" tabindex="0" role="region" aria-label="Activity details"><time datetime="${event.date}">${dateLabel(event.date)}</time><h4>${escape(event.place.city)}</h4><span class="journey-country">${escape(event.place.country)}</span><h5>${escape(event.title)}</h5><p>${escape(event.text)}</p><div class="journey-detail-links">${event.links.map(l => `<a href="${escape(l.href)}" target="_blank" rel="noopener">${escape(l.label)} ↗</a>`).join('')}</div></div>`;
+            detail.innerHTML = `${event.photo ? `<a class="journey-photo" href="${escape(event.photo)}" target="_blank" rel="noopener"><img src="${escape(event.photo)}" alt="${escape(event.title)} activity photo" loading="lazy"><span>View photo ↗</span></a>` : '<div class="journey-photo-placeholder" aria-hidden="true">FIELD NOTES</div>'}<div class="journey-detail-copy" tabindex="0" role="region" aria-label="Activity details"><p class="journey-trip-note">${event.place.id === home.id ? 'Beijing · local activity' : `Beijing → ${escape(event.place.city)}`}</p><time datetime="${event.date}">${dateLabel(event.date)}</time><h4>${escape(event.place.city)}</h4><span class="journey-country">${escape(event.place.country)}</span><h5>${escape(event.title)}</h5><p>${escape(event.text)}</p><div class="journey-detail-links">${event.links.map(l => `<a href="${escape(l.href)}" target="_blank" rel="noopener">${escape(l.label)} ↗</a>`).join('')}</div></div>`;
             detail.querySelector('img')?.addEventListener('error', e => { e.target.closest('.journey-photo').hidden = true; });
             renderMap();
         }
         function renderMap() {
-            const segments = events.slice(1).map((event, i) => ({ from: events[i], to: event, n: i + 1 })).filter(s => s.from.place.id !== s.to.place.id);
-            routes.selectAll('path').data(segments).join('path')
-                .attr('d', s => path({ type: 'LineString', coordinates: [s.from.place.coords, s.to.place.coords] }))
-                .attr('class', s => `journey-route${s.n <= index ? ' is-travelled' : ''}${s.n === index ? ' is-current' : ''}`);
-            const places = [...new Map(events.map(e => [e.place.id, e.place])).values()];
+            const destinations = new Map();
+            events.forEach((event, n) => {
+                if (event.place.id === home.id) return;
+                if (!destinations.has(event.place.id)) destinations.set(event.place.id, { from: home, to: event.place, visits: [] });
+                destinations.get(event.place.id).visits.push(n);
+            });
+            routes.selectAll('path').data([...destinations.values()], s => s.to.id).join('path')
+                .attr('d', s => path({ type: 'LineString', coordinates: [s.from.coords, s.to.coords] }))
+                .attr('data-origin', home.id).attr('data-destination', s => s.to.id)
+                .attr('class', s => `journey-route${s.visits.some(n => n <= index) ? ' is-travelled' : ''}${s.to.id === events[index]?.place.id ? ' is-current' : ''}`);
+            const places = [...new Map([[home.id, home], ...events.map(e => [e.place.id, e.place])]).values()];
             const nodes = markers.selectAll('g').data(places, p => p.id).join(enter => {
                 const g = enter.append('g').attr('tabindex', 0).attr('role', 'button').attr('class', 'journey-marker');
                 g.append('circle').attr('class', 'journey-marker-hit').attr('r', 14);
@@ -213,17 +220,24 @@
                 g.append('circle').attr('class', 'journey-marker-dot').attr('r', 4);
                 g.append('title'); return g;
             });
-            nodes.attr('aria-label', p => `${p.city}: ${events.filter(e => e.place.id === p.id).length} activities`)
-                .classed('is-selected', p => p.id === events[index].place.id)
+            nodes.attr('aria-label', p => `${p.city}${p.id === home.id ? ', home base and departure point' : ''}: ${events.filter(e => e.place.id === p.id).length} activities`)
+                .attr('role', p => events.some(e => e.place.id === p.id) ? 'button' : 'img')
+                .attr('tabindex', p => events.some(e => e.place.id === p.id) ? 0 : null)
+                .classed('is-home', p => p.id === home.id)
+                .classed('is-selected', p => p.id === events[index]?.place.id)
                 .classed('is-visited', p => events.slice(0, index + 1).some(e => e.place.id === p.id))
-                .attr('aria-pressed', p => String(p.id === events[index].place.id))
+                .attr('aria-pressed', p => events.some(e => e.place.id === p.id) ? String(p.id === events[index]?.place.id) : null)
                 .on('click', (e, p) => { stop(); selectPlace(p); })
                 .on('keydown', (e, p) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); stop(); selectPlace(p); } });
-            nodes.select('title').text(p => `${p.city} · Click to view activities`);
+            nodes.select('.journey-marker-dot').attr('r', p => p.id === home.id ? 5.5 : 4);
+            nodes.select('title').text(p => p.id === home.id ? 'Beijing · Home base and departure point' : `${p.city} · Click to view activities`);
+            nodes.filter(p => p.id === home.id).raise();
+            nodes.filter(p => p.id === events[index]?.place.id).raise();
             updateMarkerScale(); renderLabels();
         }
         function selectPlace(p) {
             const matches = events.flatMap((e, i) => e.place.id === p.id ? [i] : []);
+            if (!matches.length) return;
             const current = matches.indexOf(index);
             select(matches[(current + 1) % matches.length]);
         }
@@ -231,25 +245,26 @@
             markers.selectAll('g').attr('transform', p => `translate(${projection(p.coords)}) scale(${pixelFactor() / transform.k})`);
         }
         function renderLabels() {
-            if (!events[index]) return;
-            const selected = events[index].place.id;
-            const points = [...new Map(events.map(e => [e.place.id, e.place])).values()].sort((a, b) => (b.id === selected) - (a.id === selected));
+            const selected = events[index]?.place.id;
+            const points = [...new Map([[home.id, home], ...events.map(e => [e.place.id, e.place])]).values()].sort((a, b) => ((b.id === selected ? 2 : 0) + (b.id === home.id ? 1 : 0)) - ((a.id === selected ? 2 : 0) + (a.id === home.id ? 1 : 0)));
             const occupied = [];
             const visible = points.flatMap(p => {
                 const [x, y] = transform.apply(projection(p.coords));
                 const factor = pixelFactor();
-                const w = (p.city.length * 6.7 + 12) * factor, h = 19 * factor;
-                const leftSide = x + w + 15 > width;
-                const bx = leftSide ? x - w - 9 * factor : x + 10 * factor, by = y - 10 * factor;
+                const label = p.id === home.id ? 'Beijing · home' : p.city;
+                const w = (label.length * 6.7 + 12) * factor, h = 19 * factor;
+                const leftSide = p.id === home.id || x + w + 15 > width;
+                const offsetY = p.id === home.id ? -13 : 4;
+                const bx = leftSide ? x - w - 9 * factor : x + 10 * factor, by = y + (offsetY - 14) * factor;
                 if (x < 0 || x > width || y < 15 || y > height - 4) return [];
                 const rect = [bx, by, bx + w, by + h];
-                if (p.id !== selected && occupied.some(r => rect[0] < r[2] + 6 && rect[2] > r[0] - 6 && rect[1] < r[3] + 4 && rect[3] > r[1] - 4)) return [];
-                occupied.push(rect); return [{ ...p, offset: leftSide ? -10 : 10, anchor: leftSide ? 'end' : 'start' }];
+                if (p.id !== selected && p.id !== home.id && occupied.some(r => rect[0] < r[2] + 6 && rect[2] > r[0] - 6 && rect[1] < r[3] + 4 && rect[3] > r[1] - 4)) return [];
+                occupied.push(rect); return [{ ...p, label, offsetY, offset: leftSide ? -10 : 10, anchor: leftSide ? 'end' : 'start' }];
             });
             labels.selectAll('text').data(visible, p => p.id).join('text')
                 .attr('transform', p => `translate(${projection(p.coords)}) scale(${pixelFactor() / transform.k})`)
-                .attr('x', p => p.offset).attr('y', 4).attr('text-anchor', p => p.anchor)
-                .attr('class', p => p.id === selected ? 'is-selected' : '').text(p => p.city);
+                .attr('x', p => p.offset).attr('y', p => p.offsetY).attr('text-anchor', p => p.anchor)
+                .attr('class', p => p.id === home.id ? 'is-home' : p.id === selected ? 'is-selected' : '').text(p => p.label);
         }
         filter();
         root.dataset.ready = 'true';

@@ -121,3 +121,10 @@
 @media(max-width:580px) { .journey-archive > summary span { display:none; } }
 
 .journey-photo[hidden] { display:none; }
+
+.journey-marker.is-home .journey-marker-dot { fill:#3e6775; stroke:#fffdfa; stroke-width:2; }
+.journey-marker.is-home .journey-marker-halo { fill:#3e6775; opacity:.16; }
+.journey-marker.is-home.is-selected .journey-marker-dot { stroke:#8c1b13; }
+.journey-labels text.is-home { fill:#3e6775; font-weight:700; }
+.journey-map-bottom i.journey-home-key { width:7px; height:7px; background:#3e6775; }
+.journey-detail .journey-trip-note { margin:0 0 9px; color:#657574; font-size:9px; letter-spacing:.3px; }
