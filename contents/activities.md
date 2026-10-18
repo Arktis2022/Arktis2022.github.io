@@ -1,34 +1,34 @@
 - *2026.09.11*, Attended the European Conference on Computer Vision (ECCV 2026) in Malmö, Sweden. [Photo](contents/image/eccv.jpg)
-- *2026.08.08*, Attended the [2026 International Conference on Smart Health and Intelligent Medicine: Innovation and Development](https://mm.sciconf.cn/cn/minisite/index/36331). [Photo](contents/image/ibb_sdR7pcYs.jpg)
-- *2026.07.10*, Attended the Medical Image Computing Seminar (MICS) 2026. [Photo](contents/image/ibb_TDr6hj4v.jpg)
-- *2026.06.03*, Attended BME 2026 (China Biomedical Engineering Conference & Medical Innovation Summit) and received the [Excellent Paper Competition Second Prize](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing). [Photo](contents/image/ibb_BHNNDLPD.jpg) [Photo](contents/image/ibb_tww7fJS4.jpg)
+- *2026.08.08*, Attended the [2026 International Conference on Smart Health and Intelligent Medicine: Innovation and Development](https://mm.sciconf.cn/cn/minisite/index/36331). [Photo](contents/image/ibb_sdR7pcYs.jpg) <!-- place:changji -->
+- *2026.07.10*, Attended the Medical Image Computing Seminar (MICS) 2026. [Photo](contents/image/ibb_TDr6hj4v.jpg) <!-- place:beijing -->
+- *2026.06.03*, Attended BME 2026 (China Biomedical Engineering Conference & Medical Innovation Summit) and received the [Excellent Paper Competition Second Prize](https://drive.google.com/file/d/1x45g3eHJLshy6VjOar9tpdXzd8Vatlxo/view?usp=sharing). [Photo](contents/image/ibb_BHNNDLPD.jpg) [Photo](contents/image/ibb_tww7fJS4.jpg) <!-- place:suzhou -->
 - *2026.03.04*, Attended the ISMRM Workshop on Unlocking the Potential of Prenatal MRI in Washington, D.C. [Photo](contents/image/ibb_hFTYj3MW.jpg)
-- *2026.01.09*, Attended the 2026 Annual Retreat of the Center for Biomedical Imaging Research (CBIR) and won [2nd place in the Oral Session on AI for Image Reconstruction and Analysis](contents/image/CBIR2026.png). [Photo](contents/image/CBIR2026_photo.jpg)
-- *2025.11.22*, Attended the 2nd Graduate Academic Forum (Schools of Biomedical Engineering & Clinical Medicine, Tsinghua University) and received the [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing). [Photo](contents/image/bolun_2025_11.jpg) [Photo](contents/image/bolun_2025_11_2.jpg)
+- *2026.01.09*, Attended the 2026 Annual Retreat of the Center for Biomedical Imaging Research (CBIR) and won [2nd place in the Oral Session on AI for Image Reconstruction and Analysis](contents/image/CBIR2026.png). [Photo](contents/image/CBIR2026_photo.jpg) <!-- place:beijing -->
+- *2025.11.22*, Attended the 2nd Graduate Academic Forum (Schools of Biomedical Engineering & Clinical Medicine, Tsinghua University) and received the [Invited Student Speaker Award](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing). [Photo](contents/image/bolun_2025_11.jpg) [Photo](contents/image/bolun_2025_11_2.jpg) <!-- place:beijing -->
 - *2025.11.15*, Attended the Chinese Congress of Radiology (CCR) 2025 in Changsha. [Photo](contents/image/CCR.jpg)
 - *2025.11.06*, Attended the symposium on AI-Driven Magnetic Resonance Technology (CASFIS) in Hong Kong. [Photo](contents/image/casfis_2025_1.jpg) [Photo](contents/image/casfis_2025_2.jpg)
-- *2025.10.24*, Attended the Beijing-Tsinghua Health AI Summit and won the Second Prize of Oral Presentation. [Photo](contents/image/ibb_jPr3C0Ft.jpg) [Photo](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing) (Competition judge: Charlotte Haug, Executive Editor of NEJM AI)
-- *2025.10.22*, Presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](contents/image/ibb_Gvj2HCJ6.jpg)
+- *2025.10.24*, Attended the Beijing-Tsinghua Health AI Summit and won the Second Prize of Oral Presentation. [Photo](contents/image/ibb_jPr3C0Ft.jpg) [Certificate](contents/image/drive/beihai-certificate-2025.pdf) (Competition judge: Charlotte Haug, Executive Editor of NEJM AI) <!-- place:beijing -->
+- *2025.10.22*, Presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](contents/image/ibb_Gvj2HCJ6.jpg) <!-- place:beijing -->
 - *2025.10.11*, Attended [ISICDM 2025](https://www.imagecomputing.org/isicdm2025/#/) in Beijing. [Photo](contents/image/ibb_BV5Lf644.png)
-- *2025.09.27*, Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](contents/image/pippi_2025_group.jpg) [Photo](https://drive.google.com/file/d/1A1G9QYDK2-QOE9CVkQEUfxiugFdHOoDg/view?usp=sharing) [Photo](contents/image/ibb_XxzjWdNw.png) [Photo](contents/image/ibb_bthJn0R.jpg) [Photo](contents/image/ibb_Rp4N8VZP.jpg)
-- *2025.09.09*, Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
-- *2025.07.20*, Attended [MICS 2025](http://mics2025.com/) in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
+- *2025.09.27*, Attended MICCAI 2025 in Daejeon, South Korea; won 2nd place in the VLM3D Challenge and 1st place in the autoPET IV Challenge; delivered an oral presentation at the PIPPI Workshop. [Photo](contents/image/pippi_2025_group.jpg) [Photo](contents/image/drive/miccai-2025.jpg) [Photo](contents/image/ibb_XxzjWdNw.png) [Photo](contents/image/ibb_bthJn0R.jpg) [Photo](contents/image/ibb_Rp4N8VZP.jpg)
+- *2025.09.09*, Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](contents/image/drive/beijing-radiology-2025.jpg) <!-- place:beijing -->
+- *2025.07.20*, Attended [MICS 2025](http://mics2025.com/) in Cixi, Zhejiang. [Photo](contents/image/drive/mics-2025.jpg)
 - *2025.07.12*, Attended MIDL 2025 in Salt Lake City. [Poster 1](contents/image/midl_2025_poster1.jpg) [Poster 2](contents/image/midl_2025_poster2.jpg) [Poster 3](contents/image/midl_2025_poster3.jpg) [Poster 4](contents/image/ibb_23pXtC6X.jpg)
-- *2025.06.27*, Attended OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing)
+- *2025.06.27*, Attended OHBM 2025 in Brisbane. [Photo](contents/image/drive/ohbm-2025.jpg)
 - *2025.05.14*, Attended ISMRM 2025 in Honolulu. [Photo](contents/image/ibb_v4rby7Pn.jpg)
 - *2025.04.24*, Attended ICLR 2025 in Singapore. [Photo](contents/image/ibb_TMZMKQhF.jpg)
-- *2025.02.16*, Attended the ISMRM Workshop on 40 Years of Diffusion in Kyoto, Japan. [Photo](https://drive.google.com/file/d/1PB_3NYgY80Eziv8DedZvkEdgrSYU49aY/view?usp=sharing)
+- *2025.02.16*, Attended the ISMRM Workshop on 40 Years of Diffusion in Kyoto, Japan. [Photo](contents/image/drive/ismrm-diffusion-2025.jpg)
 - *2024.11.24*, Attended BMVC 2024 in Glasgow, UK. [Photo](contents/image/ibb_p6M5rGX1.jpg)
 - *2024.09.22*, Attended the 2024 Annual Meeting of the Neuroimaging Committee of the Chinese Psychological Society in Nanjing. [Photo](contents/image/ibb_zHnxJSDY.jpg)
 - *2024.07.20*, Attended the 9th National Biomedical Engineering Innovation Design Competition in Sanya. [Photo](contents/image/ibb_HDGnY3gm.jpg)
 - *2024.07.14*, Attended the Medical Imaging Computing Seminar (MICS) 2024 in Xiamen. [Photo](contents/image/ibb_x8tkbP3f.jpg)
 - *2024.07.04*, Attended Advanced Imaging and Microscopy (AIM 2024) in Huairou. [Photo](contents/image/ibb_gLqmwzL3.jpg)
-- *2024.05.10*, Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](contents/image/ibb_21yhPmJJ.jpg)
+- *2024.05.10*, Attended the ISMRM-Endorsed Global Outreach Workshop in Thailand 2024. [Photo](contents/image/ibb_21yhPmJJ.jpg) <!-- place:bangkok -->
 - *2024.05.08*, Attended OCSMRM 2024 in Singapore as a co-organizer. [Photo](contents/image/ibb_Y7tF77JM.png)
 - *2024.05.07*, Attended ISMRM 2024 in Singapore. [Photo A](contents/image/ibb_1Gv9GvR4.jpg) [Photo B](contents/image/ibb_bgyTqXw1.jpg)
 - *2024.04.17*, Attended ICASSP 2024 in Seoul. [Photo](contents/image/ibb_1fj4nJ2N.jpg)
-- *2023.11.24*, Won a Top-3 prize in the AI Health Summit 2023 Poster Competition. [Photo](contents/image/ibb_ZzzpLRQ0.jpg) (Front row: competition judges — Editor-in-Chief of The Lancet Digital Health; Prof. Catherine R. Lucey; Editor-in-Chief of Nature Medicine; Editor-in-Chief of Nature Biomedical Engineering) [Photo](contents/image/ibb_v4mVKHHy.jpg) (Rupa Sarkar reading my poster) [Photo](contents/image/ibb_7JVPps5q.jpg) (3rd Place Winner)
-- *2023.11.24*, Reached the Top-5 in the AI Health Summit 2023 poster competition. [Photo](contents/image/ibb_pjZpZxVv.jpg)
+- *2023.11.24*, Won a Top-3 prize in the AI Health Summit 2023 Poster Competition. [Photo](contents/image/ibb_ZzzpLRQ0.jpg) (Front row: competition judges — Editor-in-Chief of The Lancet Digital Health; Prof. Catherine R. Lucey; Editor-in-Chief of Nature Medicine; Editor-in-Chief of Nature Biomedical Engineering) [Photo](contents/image/ibb_v4mVKHHy.jpg) (Rupa Sarkar reading my poster) [Photo](contents/image/ibb_7JVPps5q.jpg) (3rd Place Winner) <!-- place:singapore -->
+- *2023.11.24*, Reached the Top-5 in the AI Health Summit 2023 poster competition. [Photo](contents/image/ibb_pjZpZxVv.jpg) <!-- place:singapore -->
 - *2023.11.22*, Birth Lab members visited Nanyang Technological University. [Photo](contents/image/ibb_J97RwJW.jpg)
 - *2023.10.02*, Attended the NUS-THU Joint Workshop on Biomedical Engineering 2023 in Singapore. [Photo](contents/image/ibb_R4gcfmDP.jpg)
 - *2023.07.26*, Attended IEEE ASYNC 2023 in Beijing. [Photo](contents/image/ibb_NgFPdLWg.jpg)

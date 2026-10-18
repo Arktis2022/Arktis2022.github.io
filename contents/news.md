@@ -70,7 +70,7 @@
 
 **2025.11.04:** Attended the symposium on AI-Driven Magnetic Resonance Technology (CASFIS) in Hong Kong. [Photo](contents/image/casfis_2025_1.jpg) [Photo](contents/image/casfis_2025_2.jpg)
 
-**2025.10.24:** Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs), received the [Second Prize of Oral Presentation](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing), and was featured by Tsinghua Medicine. [Photo](contents/image/ibb_jPr3C0Ft.jpg) [Link](https://bme.tsinghua.edu.cn/info/1010/1530.htm) [Report](https://x.com/MedTsinghua/status/1986685733630087315)
+**2025.10.24:** Attended the [Beijing-Tsinghua Health AI Summit](https://www.medcircle.cn/meeting/index/2025bs), received the [Second Prize of Oral Presentation](contents/image/drive/beihai-certificate-2025.pdf), and was featured by Tsinghua Medicine. [Photo](contents/image/ibb_jPr3C0Ft.jpg) [Link](https://bme.tsinghua.edu.cn/info/1010/1530.htm) [Report](https://x.com/MedTsinghua/status/1986685733630087315)
 
 **2025.10.22:** Presented our work to Rupa Sarkar, Editor-in-Chief of The Lancet Digital Health. [Photo](contents/image/ibb_Gvj2HCJ6.jpg)
 
@@ -80,9 +80,9 @@
 
 **2025.10.05:** Two papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/).
 
-**2025.09.27:** Attended MICCAI 2025 in Daejeon, South Korea — won 2nd place in the [VLM3D Challenge](https://zenodo.org/records/15052708) and 1st place in the [autoPET IV Challenge](https://www.autopet.org/autopetiv.html), delivered an oral presentation at the [PIPPI Workshop](https://pippiworkshop.github.io/), and was featured by Tsinghua University. [Photo](contents/image/pippi_2025_group.jpg) [Photo](https://drive.google.com/file/d/1A1G9QYDK2-QOE9CVkQEUfxiugFdHOoDg/view?usp=sharing) [Photo](contents/image/ibb_XxzjWdNw.png) [Photo](contents/image/ibb_bthJn0R.jpg) [Report X](https://x.com/Tsinghua_Uni/status/1987188546470367513?s=20) [Report Facebook](https://www.facebook.com/Tsinghua/photos/congrats-to-our-nextgen-from-the-school-of-biomedical-engineering-for-winning-th/1160940282903631/)
+**2025.09.27:** Attended MICCAI 2025 in Daejeon, South Korea — won 2nd place in the [VLM3D Challenge](https://zenodo.org/records/15052708) and 1st place in the [autoPET IV Challenge](https://www.autopet.org/autopetiv.html), delivered an oral presentation at the [PIPPI Workshop](https://pippiworkshop.github.io/), and was featured by Tsinghua University. [Photo](contents/image/pippi_2025_group.jpg) [Photo](contents/image/drive/miccai-2025.jpg) [Photo](contents/image/ibb_XxzjWdNw.png) [Photo](contents/image/ibb_bthJn0R.jpg) [Report X](https://x.com/Tsinghua_Uni/status/1987188546470367513?s=20) [Report Facebook](https://www.facebook.com/Tsinghua/photos/congrats-to-our-nextgen-from-the-school-of-biomedical-engineering-for-winning-th/1160940282903631/)
 
-**2025.09.07:** Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](https://drive.google.com/file/d/1MPMjsz7aazGh71I0YoDSeVEZR-6gQBRy/view?usp=sharing)
+**2025.09.07:** Attended the 2025 Beijing Radiology Quality Control Conference. [Photo](contents/image/drive/beijing-radiology-2025.jpg)
 
 **2025.08.08:** Google Scholar citations passed 100. [Link](contents/image/ibb_rR2JTMG2.png)
 
@@ -92,13 +92,13 @@
 
 **2025.07.22:** Our [Chest CT foundation model](https://openreview.net/forum?id=ns6nq592HX#discussion) won [1st prize](contents/image/ibb_cSWpXg3d.jpg) at the 10th National Biomedical Engineering Innovation Design Competition (Top 5%).
 
-**2025.07.20:** Attended [MICS 2025](http://mics2025.com/) in Cixi, Zhejiang. [Photo](https://drive.google.com/file/d/1MvW5ANSwRB1bYXC676vW0CCNSEsbHuGD/view?usp=sharing)
+**2025.07.20:** Attended [MICS 2025](http://mics2025.com/) in Cixi, Zhejiang. [Photo](contents/image/drive/mics-2025.jpg)
 
 **2025.07.17:** Our work on [structured information extraction](https://arktis2022.github.io/) was accepted by [PIPPI 2025](https://pippiworkshop.github.io/).
 
 **2025.07.12:** Attended MIDL 2025 in Salt Lake City. [Photo](contents/image/ibb_NdcGBw3b.jpg)
 
-**2025.06.27:** Attended OHBM 2025 in Brisbane. [Photo](https://drive.google.com/file/d/1_yAOThbCNrS6D-1WPoESadDGrLVqL75O/view?usp=sharing)
+**2025.06.27:** Attended OHBM 2025 in Brisbane. [Photo](contents/image/drive/ohbm-2025.jpg)
 
 **2025.05.24:** Received the [2025 OHBM Merit Award](https://drive.google.com/file/d/14UKWrfMNgwcnUKI7JWBR9Tb_3yyBKB15/view?usp=sharing) — Top 1.6% (34/2130).
 
@@ -114,7 +114,7 @@
 
 **2025.03.06:** Our paper on [fetal cortical surface reconstruction](https://openreview.net/forum?id=Ra0xioC3He) was accepted by [ICLR 2025 Workshop AI4CHL](https://pediamedai.com//ai4chl/) as an oral presentation.
 
-**2025.02.16:** Attended the ISMRM Workshop on 40 Years of Diffusion in Kyoto, Japan. [Photo](https://drive.google.com/file/d/1PB_3NYgY80Eziv8DedZvkEdgrSYU49aY/view?usp=sharing)
+**2025.02.16:** Attended the ISMRM Workshop on 40 Years of Diffusion in Kyoto, Japan. [Photo](contents/image/drive/ismrm-diffusion-2025.jpg)
 
 **2025.02.12:** Several papers accepted by [OHBM 2025](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229).
 

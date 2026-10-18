@@ -3,7 +3,7 @@
 - [[Certificate]](contents/image/ibb_C533cPj3.png) *2026* **ISMRM Workshop Trainee Stipend Award**<br />*ISMRM Workshop on Unlocking the Potential of Prenatal MRI, Washington, DC, USA*
 - [[Certificate]](contents/image/ibb_5X5pHHb9.jpg) *2026* **2nd Place, Oral Session on AI for Image Reconstruction and Analysis**<br />*Annual Retreat of the Center for Biomedical Imaging Research (CBIR), Tsinghua University*
 - [[Certificate]](https://drive.google.com/file/d/1wz1tAzSku36oPj3jLJ6DrqCYEHamPOiW/view?usp=sharing) *2025* **Invited Student Speaker Award**<br />*The 2nd Graduate Academic Forum, Tsinghua University (School of Biomedical Engineering & School of Clinical Medicine)*
-- [[Certificate]](https://drive.google.com/file/d/1aAY0IAKc4JBaHfxYEWylsKmVlIpWIUeo/view?usp=sharing) *2025* **BEIHAI Summit Second Prize of Oral Presentation**<br />*Competition judge: Charlotte Haug, Executive Editor of NEJM AI*
+- [[Certificate]](contents/image/drive/beihai-certificate-2025.pdf) *2025* **BEIHAI Summit Second Prize of Oral Presentation**<br />*Competition judge: Charlotte Haug, Executive Editor of NEJM AI*
 - [[Certificate]](contents/image/ibb_fwkyw94.jpg) *2025* **National Scholarship, Ministry of Education**, P.R. China<br />*Top scholarship in China — 0.2% nationally*
 - [[Certificate]](contents/image/ibb_bthJn0R.jpg) *2025* **MICCAI [autoPET IV Challenge](https://www.autopet.org/autopetiv.html) — 1st Place Winner**
 - [[Certificate]](contents/image/ibb_XxzjWdNw.png) *2025* **MICCAI [VLM3D Challenge](https://zenodo.org/records/15052708) — 2nd Place Winner**

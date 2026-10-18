@@ -3,6 +3,9 @@
 (() => {
     'use strict';
     const PLACES = [
+        ['changji', 'Changji', 'China', 87.3082, 44.0112, /\bin Changji\b/i],
+        ['suzhou', 'Suzhou', 'China', 120.5853, 31.2989, /\bin Suzhou\b/i],
+        ['bangkok', 'Bangkok', 'Thailand', 100.5018, 13.7563, /\bin Bangkok\b/i],
         ['malmo', 'Malmö', 'Sweden', 13.0038, 55.605, /Malmö|Malmo/i],
         ['washington', 'Washington, D.C.', 'United States', -77.0369, 38.9072, /Washington,\s*D\.?C\.?/i],
         ['changsha', 'Changsha', 'China', 112.9388, 28.2282, /\bin Changsha\b/i],
@@ -27,6 +30,14 @@
     const safeLink = href => /^(https?:\/\/|contents\/)/.test(href || '');
     const dateLabel = d => new Date(d + 'T12:00:00Z').toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric', timeZone: 'UTC' });
     const shortTitle = text => {
+        if (/Smart Health and Intelligent Medicine/.test(text)) return 'Smart Health & Intelligent Medicine';
+        if (/Graduate Academic Forum/.test(text)) return 'Graduate Academic Forum';
+        if (/Beijing Radiology Quality Control Conference/.test(text)) return 'Radiology Quality Control';
+        if (/AI Health Summit 2023/.test(text)) return 'AI Health Summit 2023';
+        if (/Beijing-Tsinghua Health AI Summit/.test(text)) return 'BEIHAI Summit';
+        if (/Presented our work to Rupa Sarkar/.test(text)) return 'Discussion with Rupa Sarkar';
+        if (/Center for Biomedical Imaging Research/.test(text)) return 'CBIR Annual Retreat';
+        if (/BME 2026/.test(text)) return 'BME 2026';
         const match = text.match(/\b(ECCV|MICCAI|MIDL|OHBM|ISMRM|ICLR|BMVC|ICASSP|OCSMRM|MICS|AIM|CASFIS|CCR|IEEE ASYNC|ISICDM)\b(?:\s+(20\d{2}))?/);
         if (match) return match[0];
         if (/Nanyang Technological University/.test(text)) return 'Visit to NTU';
@@ -185,7 +196,7 @@
                 root.querySelectorAll('[data-region]').forEach(b => b.classList.toggle('is-active', b.dataset.region === 'world'));
             }
             const detail = $('.journey-detail', root);
-            detail.innerHTML = `${event.photo ? `<a class="journey-photo" href="${escape(event.photo)}" target="_blank" rel="noopener"><img src="${escape(event.photo)}" alt="${escape(event.title)} activity photo" loading="lazy"><span>View photo ↗</span></a>` : '<div class="journey-photo-placeholder" aria-hidden="true">FIELD NOTES</div>'}<div class="journey-detail-copy"><time datetime="${event.date}">${dateLabel(event.date)}</time><h4>${escape(event.place.city)}</h4><span class="journey-country">${escape(event.place.country)}</span><h5>${escape(event.title)}</h5><p>${escape(event.text)}</p><div class="journey-detail-links">${event.links.map(l => `<a href="${escape(l.href)}" target="_blank" rel="noopener">${escape(l.label)} ↗</a>`).join('')}</div></div>`;
+            detail.innerHTML = `${event.photo ? `<a class="journey-photo" href="${escape(event.photo)}" target="_blank" rel="noopener"><img src="${escape(event.photo)}" alt="${escape(event.title)} activity photo" loading="lazy"><span>View photo ↗</span></a>` : '<div class="journey-photo-placeholder" aria-hidden="true">FIELD NOTES</div>'}<div class="journey-detail-copy" tabindex="0" role="region" aria-label="Activity details"><time datetime="${event.date}">${dateLabel(event.date)}</time><h4>${escape(event.place.city)}</h4><span class="journey-country">${escape(event.place.country)}</span><h5>${escape(event.title)}</h5><p>${escape(event.text)}</p><div class="journey-detail-links">${event.links.map(l => `<a href="${escape(l.href)}" target="_blank" rel="noopener">${escape(l.label)} ↗</a>`).join('')}</div></div>`;
             detail.querySelector('img')?.addEventListener('error', e => { e.target.closest('.journey-photo').hidden = true; });
             renderMap();
         }

@@ -28,7 +28,7 @@
     --font-mono: "Courier New", Courier, monospace;
 
     --wrap: 1010px;
-    --scroll-h: 560px;
+    --scroll-h: clamp(300px, 62vh, 520px);
 }
 
 *,
@@ -363,6 +363,7 @@ kbd {
 .scrollbox {
     max-height: var(--scroll-h);
     overflow-y: auto;
+    scrollbar-gutter: stable;
     border: 1px solid var(--or-line);
     background: var(--or-ground);
     padding: 4px 16px;
