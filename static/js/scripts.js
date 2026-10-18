@@ -38,6 +38,10 @@ window.addEventListener('DOMContentLoaded', () => {
             .then(r => r.text())
             .then(md => {
                 const el = document.getElementById(name + '-md');
+                if (name === 'activities') {
+                    window.__activitiesRaw = md;
+                    window.dispatchEvent(new CustomEvent('activities:loaded', { detail: md }));
+                }
                 // Publications use a custom delimited format with * / # author markers
                 // that marked.js would mangle — keep the raw text and render it ourselves.
                 if (name === 'publications') {
@@ -48,7 +52,10 @@ window.addEventListener('DOMContentLoaded', () => {
                 }
             })
             .then(() => safe(() => enhance(name)))
-            .catch(e => console.log(name, e))
+            .catch(e => {
+                if (name === 'activities') window.dispatchEvent(new Event('activities:error'));
+                console.log(name, e);
+            })
     );
 
     Promise.allSettled(jobs).then(() => {

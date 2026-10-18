@@ -20,6 +20,8 @@
         rel="stylesheet" />
 
     <link type="text/css" href="static/css/main.css" rel="stylesheet" />
+    <link type="text/css" href="static/css/journey.css" rel="stylesheet" />
+    <script defer src="static/js/journey.js"></script>
 
     <script type="text/javascript" src="static/js/marked.min.js"></script>
 
@@ -214,10 +216,14 @@
                     <h2 class="section-h">Activities</h2>
                 </div>
             </div>
-            <div class="scrollbox">
-                <div class="main-body feed" id="activities-md"></div>
-            </div>
-            <p class="scrollbox-note">Scroll within the box · complete history</p>
+            <div class="journey" id="activity-journey" aria-label="Research journey map"><p class="journey-loading">Opening the activity atlas…</p></div>
+            <details class="journey-archive">
+                <summary>Activity archive <span>View the complete chronological list</span></summary>
+                <div class="scrollbox">
+                    <div class="main-body feed" id="activities-md"></div>
+                </div>
+                <p class="scrollbox-note">Scroll within the box · complete history</p>
+            </details>
         </div>
     </section>
 
