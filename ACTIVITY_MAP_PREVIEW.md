@@ -1,6 +1,6 @@
-# Activities 地图 · 本地实验
+# Activities 地图 · 维护说明
 
-本地分支：`codex/activities-map-preview`。本次未推送、未修改线上主页。
+开发分支：`codex/activities-map-preview`。用户已于 2026-10-18 确认采用当前版本，合并至 `main` 发布。
 
 ## 查看
 
@@ -30,7 +30,7 @@
 - `static/js/scripts.js`：把已读取的 Activities 文本交给地图，避免重复请求。
 - `static/vendor/`、`static/data/`：D3、TopoJSON 与 Natural Earth 地图数据及许可。
 
-图库与地图依赖均在本地。接近 Activities 区域才加载约 334 KB 的库与地理数据；不依赖地图瓦片服务或 API key。6 个 Drive 文件已经迁移为仓库文件，链接在本地预览中更新。图片文件单独上传到 `codex/activity-photo-assets` 分支，网站改动仍不上线。
+图库与地图依赖均在本地。接近 Activities 区域才加载约 334 KB 的库与地理数据；不依赖地图瓦片服务或 API key。6 个 Drive 文件已经迁移为仓库文件。图片曾单独上传到 `codex/activity-photo-assets` 分支，现随地图与链接一并纳入主分支发布。
 
 ## 已验证
 
@@ -47,4 +47,4 @@
 
 ## 路线与范围修正
 
-用户确认所有行程均由北京出发。地图已改为北京出发的放射状路线，并固定标记北京 home base；同一目的地的多次活动共用路线，时间线保留每条记录。北京本地活动只突出北京节点。撤回此前给 Invited Talks、Funding、Service、Reading、People 新增的滚动框和其他栏目的高度改动，固定滚动仅用于地图文字详情区。以上更新仍仅保存在本地。
+用户确认所有行程均由北京出发。地图已改为北京出发的放射状路线，并固定标记北京 home base；同一目的地的多次活动共用路线，时间线保留每条记录。北京本地活动只突出北京节点。撤回此前给 Invited Talks、Funding、Service、Reading、People 新增的滚动框和其他栏目的高度改动，固定滚动仅用于地图文字详情区。上述版本经用户确认后发布。

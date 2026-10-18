@@ -24,7 +24,7 @@
 
 6 个公开 Drive 文件均已下载：5 张会议照片与 1 份 BEIHAI 证书 PDF。照片原件保留在工作区的“云盘照片原件”目录；网页使用最长边 2400 像素的 JPEG 副本。原标为 Photo 的 BEIHAI 文件确认是 PDF，因此更名为 Certificate 链接。
 
-网站内容、地图和链接改动仍留在本地实验分支。图片文件另行上传到 `codex/activity-photo-assets` 分支，不触发 main 分支的网站发布。
+图片最初单独上传到 `codex/activity-photo-assets` 分支。用户于 2026-10-18 确认采用当前地图版本，网站内容、地图与资源链接一并合入 `main` 发布。
 
 ## 出发地
 
