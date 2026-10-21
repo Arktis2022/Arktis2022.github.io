@@ -9,6 +9,7 @@
 - Engineering Applications of Artificial Intelligence
 - IEEE Transactions on Cognitive and Developmental Systems
 - IEEE Transactions on Human-Machine Systems
+- Intelligence-Based Medicine
 - Neural Networks
 - Neurocomputing
 - Pattern Recognition
