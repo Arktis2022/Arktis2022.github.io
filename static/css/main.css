@@ -730,6 +730,14 @@ kbd {
 }
 
 /* ---------- Talks / funding ---------- */
+#funding .plain-row {
+    grid-template-columns: 88px minmax(0, 1fr) auto;
+}
+
+#funding .plain-row .yr {
+    white-space: nowrap;
+}
+
 .talk-row,
 .plain-row {
     display: grid;

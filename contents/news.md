@@ -1,3 +1,5 @@
+**2026.10.21:** Selected for the [Young Science and Technology Scientists Sponsorship Program by CAST - Doctoral Student Special Plan](https://www.cogsci.org.cn/news/n098.shtml), on the recommendation of the [Chinese Society for Cognitive Science](https://www.cogsci.org.cn/), for a two-year sponsorship (2026–2028).
+
 **2026.10.08:** One paper accepted by [Imaging Neuroscience](https://direct.mit.edu/imag).
 
 **2026.10.05:** One paper accepted by [Nature Communications](https://www.nature.com/ncomms/).
