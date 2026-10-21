@@ -1,3 +1,3 @@
-- *2026–2028* [Young Science and Technology Scientists Sponsorship Program by CAST - Doctoral Student Special Plan](https://www.cogsci.org.cn/news/n098.shtml) — Two-year sponsorship; recommended by the [Chinese Society for Cognitive Science](https://www.cogsci.org.cn/).
-- *2024* Beijing Natural Science Foundation Undergraduate “Qiyan” Program
-- *2023* National College Student Innovation and Entrepreneurship Project
+- *2026–2028* [Young Science and Technology Scientists Sponsorship Program by CAST - Doctoral Student Special Plan](https://www.cogsci.org.cn/news/n098.shtml)
+- *2024–2026* Beijing Natural Science Foundation Undergraduate “Qiyan” Program
+- *2023–2024* National College Student Innovation and Entrepreneurship Project
