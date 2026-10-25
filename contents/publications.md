@@ -1,7 +1,7 @@
 
 #### JOURNAL PAPERS  <!--SHOW-->
 - SRNR: Deep learning-based MRI Super-Resolution using Noisy high-resolution Reference data ||| M. Zhang#, H. Yang#, Z. Li, J. Xiao, W. Liu, Y. He, T. Yin, J. Zheng, M. Liu, W. Liu, C. Liao, B. Bilgic, J. R. Polimeni, S. Y. Huang, Y. Liao, Z. Li*, H. Qu*, and Q. Tian* ||| Imaging Neuroscience ||| 2026 |||  ||| [Paper](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1433/139398/SRNR-Deep-learning-based-MRI-Super-Resolution) [Code](https://github.com/birthlab/SRNR) ||| bib_srnr2026
-- A lightweight portable ultrasound robot for autonomous liver sonography ||| Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, M. Liu, S. Xin, L. Liu, H. Liao*, and G. Ning* ||| Nature Communications |||  ||| Accepted |||  |||
+- A lightweight portable ultrasound robot for autonomous liver sonography ||| Z. Li#, Y. Xu#, L. Zhang, T. Han, X. Yang, Y. Wang, M. Liu, S. Xin, L. Liu, H. Liao*, and G. Ning* ||| Nature Communications ||| 2026 |||  ||| [Paper](https://www.nature.com/articles/s41467-026-79007-5) ||| bib_ncomms2026_ultrasound
 - Multicenter Validation of Machine Learning Models for Predicting Myopia Progression Across School-Based Screening and Optical Intervention Settings in Chinese Children and Adolescents ||| Y. Zhang#, M. Liu#, Y. Chen#, Y. Wu*, L. Zhang, M. Guo, Y. Yan, R. Wei, Z. Cui, P. Luo, F. Chen, B. Yang, Y. Han, X. Liu, and Q. Tian* ||| Advanced Intelligent Discovery ||| 2026 ||| ||| [Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aidi.70165) [Code](https://github.com/sirichen2/MyoAI) ||| bib_aidi2026
 - Improving the accessibility of deep learning-based denoising for accelerated brain MRI using self-supervised learning and/or transfer learning ||| Z. Li#, Z. Li#, M. Liu#, W.-C. Lo, F. Jia, Y. Luo, H. Lee, B. Bilgic, J. R. Polimeni, H. Qu*, Q. Tian*, and S. Y. Huang ||| NeuroImage ||| 2026 ||| ||| [Paper](https://www.sciencedirect.com/science/article/pii/S1053811926005252) [Code](https://github.com/birthlab/Self2Self-AM) ||| bib_S2SAM
 - PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI ||| Y. Hao#, M. Liu#, J. Zhu#, H. Yang, H. Li, M. Kang, Y. Song, H. Lai, X. Zhou, G. Ning, Y. Liao, H. Qu*, and Q. Tian* ||| Imaging Neuroscience ||| 2026 |||  ||| [Paper](https://doi.org/10.1162/IMAG.a.1293) [Code](https://github.com/birthlab/PANDA) ||| bib_imag2026_2
@@ -133,6 +133,18 @@
 - Residual-Offset Diffusion for Structure-Consistent Low-Dose PET Reconstruction ||| E. Bao#, Y. Chen#, S. Tang, B. Wu, G. Zhou, M. Liu, K. Anmahapong, Z. Wang, F. Qin*, L. Xiang, J. He, and Q. Tian* ||| International Conference on Medical Image Computing and Computer Assisted Intervention |||  ||| Under Review |||  ||| 
 
 <div style="display:none" id="bib-store">
+
+<div id="bib_ncomms2026_ultrasound" style="display: none;">
+@article{li2026ultrasound,
+  author = {Li, Zihan and Xu, Yixiao and Zhang, Lei and Han, Taiyu and Yang, Xinshan and Wang, Yingni and Liu, Mingxuan and Xin, Shenghai and Liu, Linxun and Liao, Hongen and Ning, Guochen},
+  title = {A lightweight portable ultrasound robot for autonomous liver sonography},
+  journal = {Nature Communications},
+  year = {2026},
+  month = {10},
+  doi = {10.1038/s41467-026-79007-5},
+  url = {https://www.nature.com/articles/s41467-026-79007-5}
+}
+</div>
 
 <div id="bib_srnr2026" style="display: none;">
 @article{zhang2026srnr,
