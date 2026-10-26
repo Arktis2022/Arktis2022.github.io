@@ -226,17 +226,24 @@ kbd {
     display: block;
 }
 
-/* Portrait: plain bordered photo, floated right */
+/* Transparent portrait, framed closely around the person. */
 .portrait {
     float: right;
-    width: 150px;
-    margin: 4px 0 12px 2em;
+    position: relative;
+    width: 165px;
+    aspect-ratio: 1102 / 1427;
+    overflow: hidden;
+    margin: -18px 0 12px 1.5em;
 }
 
 .portrait img {
-    width: 100%;
+    position: absolute;
+    width: 125%;
+    max-width: none;
     height: auto;
-    border: 1px solid var(--or-line);
+    left: -24%;
+    top: -11%;
+    border: 0;
     display: block;
 }
 
@@ -1014,7 +1021,8 @@ kbd {
     }
 
     .portrait {
-        width: 110px;
+        width: 120px;
+        margin-top: 4px;
         margin-left: 14px;
     }
 

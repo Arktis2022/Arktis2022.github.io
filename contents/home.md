@@ -2,6 +2,6 @@ Mingxuan Liu is a third-year PhD student at the [School of Biomedical Engineerin
 
 His current work centers on **fetal and perinatal brain MRI** — one of the most data-scarce and clinically demanding domains in the field — with annotation-efficient methods designed to transfer broadly. He is now extending this toward **medical foundation models and agentic AI** that researchers and clinicians can trust.
 
-**Research interests:** AI for Neuroscience · Trustworthy Medical Foundation Models & Agentic AI · Annotation-Efficient Adaptation
+**Research interests:** AI for Neuroscience · Foundation Models · Agentic AI · Annotation-Efficient Training
 
 [Google scholar](https://scholar.google.com/citations?user=8VyGtD0AAAAJ&hl=en) / [Github](https://github.com/Arktis2022) / [Wechat](contents/image/ibb_gMGVMJnN.jpg)
