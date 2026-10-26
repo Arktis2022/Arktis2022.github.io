@@ -3,6 +3,7 @@
 (() => {
     'use strict';
     const PLACES = [
+        ['xian', "Xi'an", 'China', 108.9398, 34.3416, /\bin Xi['’]an\b/i],
         ['changji', 'Changji', 'China', 87.3082, 44.0112, /\bin Changji\b/i],
         ['suzhou', 'Suzhou', 'China', 120.5853, 31.2989, /\bin Suzhou\b/i],
         ['bangkok', 'Bangkok', 'Thailand', 100.5018, 13.7563, /\bin Bangkok\b/i],
