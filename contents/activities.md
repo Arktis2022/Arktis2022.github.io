@@ -1,3 +1,4 @@
+- *2026.10.31*, Attended the [2nd National Conference on Analytical Science and Instrumentation (NCASI 2026)](https://mp.weixin.qq.com/s/IPHIEWBvms2eBqhzwZOaOA) in Wuhan, China. [Photo](contents/image/ncasi-2026-wuhan.jpg) <!-- place:wuhan -->
 - *2026.10.23*, Attended the 2026 Annual Meeting of the Magnetic Resonance Imaging Branch of the Chinese Society for Stereology in Xi'an, China. [Photo](contents/image/css-mri-2026-xian.jpg) <!-- place:xian -->
 - *2026.09.11*, Attended the European Conference on Computer Vision (ECCV 2026) in Malmö, Sweden. [Photo](contents/image/eccv.jpg)
 - *2026.08.08*, Attended the [2026 International Conference on Smart Health and Intelligent Medicine: Innovation and Development](https://mm.sciconf.cn/cn/minisite/index/36331). [Photo](contents/image/ibb_sdR7pcYs.jpg) <!-- place:changji -->

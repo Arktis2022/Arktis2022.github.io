@@ -3,6 +3,7 @@
 (() => {
     'use strict';
     const PLACES = [
+        ['wuhan', 'Wuhan', 'China', 114.3055, 30.5928, /\bin Wuhan\b/i],
         ['xian', "Xi'an", 'China', 108.9398, 34.3416, /\bin Xi['’]an\b/i],
         ['changji', 'Changji', 'China', 87.3082, 44.0112, /\bin Changji\b/i],
         ['suzhou', 'Suzhou', 'China', 120.5853, 31.2989, /\bin Suzhou\b/i],
@@ -39,7 +40,7 @@
         if (/Presented our work to Rupa Sarkar/.test(text)) return 'Discussion with Rupa Sarkar';
         if (/Center for Biomedical Imaging Research/.test(text)) return 'CBIR Annual Retreat';
         if (/BME 2026/.test(text)) return 'BME 2026';
-        const match = text.match(/\b(ECCV|MICCAI|MIDL|OHBM|ISMRM|ICLR|BMVC|ICASSP|OCSMRM|MICS|AIM|CASFIS|CCR|IEEE ASYNC|ISICDM)\b(?:\s+(20\d{2}))?/);
+        const match = text.match(/\b(NCASI|ECCV|MICCAI|MIDL|OHBM|ISMRM|ICLR|BMVC|ICASSP|OCSMRM|MICS|AIM|CASFIS|CCR|IEEE ASYNC|ISICDM)\b(?:\s+(20\d{2}))?/);
         if (match) return match[0];
         if (/Nanyang Technological University/.test(text)) return 'Visit to NTU';
         return text.replace(/^(Attended|Presented|Won|Reached)\s+(the\s+)?/i, '').split(/[.;]/)[0];

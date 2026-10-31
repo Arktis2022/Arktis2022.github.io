@@ -1,3 +1,5 @@
+**2026.10.31:** Attended the [2nd National Conference on Analytical Science and Instrumentation (NCASI 2026)](https://mp.weixin.qq.com/s/IPHIEWBvms2eBqhzwZOaOA) in Wuhan, China. [Photo](contents/image/ncasi-2026-wuhan.jpg)
+
 **2026.10.23:** Attended the [2026 Annual Meeting of the Magnetic Resonance Imaging Branch of the Chinese Society for Stereology](https://tscss.kejie.org.cn/meeting/MRI2026/) in Xi'an, China. [Photo](contents/image/css-mri-2026-xian.jpg)
 
 **2026.10.21:** Selected for the [Young Science and Technology Scientists Sponsorship Program by CAST - Doctoral Student Special Plan](https://www.cogsci.org.cn/news/n098.shtml), on the recommendation of the [Chinese Society for Cognitive Science](https://www.cogsci.org.cn/), for a two-year sponsorship (2026–2028).
