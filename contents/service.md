@@ -7,6 +7,7 @@
 - Applied Intelligence
 - Biomedical Signal Processing and Control
 - Engineering Applications of Artificial Intelligence
+- Frontiers in Medicine
 - IEEE Transactions on Cognitive and Developmental Systems
 - IEEE Transactions on Human-Machine Systems
 - Intelligence-Based Medicine
