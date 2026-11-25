@@ -1,3 +1,5 @@
+**2026.11.25:** EXACT was accepted for publication in [npj Digital Medicine](https://www.nature.com/npjdigitalmed/).
+
 **2026.10.31:** Attended the [2nd National Conference on Analytical Science and Instrumentation (NCASI 2026)](https://mp.weixin.qq.com/s/IPHIEWBvms2eBqhzwZOaOA) in Wuhan, China. [Photo](contents/image/ncasi-2026-wuhan.jpg)
 
 **2026.10.23:** Attended the [2026 Annual Meeting of the Magnetic Resonance Imaging Branch of the Chinese Society for Stereology](https://tscss.kejie.org.cn/meeting/MRI2026/) in Xi'an, China. [Photo](contents/image/css-mri-2026-xian.jpg)
